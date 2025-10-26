@@ -48,10 +48,8 @@ Rozpoczynając od **Kopalni Węgla**, gracz automatycznie produkuje surowce, kt�
 
 ## Zrzuty Ekranu
 
-### Ekran Wydobycia
-```
-placeholder
-```
+### Wstępny Projekt Interfejsu Graficznego
+![wydobycie_podglad](docs/wydobycie_podglad.png)
 
 ### Wykres Symulacji (Python)
 ![placeholder](placeholder.png)
