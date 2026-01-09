@@ -1,0 +1,1525 @@
+{
+  "elements": [
+    {
+      "symbol": "H",
+      "name": "WODÓR",
+      "atomicNumber": 1,
+      "miningReason": "Wodór wydobywa się z gazu ziemnego metodą reformingu parowego, gdzie metan reaguje z parą wodną w temperaturze 800-900°C. Proces wytwarza wodór i dwutlenek węgla. Gazy są separowane, a wodór oczyszczany do czystości przemysłowej (np. poprzez adsorpcję zmiennociśnieniową PSA).",
+      "facts": [
+        "Wodór jest najlżejszym pierwiastkiem w przyrodzie i ma najwyższą zawartość energii na jednostkę masy (120 MJ/kg) spośród wszystkich paliw.",
+        "Około 96% światowej produkcji wodoru (ok. 70 mln ton rocznie) pochodzi z paliw kopalnych: ropy naftowej, gazu ziemnego lub węgla.",
+        "Wodór wytwarzany z gazu ziemnego (tzw. szary wodór) ma ślad węglowy około 11 kg CO2/kg H2, co stanowi znaczące obciążenie dla klimatu.",
+        "Wodór jest kluczowym paliwem przyszłości dla pojazdów z ogniwami paliwowymi (FCEV) w motoryzacji i logistyce.",
+        "Elektroliza wody zasilana energią odnawialną staje się coraz bardziej konkurencyjna ekonomicznie dla produkcji \"zielonego wodoru\"."
+      ]
+    },
+    {
+      "symbol": "He",
+      "name": "HEL",
+      "atomicNumber": 2,
+      "miningReason": "Hel wydobywa się z gazu ziemnego metodą skraplania i separacji kriogenicznej w niskich temperaturach. Gaz zawierający hel jest najpierw oddzielany od metanu i innych gazów, a następnie oczyszczany do czystości przemysłowej (99,999%).",
+      "facts": [
+        "Hel jest drugim najlżejszym pierwiastkiem w przyrodzie po wodorze i najrzadszym gazem szlachetnym na Ziemi.",
+        "Hel stanowi zaledwie 0,0005% powietrza atmosferycznego, co powoduje jego deficyt na globalnym rynku mimo dużego popytu.",
+        "Zakład w Odolanowie jest jednym z kluczowych producentów helu w Europie, przetwarzającym lokalne złoża gazu ziemnego bogate w ten pierwiastek.",
+        "Prawie cały hel pozyskiwany na skalę przemysłową pochodzi z gazu ziemnego, co czyni te złoża surowcem strategicznym.",
+        "Hel ma najniższy punkt wrzenia spośród wszystkich substancji (-268,93°C) i jest niezbędny dla technologii kriogenicznych, NMR i akceleratorów cząstek."
+      ]
+    },
+    {
+      "symbol": "Li",
+      "name": "LIT",
+      "atomicNumber": 3,
+      "miningReason": "Lit pozyskuje się głównie z solanek (np. w Andach) poprzez ich zagęszczanie i odparowywanie na słońcu, aż do krystalizacji węglanu litu. Czysty metal otrzymuje się w procesie elektrolizy stopionej mieszaniny chlorku litu (LiCl) i chlorku potasu (KCl) w temperaturze ok. 450°C.",
+      "facts": [
+        "Jest najlżejszym ze wszystkich metali (gęstość 0,53 g/cm³). Unosi się na wodzie (i nafcie), jednocześnie gwałtownie z nią reagując.",
+        "Lit ma ogromne znaczenie we współczesnej elektronice – akumulatory litowo-jonowe zasilają większość urządzeń przenośnych i pojazdów elektrycznych.",
+        "Węglan litu jest skutecznym lekiem stabilizującym nastrój, stosowanym od połowy XX wieku w leczeniu choroby afektywnej dwubiegunowej.",
+        "Mimo że jest metalem alkalicznym, w przeciwieństwie do sodu czy potasu, spala się karminowoczerwonym płomieniem.",
+        "Uważa się, że lit (obok wodoru i helu) jest jednym z trzech pierwiastków, które powstały bezpośrednio w Wielkim Wybuchu."
+      ]
+    },
+    {
+      "symbol": "Be",
+      "name": "BERYL",
+      "atomicNumber": 4,
+      "miningReason": "Beryl wydobywa się głównie z bertrandytu i minerału beryl (np. szmaragd, akwamaryn) metodą odkrywkową. Ruda jest kruszona i poddawana procesowi ługowania kwasem siarkowym w podwyższonej temperaturze, co pozwala na rozpuszczenie berylu do siarczanu berylu. Z roztworu wytrąca się wodorotlenek berylu Be(OH)2, który następnie przetwarza się w fluorek berylu (BeF2). Czysty metaliczny beryl uzyskuje się poprzez redukcję fluorku berylu magnezem w piecach grafitowych w temperaturze ok. 1300°C. Powstałe \"kamyki\" berylowe są przetapiane w próżni.",
+      "facts": [
+        "Beryl jest jednym z najlżejszych metali konstrukcyjnych (gęstość 1,85 g/cm³), a jednocześnie jest niezwykle sztywny (moduł Younga wyższy niż stali) i przezroczysty dla promieniowania rentgenowskiego. Dlatego wykonuje się z niego okienka do lamp rentgenowskich.",
+        "Kosmiczny Teleskop Jamesa Webba posiada zwierciadła wykonane z berylu pokrytego cienką warstwą złota. Wybrano beryl, ponieważ zachowuje stabilność kształtu w ekstremalnie niskich temperaturach kosmosu (ok. -220°C).",
+        "Beryl i jego związki są silnie toksyczne i rakotwórcze. Wdychanie pyłu berylowego prowadzi do przewlekłej, nieuleczalnej choroby płuc zwanej berylozą. Praca z tym metalem wymaga rygorystycznych środków ochrony.",
+        "Odkrycie berylu wiąże się z kamieniami szlachetnymi. W 1798 roku Louis Nicolas Vauquelin udowodnił, że szmaragd i beryl są chemicznie identyczne i zawierają nowy pierwiastek. Początkowo nazwano go \"glucinium\" (od słodkiego smaku jego soli), ale nazwę zmieniono ze względu na toksyczność.",
+        "Beryl jest doskonałym moderatorem i reflektorem neutronów, dlatego znajduje zastosowanie w reaktorach jądrowych oraz w broni nuklearnej. Zmieszany z polonem lub radem stanowi źródło neutronów do inicjowania reakcji łańcuchowej."
+      ]
+    },
+    {
+      "symbol": "B",
+      "name": "BOR",
+      "atomicNumber": 5,
+      "miningReason": "Bor pozyskuje się z minerałów boranowych (np. boraksu, kernitu), które ługuje się gorącą wodą, a następnie krystalizuje jako kwas borowy. Czysty, krystaliczny bor otrzymuje się przez redukcję bromku lub chlorku boru wodorem na rozżarzonym drucie tantalowym (metoda van Arkela-de Boera) lub redukcję tlenku magnezem.",
+      "facts": [
+        "Jest półmetalem o niezwykłej twardości (9,5 w skali Mohsa), ustępującym pod tym względem jedynie diamentowi i nielicznym materiałom syntetycznym.",
+        "Szkło borokrzemowe (np. Pyrex) dzięki zawartości tlenku boru jest odporne na szok termiczny i powszechnie używane w laboratoriach oraz kuchniach.",
+        "Bor-10 świetnie pochłania neutrony, dlatego pręty sterujące w reaktorach jądrowych często zawierają węglik boru.",
+        "Związki boru barwią płomień na intensywny, zielony kolor.",
+        "Jest niezbędnym mikroelementem dla roślin (budowa ścian komórkowych), ale granica między dawką niezbędną a toksyczną jest bardzo cienka."
+      ]
+    },
+    {
+      "symbol": "C",
+      "name": "WĘGIEL",
+      "atomicNumber": 6,
+      "miningReason": "Węgiel jest wydobywany metodą odkrywkową lub głębinową z podziemnych złóż w zależności od głębokości zalegania. Górnicy pracują w podziemnych korytarzach na głębokości do 1000 metrów, gdzie węgiel jest odrywany za pomocą maszyn i transportowany na powierzchnię.",
+      "facts": [
+        "Węgiel powstał ze szczątków roślinnych około 300 milionów lat temu, tworząc bogate złoża energetyczne zaspokajające potrzeby światowego przemysłu.",
+        "Polska wydobywa rocznie około 70 milionów ton węgla, głównie na Śląsku, co czyni ją jednym z największych producentów w Europie.",
+        "Węgiel zawiera mikroelementy takie jak german, które są odzyskiwane ze spalin w elektrowniach.",
+        "Proces wydobywania węgla generuje około 15-20% odpadów w postaci skały płonnej, która musi być składowana lub przetwarzana.",
+        "Współczesne kopalnie wykorzystują systemy IoT i drony do monitorowania bezpieczeństwa górników i efektywności wydobycia."
+      ]
+    },
+    {
+      "symbol": "N",
+      "name": "AZOT",
+      "atomicNumber": 7,
+      "miningReason": "Azot pozyskuje się z powietrza metodą frakcyjnej destylacji ciekłego powietrza, gdzie stanowi frakcję o najniższej temperaturze wrzenia spośród głównych składników. Jako składnik stanowiący 78% atmosfery, jest najłatwiej dostępnym gazem przemysłowym.",
+      "facts": [
+        "Azot jest kluczowym pierwiastkiem biogennym, wchodzącym w skład aminokwasów (białek) i kwasów nukleinowych (DNA, RNA) wszystkich organizmów.",
+        "Choć jest niezbędny do życia, azot atmosferyczny (N2) jest chemicznie bierny i większość organizmów nie potrafi go przyswajać bezpośrednio z powietrza.",
+        "Ciekły azot (wrzący w -196°C) jest powszechnie stosowany jako czynnik chłodzący w kriogenice (np. do krioterapii, przechowywania materiału biologicznego, mrożenia żywności).",
+        "Metoda Habera i Boscha, pozwalająca na syntezę amoniaku z azotu atmosferycznego, jest podstawą produkcji nawozów sztucznych, od których zależy wyżywienie połowy ludzkości.",
+        "Gazowy azot wykorzystuje się do tworzenia atmosfery ochronnej przy pakowaniu żywności (zapobiega psuciu) oraz w przemyśle elektronicznym."
+      ]
+    },
+    {
+      "symbol": "O",
+      "name": "TLEN",
+      "atomicNumber": 8,
+      "miningReason": "Tlen pozyskuje się z powietrza metodą frakcyjnej destylacji ciekłego powietrza. Stanowi on około 21% objętości atmosfery i jest głównym produktem separacji powietrza obok azotu i argonu.",
+      "facts": [
+        "Tlen jest najpowszechniejszym pierwiastkiem w skorupie ziemskiej (ok. 46% masy) oraz głównym składnikiem oceanów (ok. 89% masy wody).",
+        "Jest niezbędny do oddychania aerobowego większości organizmów na Ziemi, stanowiąc fundament życia.",
+        "Ciekły tlen (LOX) jest silnym utleniaczem stosowanym w napędach rakietowych (np. w rakietach Saturn V czy Falcon 9).",
+        "Ma temperaturę wrzenia -183°C; w postaci ciekłej jest magazynowany i transportowany do szpitali (tlen medyczny) oraz zakładów przemysłowych.",
+        "W przemyśle hutniczym tlen wykorzystuje się do procesu świeżenia stali (usuwania węgla z surówki) w konwertorach tlenowych."
+      ]
+    },
+    {
+      "symbol": "F",
+      "name": "FLUOR",
+      "atomicNumber": 9,
+      "miningReason": "Fluor wydobywa się z fluorytu (fluorku wapnia CaF2) metodą wydobycia odkrywkowego lub podziemnego. Minerał jest kruszony, mielony i poddawany flotacji w celu uzyskania \"szpatu kwasowego\" (acidspar) o wysokiej czystości (>97%). Fluoryt reaguje ze stężonym kwasem siarkowym w piecach obrotowych w temperaturze ok. 300°C, wytwarzając fluorowodór (HF) i gips (siarczan wapnia). Czysty fluor (F2) otrzymuje się następnie wyłącznie metodą elektrolizy bezwodnego fluorowodoru z dodatkiem fluorku potasu (KHF2) w temperaturze ok. 80-100°C (proces Moissana), ponieważ fluor jest zbyt reaktywny, by uzyskać go metodami chemicznymi.",
+      "facts": [
+        "Fluor jest najaktywniejszym chemicznie pierwiastkiem – ma najwyższą elektroujemność (4.0 w skali Paulinga) i reaguje z niemal wszystkimi pierwiastkami, nawet z niektórymi gazami szlachetnymi (ksenon, krypton, radon).",
+        "Fluor jest niezbędny w śladowych ilościach dla zdrowia zębów – jony fluorkowe wbudowują się w szkliwo (tworząc fluoroapatyt), co czyni je bardziej odpornym na działanie kwasów produkowanych przez bakterie próchnicotwórcze. Nadmiar fluoru jest jednak szkodliwy (fluoroza).",
+        "Fluor jest kluczowym składnikiem wielu nowoczesnych materiałów – teflon (PTFE) to polimer fluoru i węgla, niezwykle odporny chemicznie i termicznie. Fluor jest też składnikiem freonów (chłodziw), choć wiele z nich wycofano ze względu na niszczenie warstwy ozonowej.",
+        "Historia izolacji fluoru była niebezpieczna – wielu XIX-wiecznych chemików (\"męczenników fluoru\") doznało poważnych obrażeń lub zmarło próbując wyizolować ten pierwiastek. Dokonał tego dopiero Henri Moissan w 1886 roku, za co otrzymał Nagrodę Nobla.",
+        "Fluor jest wykorzystywany do wzbogacania uranu – w procesie produkcji paliwa jądrowego uran przekształca się w lotny heksafluorek uranu (UF6), który następnie jest poddawany wirowaniu w celu rozdzielenia izotopów U-235 i U-238."
+      ]
+    },
+    {
+      "symbol": "Ne",
+      "name": "NEON",
+      "atomicNumber": 10,
+      "miningReason": "Neon wydobywa się z powietrza metodą frakcyjnej destylacji, gdzie gromadzi się w frakcji gazów n nieskraplających się łatwo w typowych temperaturach kriogenicznych (obok helu). Do jego oddzielenia od helu wykorzystuje się adsorpcję na węglu aktywnym w niskich temperaturach.",
+      "facts": [
+        "Neon stanowi około 0,0018% powietrza atmosferycznego. Mimo że jest piątym co do częstości występowania pierwiastkiem we Wszechświecie, na Ziemi jest rzadki.",
+        "W lampach wyładowczych (tzw. neonach) świeci charakterystycznym, jaskrawym, pomarańczowo-czerwonym światłem. Inne kolory \"neonów\" uzyskuje się z innych gazów lub luminoforów.",
+        "Ma temperaturę wrzenia -246,05°C, a jego wydajność chłodnicza w stanie ciekłym jest 40 razy wyższa niż ciekłego helu (objętościowo).",
+        "Jest kluczowym składnikiem w laserach helowo-neonowych (He-Ne), powszechnie stosowanych w laboratoriach, skanerach kodów kreskowych i poziomicach laserowych.",
+        "Neon powstaje głównie w gwiazdach o dużej masie w procesie fuzji jądrowej węgla, a na Ziemi jest gazem pierwotnym, który przetrwał od czasu formowania planety."
+      ]
+    },
+    {
+      "symbol": "Na",
+      "name": "SÓD",
+      "atomicNumber": 11,
+      "miningReason": "Metaliczny sód otrzymuje się przez elektrolizę stopionego chlorku sodu (z dodatkiem chlorku wapnia dla obniżenia temperatury topnienia) w komorach Downsa. Sód wydziela się na katodzie w stanie ciekłym i – jako lżejszy od elektrolitu – wypływa na powierzchnię, gdzie jest zbierany.",
+      "facts": [
+        "Sód jest szóstym najpowszechniejszym pierwiastkiem w skorupie ziemskiej; najznanyszym minerałem jest halit (sól kamienna, NaCl).",
+        "Jest kluczowy dla fizjologii zwierząt i ludzi – jony sodu regulują ciśnienie osmotyczne płynów ustrojowych i są niezbędne do przesyłania impulsów nerwowych.",
+        "Czysty sód jest srebrzystym, miękkim metalem, który gwałtownie reaguje z wodą, tworząc żrący ług sodowy i wodór.",
+        "Lampy sodowe (emitujące charakterystyczne żółto-pomarańczowe światło) są powszechnie stosowane w oświetleniu ulicznym ze względu na wysoką wydajność energetyczną.",
+        "Ciekły sód, ze względu na świetne przewodnictwo cieplne i szeroki zakres temperatur pracy, stosowany jest jako chłodziwo w niektórych reaktorach jądrowych (reaktory prędkie)."
+      ]
+    },
+    {
+      "symbol": "Mg",
+      "name": "MAGNEZ",
+      "atomicNumber": 12,
+      "miningReason": "Magnez pozyskuje się na dużą skalę z wody morskiej (gdzie wytrąca się go jako wodorotlenek) oraz z minerałów takich jak dolomit czy magnezyt. Metaliczny magnez otrzymuje się w procesie elektrolizy stopionego chlorku magnezu lub metodą redukcji termicznej tlenku magnezu krzemem (proces Pidgeona).",
+      "facts": [
+        "Jest metalem lżejszym od aluminium o ponad 30%, co czyni jego stopy idealnym materiałem w lotnictwie, motoryzacji i elektronice (np. obudowy laptopów).",
+        "Magnez znajduje się w centrum cząsteczki chlorofilu, pełniąc w fotosyntezie roślin rolę analogiczną do żelaza w hemoglobinie krwi.",
+        "W postaci wiórów lub pyłu magnez pali się oślepiająco jasnym, białym płomieniem, co wykorzystywano dawniej w fotograficznych lampach błyskowych (magnezja).",
+        "Jest niezbędnym makroelementem dla człowieka – bierze udział w ponad 300 reakcjach enzymatycznych, w tym w syntezie ATP i pracy mięśni.",
+        "Tlenek magnezu (magnezja palona) jest doskonałym materiałem ogniotrwałym, stosowanym do wykładania pieców hutniczych."
+      ]
+    },
+    {
+      "symbol": "Al",
+      "name": "ALUMINIUM",
+      "atomicNumber": 13,
+      "miningReason": "Aluminium (glin) produkuje się z boksytów. W procesie Bayera uzyskuje się z nich czysty tlenek glinu (aluminę). Tlenek glinu poddaje się elektrolizie w stopionym kriolicie (proces Halla-Héroulta) w temperaturze ok. 950°C, uzyskując płynny metal.",
+      "facts": [
+        "Jest najpowszechniejszym metalem w skorupie ziemskiej (ok. 8%), ale ze względu na silne wiązania z tlenem, jego masowa produkcja stała się możliwa dopiero pod koniec XIX wieku.",
+        "Jest lekkie (trzykrotnie lżejsze od stali), wytrzymałe i odporne na korozję (dzięki warstwie tlenków), co czyni je kluczowym materiałem w lotnictwie i budownictwie.",
+        "Produkcja pierwotnego aluminium jest bardzo energochłonna (\"zamrożona elektryczność\"), dlatego huty buduje się często przy tanich źródłach energii (np. hydroelektrowniach).",
+        "Recykling aluminium zużywa zaledwie 5% energii potrzebnej do produkcji metalu z rudy, co czyni puszki aluminiowe jednym z najlepiej odzyskiwanych odpadów.",
+        "W XIX wieku aluminium było droższe od złota; na dworze Napoleona III najzacniejsi goście jadali na talerzach aluminiowych, a \"pośledniejsi\" na złotych."
+      ]
+    },
+    {
+      "symbol": "Si",
+      "name": "KRZEM",
+      "atomicNumber": 14,
+      "miningReason": "Krzem techniczny otrzymuje się poprzez redukcję kwarcu (SiO2) węglem (koksem) w piecach łukowych w temperaturze ok. 1900°C. Krzem o czystości półprzewodnikowej uzyskuje się w procesie Siemensa: surowy krzem przekształca się w lotne chlorosilany, oczyszcza je, a następnie rozkłada z powrotem do czystego krzemu na rozżarzonych prętach.",
+      "facts": [
+        "Krzem jest drugim (po tlenie) najpowszechniejszym pierwiastkiem w skorupie ziemskiej (ok. 27% masy), występującym głównie jako krzemionka (piasek, kwarc) i krzemiany.",
+        "Jest podstawą współczesnej elektroniki i fotowoltaiki – z czystego krzemu buduje się procesory, układy scalone i ogniwa słoneczne.",
+        "Dolina Krzemowa w Kalifornii zawdzięcza swoją nazwę właśnie temu pierwiastkowi, ze względu na koncentrację firm technologicznych.",
+        "Krzemionka (SiO2) jest głównym składnikiem szkła oraz ważnym materiałem budowlanym (piasek w betonie).",
+        "Choć krzem jest wszechobecny w skałach, organizmy żywe wykorzystują go rzadziej (głównie okrzemki, gąbki i niektóre rośliny, np. skrzypy, do budowy szkieletów)."
+      ]
+    },
+    {
+      "symbol": "P",
+      "name": "FOSFOR",
+      "atomicNumber": 15,
+      "miningReason": "Fosfor pozyskuje się z fosforytów i apatytów. W przemyśle większość surowca przetwarza się metodą mokrą (z kwasem siarkowym) na kwas fosforowy. Czysty fosfor biały otrzymuje się poprzez redukcję fosforytów koksem w obecności krzemionki w piecach elektrycznych w temperaturze ok. 1400°C.",
+      "facts": [
+        "Fosfor jest kluczowym składnikiem życia – buduje DNA, RNA, błony komórkowe (fosfolipidy) i jest nośnikiem energii w komórkach (ATP).",
+        "Fosfor biały jest silnie trujący i samozapalny w kontakcie z powietrzem (przechowuje się go pod wodą). Dawniej używano go do produkcji zapałek, co powodowało u robotników martwicę szczęki.",
+        "Około 90% wydobywanych fosforytów zużywa się do produkcji nawozów sztucznych, niezbędnych dla współczesnego rolnictwa.",
+        "Fosfor jest zasobem nieodnawialnym (\"szczyt fosforowy\"), a jego zasoby są nierównomiernie rozmieszczone (głównie w Maroku, Chinach i USA).",
+        "Nazwa pochodzi z greki (\"phosphoros\" – niosący światło), ponieważ biały fosfor emituje słabą poświatę w wyniku powolnego utleniania (chemiluminescencja)."
+      ]
+    },
+    {
+      "symbol": "S",
+      "name": "SIARKA",
+      "atomicNumber": 16,
+      "miningReason": "Siarka zawarta w węglu uwalnia się podczas spalania w postaci dwutlenku siarki (SO2) i jest wyłapywana przez systemy odsiarczania. Zawartość siarki w węglu wynosi 0,5-5% zależnie od złoża, co powoduje znaczne emisje dwutlenku siarki, jeśli nie zostaną przechwycone przez filtry i skrubery.",
+      "facts": [
+        "Spalanie węgla jest największym źródłem emisji SO2 do atmosfery, odpowiedzialnym za kwaśne deszcze, które niszczą ekosystemy i budynki.",
+        "Nowoczesne elektrownie odzyskują do 99% SO2 za pomocą wapienia (CaCO3), uzyskując gips jako wartościowy produkt uboczny dla budownictwa.",
+        "Siarka z węgla może być przetwarzana w kwas siarkowy, który jest kluczowym chemikaliem przemysłowym używanym w produkcji nawozów i akumulatorów.",
+        "Polska rocznie wydobywa i odzyskuje około 1 miliona ton siarki, głównie z rodzimych złóż oraz jako produkt uboczny odsiarczania paliw.",
+        "Przetworzenie SO2 na siarkę elementarną zmniejsza zanieczyszczenie powietrza i dostarcza cennego surowca, tworząc ekonomicznie opłacalny proces."
+      ]
+    },
+    {
+      "symbol": "Cl",
+      "name": "CHLOR",
+      "atomicNumber": 17,
+      "miningReason": "Chlor produkuje się na masową skalę w procesie elektrolizy wodnego roztworu chlorku sodu (solanki). Najnowocześniejszą metodą jest elektroliza membranowa, która pozwala na uzyskanie czystego chloru (na anodzie) i wodorotlenku sodu bez użycia szkodliwej rtęci.",
+      "facts": [
+        "Jest żółtozielonym gazem o ostrym, duszącym zapachu, cięższym od powietrza. Jego nazwa pochodzi od greckiego słowa \"chloros\" (zielonożółty).",
+        "Chlor był pierwszym gazem bojowym użytym na masową skalę podczas I wojny światowej (pod Ypres w 1915 roku).",
+        "Jest kluczowym surowcem w przemyśle chemicznym – służy do produkcji PCW (polichlorku winylu), jednego z najpopularniejszych tworzyw sztucznych (rury, okna, wykładziny).",
+        "Powszechnie stosuje się go do uzdatniania wody pitnej i dezynfekcji basenów, co drastycznie ograniczyło występowanie chorób przenoszonych drogą wodną (np. cholery).",
+        "W naturze chlor praktycznie nie występuje w stanie wolnym ze względu na wysoką reaktywność, ale jest głównym składnikiem soli morskiej (jako jon chlorkowy)."
+      ]
+    },
+    {
+      "symbol": "Ar",
+      "name": "ARGON",
+      "atomicNumber": 18,
+      "miningReason": "Argon wydobywa się z powietrza atmosferycznego metodą frakcyjnej destylacji ciekłego powietrza w temperaturze ok. -190°C. Powietrze jest najpierw skraplane, a następnie jego składniki są rozdzielane na podstawie różnic temperatur wrzenia w kolumnie destylacyjnej.",
+      "facts": [
+        "Argon jest trzecim najpowszechniejszym gazem w atmosferze Ziemi, stanowiącym około 0,93% powietrza, po azocie i tlenie.",
+        "Jest gazem szlachetnym (biernym chemicznie) i nie reaguje z innymi pierwiastkami w normalnych warunkach.",
+        "Wykorzystuje się go w spawaniu jako gaz osłonowy, chroniący spoinę metalową przed utlenianiem i poprawiający jakość połączenia.",
+        "Metoda frakcyjnej destylacji powietrza została opracowana w 1895 roku przez Carla von Linde, rewolucjonizując produkcję gazów przemysłowych.",
+        "Ziemski argon pochodzi głównie z rozpadu promieniotwórczego potasu-40 w skorupie ziemskiej, skąd uwalnia się do atmosfery."
+      ]
+    },
+    {
+      "symbol": "K",
+      "name": "POTAS",
+      "atomicNumber": 19,
+      "miningReason": "Potas pozyskuje się z soli potasowych (sylwinu, karnalitu). Przemysłowo metaliczny potas otrzymuje się głównie poprzez redukcję stopionego chlorku potasu (KCl) parami sodu w temperaturze 850°C. W procesie tym powstaje stop potasowo-sodowy lub czyste pary potasu, które są następnie skraplane i oddzielane.",
+      "facts": [
+        "Potas jest siódmym najpowszechniejszym pierwiastkiem w skorupie ziemskiej. Jego sole (potasz) były historycznie pozyskiwane z popiołu drzewnego.",
+        "Jest niezbędny do życia – jony potasu (pompa sodowo-potasowa) odpowiadają za generowanie potencjału elektrycznego w komórkach i przekazywanie impulsów nerwowych.",
+        "Izotop Potas-40 jest naturalnie promieniotwórczy i odpowiada za większość naturalnego promieniowania tła emitowanego przez ludzkie ciało.",
+        "Metaliczny potas jest bardzo miękki (można go kroić nożem) i gwałtownie reaguje z wodą, zapalając się fioletowym płomieniem.",
+        "Około 95% światowej produkcji potasu zużywa rolnictwo w postaci nawozów mineralnych, które są kluczowe dla wzrostu roślin."
+      ]
+    },
+    {
+      "symbol": "Ca",
+      "name": "WAPŃ",
+      "atomicNumber": 20,
+      "miningReason": "Wapń na skalę przemysłową otrzymuje się poprzez elektrolizę stopionego chlorku wapnia (CaCl2), uzyskiwanego zazwyczaj jako produkt uboczny w procesie Solvaya. Możliwa jest również metoda aluminotermiczna, polegająca na redukcji tlenku wapnia glinem w wysokiej temperaturze pod zmniejszonym ciśnieniem.",
+      "facts": [
+        "Jest piątym najpowszechniejszym pierwiastkiem w skorupie ziemskiej. Występuje w postaci ogromnych złóż skał osadowych: wapieni, kredy i marmurów.",
+        "Wapń jest podstawowym budulcem szkieletów i muszli organizmów. W ciele dorosłego człowieka znajduje się go ponad kilogram (głównie w kościach i zębach).",
+        "Związki wapnia są kluczowe w budownictwie – węglan wapnia jest surowcem do produkcji cementu i wapna palonego.",
+        "Czysty metaliczny wapń jest srebrzystobiały, ale szybko matowieje na powietrzu, pokrywając się warstwą tlenku i azotku.",
+        "Jony wapnia pełnią funkcję \"przekaźnika\" w komórkach, regulując skurcze mięśni, krzepnięcie krwi i wydzielanie hormonów."
+      ]
+    },
+    {
+      "symbol": "Sc",
+      "name": "SKAND",
+      "atomicNumber": 21,
+      "miningReason": "Skand jest rzadkim metalem przejściowym, często klasyfikowanym jako pierwiastek ziem rzadkich. Nie tworzy własnych złóż (poza rzadkim thortveitytem), lecz jest wydobywany jako produkt uboczny przy przetwarzaniu rud uranu, tytanu (ilmenit) czy wolframu. Proces otrzymywania skandu z odpadów po produkcji innych metali jest skomplikowany. Obejmuje ługowanie kwasami, ekstrakcję rozpuszczalnikową oraz strącanie szczawianu skandu. Metaliczny skand uzyskuje się poprzez redukcję fluorku skandu (ScF3) metalicznym wapniem (kalciotermia) w wysokiej temperaturze.",
+      "facts": [
+        "Skand ma kluczowe znaczenie dla lotnictwa (np. rosyjskie myśliwce MiG-29). Dodatek niewielkiej ilości skandu (0,1-0,5%) do stopów aluminium znacznie zwiększa ich wytrzymałość, odporność na korozję i spawalność. Stopy Al-Sc są używane w elementach konstrukcyjnych samolotów, rakiet oraz w wysokiej klasy ramach rowerowych i kijach baseballowych.",
+        "Istnienie skandu przewidział Dymitr Mendelejew w 1869 roku, nazywając go \"ekaborem\". Pierwiastek został odkryty 10 lat później przez Larsa Fredrika Nilsona w Skandynawii (stąd nazwa *Scandium*).",
+        "\"Stadionowe słońce\" – jodek skandu dodawany do lamp metalohalogenkowych (lampy rtęciowe wysokoprężne) modyfikuje ich widmo, sprawiając, że emitowane światło jest bardzo zbliżone do naturalnego światła słonecznego. Takie lampy stosuje się do oświetlania stadionów podczas transmisji telewizyjnych, aby zapewnić wierne oddawanie barw.",
+        "Skand jest droższy od złota w niektórych formach (czysty metal), ze względu na skomplikowany proces produkcji i rozproszenie w skorupie ziemskiej.",
+        "Mimo że jest technicznie \"ziemią rzadką\", w skorupie ziemskiej występuje częściej niż ołów, rtęć czy metale szlachetne. Problemem jest brak złóż, w których występowałby w dużym stężeniu (jest silnie rozproszony)."
+      ]
+    },
+    {
+      "symbol": "V",
+      "name": "WANAD",
+      "atomicNumber": 23,
+      "miningReason": "Wanad wydobywa się z rud wanadowych (np. magnetytu wanadowego) metodą wydobycia odkrywkowego lub podziemnego. Ruda jest kruszona i poddawana prażeniu z solami sodu (np. NaCl lub Na2CO3) w temperaturze około 850°C, co powoduje powstanie rozpuszczalnego w wodzie wanadanu sodu. Z roztworu po ługowaniu wytrąca się „czerwony placek” (poliwanadan amonu) lub inne związki, które praży się do pięciotlenku wanadu (V2O5). Czysty wanad metaliczny uzyskuje się zazwyczaj poprzez redukcję V2O5 wapniem (redukcja kalciotermiczna) lub aluminium (aluminotermia), uzyskując czystość rzędu 99,5-99,9%.",
+      "facts": [
+        "Wanad jest pierwiastkiem, którego głównym zastosowaniem jest hutnictwo – dodatek wanadu (żelazowanadu) do stali znacznie zwiększa jej twardość, wytrzymałość i odporność na ścieranie, co czyni go niezastąpionym w produkcji stali szybkotnących, sprężyn, narzędzi i osi.",
+        "Wanad ma wielkie zastosowanie w przepływowych akumulatorach wanadowych (VRFB) – te magazyny energii mogą przechowywać duże ilości energii z odnawialnych źródeł (wiatru i słońca) i charakteryzują się bardzo długą żywotnością cykliczną, ponieważ nie dochodzi w nich do degradacji elektrod (elektrolit jest cieczą).",
+        "Wanad jest kluczowym katalizatorem w chemii przemysłowej – tlenek wanadu(V) (V2O5) jest stosowany w metodzie kontaktowej produkcji kwasu siarkowego (utlenianie SO2 do SO3), która jest jednym z najważniejszych procesów przemysłowych na świecie.",
+        "Historia odkrycia wanadu jest złożona – w 1801 roku Andrés Manuel del Río odkrył go w Meksyku (\"erytron\"), ale został przekonany, że to tylko nieczysty chrom. Ponownie odkrył go Nils Gabriel Sefström w 1830 roku i nazwał na cześć bogini Vanadis (nordycka bogini piękna, Freja) ze względu na piękne kolory jego związków.",
+        "Wanad występuje w niektórych organizmach żywych – np. w osłonicach (morskich zwierzętach) oraz w grzybach (muchomorach), jednak dla człowieka jego rola biologiczna nie jest w pełni potwierdzona, choć jest obecny w śladowych ilościach. Wdychanie pyłów tlenku wanadu jest szkodliwe."
+      ]
+    },
+    {
+      "symbol": "Cr",
+      "name": "CHROM",
+      "atomicNumber": 24,
+      "miningReason": "Chrom wydobywa się z chromitu (FeCr2O4) metodą wydobycia odkrywkowego. Ruda jest kruszona i wzbogacana grawitacyjnie oraz magnetycznie. Głównym produktem handlowym jest żelazochrom (FeCr), uzyskiwany przez redukcję chromitu węglem (koksem) w piecach łukowych w temperaturze ok. 1600°C. Czysty metaliczny chrom otrzymuje się rzadziej, głównie metodą elektrolizy roztworu ałunu chromowego lub kwasu chromowego, albo metodą aluminotermiczną (redukcja tlenku chromu Cr2O3 aluminium). Uzyskany metal w formie płatków lub proszku ma czystość 99% i wyższą.",
+      "facts": [
+        "Chrom jest kluczowym składnikiem stali nierdzewnej (\"nierdzewki\"). Dodatek co najmniej 10,5% chromu do stali powoduje powstanie na jej powierzchni cienkiej, niewidocznej warstwy tlenku chromu (warstwa pasywna), która samoczynnie się regeneruje i chroni metal przed korozją.",
+        "Nazwa \"chrom\" pochodzi od greckiego *chroma* (kolor), ponieważ związki chromu występują w niezwykle szerokiej gamie barw (zielony, żółty, pomarańczowy, fioletowy). Były one używane jako pigmenty malarskie (np. żółcień chromowa - \"słoneczniki\" Van Gogha).",
+        "Chromowanie dekoracyjne (galwaniczne) – cienka warstwa chromu nanoszona na elementy samochodowe (zderzaki, felgi) czy armaturę łazienkową nadaje im srebrzysty, lustrzany połysk i twardość.",
+        "Chrom jest niezbędnym mikroelementem dla metabolizmu glukozy u ludzi (czynnik tolerancji glukozy GTF). Jednak jest to tzw. \"miecz obosieczny\" – chrom na III stopniu utlenienia jest zdrowy, ale chrom na VI stopniu utlenienia (Cr⁶⁺) jest silnie toksyczny, rakotwórczy i mutagenny (znany z filmu \"Erin Brockovich\").",
+        "Rubiny zawdzięczają swój czerwony kolor śladowym domieszkom chromu w strukturze korundu (tlenku glinu). Ten sam chrom w szmaragdzie nadaje mu barwę zieloną. Jest to efekt wpływu otoczenia krystalicznego na poziomy energetyczne jonów chromu."
+      ]
+    },
+    {
+      "symbol": "Mn",
+      "name": "MANGAN",
+      "atomicNumber": 25,
+      "miningReason": "Mangan pozyskuje się głównie z rud tlenkowych, takich jak piroluzyt (MnO2). Czysty metal otrzymuje się zazwyczaj poprzez redukcję tlenków glinem (aluminotermia) lub elektrolizę roztworów siarczanu manganu. Stop żelazomangan wytapia się w piecach elektrycznych z użyciem koksu.",
+      "facts": [
+        "Mangan jest kluczowym dodatkiem stopowym do stali – wiąże siarkę i tlen, zapobiegając kruchości, oraz zwiększa twardość i odporność na ścieranie (stal Hadfielda).",
+        "Dwutlenek manganu (MnO2) jest głównym składnikiem katody w popularnych bateriach alkalicznych i cynkowo-węglowych (\"paluszkach\").",
+        "Mangan jest niezbędnym mikroelementem dla życia – wchodzi w skład enzymów chroniących komórki przed stresem oksydacyjnym (dysmutaza ponadtlenkowa).",
+        "Na dnie oceanów zalegają ogromne ilości konkrecji polimetalicznych bogatych w mangan, które w przyszłości mogą stać się głównym źródłem tego metalu.",
+        "Szkło z dodatkiem manganu ma lekko fioletową barwę; historycznie używano go też do odbarwiania szkła zanieczyszczonego żelazem (tzw. \"mydło szklarskie\")."
+      ]
+    },
+    {
+      "symbol": "Fe",
+      "name": "ŻELAZO",
+      "atomicNumber": 26,
+      "miningReason": "Żelazo wydobywa się z rud (hematyt, magnetyt) w kopalniach odkrywkowych lub głębinowych. Urobek jest kruszony i często wzbogacany (np. magnetycznie) do formy koncentratu. W wielkim piecu, w temperaturze >1600°C, tlenki żelaza są redukowane przez koks (węgiel) do płynnej surówki, która jest następnie przetwarzana na stal w konwertorach.",
+      "facts": [
+        "Żelazo jest czwartym najpowszechniejszym pierwiastkiem w skorupie ziemskiej (ok. 5%) i głównym składnikiem jądra Ziemi.",
+        "Jest najważniejszym metalem przemysłowym – światowe wydobycie przekracza 2,5 mld ton rocznie, a stal jest fundamentem globalnej infrastruktury.",
+        "Jest niezbędne do życia: wchodzi w skład hemoglobiny transportującej tlen we krwi. Niedobór żelaza jest najczęstszą przyczyną anemii na świecie.",
+        "Żelazo z kosmosu (meteorytowe) było pierwszym źródłem tego metalu dla ludzkości, zanim opanowano technologię wytopu z rud ziemskich.",
+        "Czyste żelazo jest stosunkowo miękkie; dopiero dodatek węgla (tworzący stal lub żeliwo) nadaje mu wysoką wytrzymałość mechaniczną."
+      ]
+    },
+    {
+      "symbol": "Co",
+      "name": "KOBALT",
+      "atomicNumber": 27,
+      "miningReason": "Kobalt wydobywa się z rud niklu laterytowego w procesie hydrometalurgicznym (ługowanie kwasowe pod ciśnieniem HPAL), gdzie ruda niklu jest rozpuszczana w roztworze kwasu siarkowego w obecności tlenu w temperaturze 200-250°C i ciśnieniu 20-30 bar, co prowadzi do przejścia niklu, kobaltu i żelaza do roztworów siarczanowych. Z uzyskanego roztworu niklu i kobaltu kobalt jest selektywnie wydzielany poprzez ekstrakcję rozpuszczalnikową (SX) przy użyciu organicznych rozpuszczalników (np. Cyanex 272), a następnie jest strącany w postaci wodorotlenku lub węglanu kobaltu i redukowany do kobaltu metalicznego poprzez elektrolizę, uzyskując czysty kobalt o czystości 99,5-99,99%.",
+      "facts": [
+        "Kobalt jest pierwiastkiem niezbędnym do produkcji baterii litowo-jonowych – do każdej baterii smartfona czy samochodu elektrycznego trafia średnio 10-20 gramów kobaltu (w smartfonach) lub kilka kilogramów (w autach), co powoduje, że światowy popyt na kobalt wynosi około 150 tysięcy ton rocznie i stale rośnie.",
+        "Kobalt ma najwyższą temperaturę Curie spośród wszystkich ferromagnetyków (1115°C) – ta właściwość czyni go doskonałym materiałem do produkcji trwałych magnesów pracujących w wysokich temperaturach, szczególnie w turbinach wiatrowych i silnikach elektrycznych.",
+        "Kobalt jest kluczowym katalizatorem w petrochemii – katalizatory kobaltowe są niezbędne w procesie Fischera-Tropscha do konwersji gazu syntezowego (CO + H2) na paliwa płynne, a także w hydrorafinacji olejów napędowych.",
+        "Historia wykorzystania kobaltu sięga średniowiecza – związki kobaltu były stosowane do barwienia szkła i ceramiki na kolor niebieski (\"błękit kobaltowy\"), jednak pracownicy kopalń długo sądzili, że rudy te są zaklęte przez złe duchy (\"koboldy\"), ponieważ przy próbie wytapiania wydzielały trujące opary arsenu zamiast dawać miedź.",
+        "Kobalt może być odzyskany z baterii litowo-jonowych poprzez recykling – obecnie rozwija się technologie odzysku, ponieważ kobalt uzyskuje się z zużytych baterii poprzez procesy pirometalurgiczne i hydrometalurgiczne, co redukuje presję na wydobycie nowego metalu."
+      ]
+    },
+    {
+      "symbol": "Ni",
+      "name": "NIKIEL",
+      "atomicNumber": 28,
+      "miningReason": "Nikiel wydobywa się z rud niklu laterytowego (rud tlenkowych) metodą wydobycia odkrywkowego ze złóż zawierających 0,8-2,5% niklu związanego z tlenkami żelaza – ruda jest kruszona i poddawana ługowaniu kwasowemu pod ciśnieniem (HPAL) w temperaturze 200-250°C i ciśnieniu 20-30 bar w roztworze kwasu siarkowego. Z uzyskanego roztworu zawierającego nikiel, kobalt i żelazo nikiel jest wydzielany poprzez selektywne strącanie (np. jako wodorotlenek lub siarczek), a następnie roztwór niklu jest oczyszczany i poddawany elektrowiningowi (elektrolizie) w celu wydzielenia czystego niklu metalicznego o czystości 99,8-99,99%.",
+      "facts": [
+        "Nikiel jest piątym co do rozpowszechnienia pierwiastkiem na Ziemi (głównie w jądrze), a w skorupie ziemskiej występuje rzadziej. Jest głównym składnikiem stali nierdzewnej – jego dodatki (8-25%) nadają stali odporność na korozję, twardość i estetyczny wygląd, co czyni go niezastąpionym w branży budowlanej i AGD.",
+        "Nikiel ma właściwości magnetyczne – jest ferromagnetykiem w temperaturze pokojowej (temperatura Curie 355°C), co czyni go materiałem do produkcji stopów magnetycznych (np. Permalloy) stosowanych w transformatorach i ekranowaniu magnetycznym.",
+        "Nikiel jest kluczowym katalizatorem w chemii organicznej – katalizatory niklowe (szczególnie nikiel Raneya) są powszechnie stosowane w uwodornianiu (hydrogenacji) tłuszczów roślinnych do produkcji margaryny, a także w reakcji metanizacji.",
+        "Historia odkrycia niklu sięga XVIII wieku – górnicy sascy nazywali rudę (arsenek niklu) „Kupfernickel” (diabelska miedź), ponieważ przypominała rudę miedzi, ale nie dawało się z niej uzyskać miedzi, wydzielała za to trujące opary arsenu. Axel Cronstedt wyizolował metal w 1751 roku.",
+        "Nikiel jest najczęstszą przyczyną alergii kontaktowych na metale – ekspozycja na nikiel powoduje swędzenie i zaczerwienienie skóry u około 10-20% populacji, dlatego biżuteria i elementy metalowe mające kontakt ze skórą podlegają regulacjom dotyczącym uwalniania niklu (Dyrektywa Niklowa UE)."
+      ]
+    },
+    {
+      "symbol": "Cu",
+      "name": "MIEDŹ",
+      "atomicNumber": 29,
+      "miningReason": "Miedź wydobywa się głównie z rud siarczkowych (np. chalkopirytu) w kopalniach głębinowych (Polska) lub odkrywkowych (Chile). Rudę poddaje się flotacji (wzbogacaniu), a następnie koncentrat wytapia się w piecach w temp. ok. 1200°C. Surowa miedź jest oczyszczana elektrolitycznie (elektrorafinacja) do czystości 99,99%.",
+      "facts": [
+        "Jest jednym z pierwszych metali poznanych przez ludzkość (ponad 10 000 lat temu). Epoka Brązu (stopu miedzi z cyną) była kamieniem milowym w rozwoju cywilizacji.",
+        "Miedź ma świetną przewodność elektryczną (ustępuje tylko srebru), dlatego jest standardowym materiałem w kablach, silnikach i elektronice.",
+        "Polska (KGHM) posiada jedne z największych złóż miedzi w Europie.",
+        "Powierzchnie miedziane mają naturalne właściwości antybakteryjne i antywirusowe (niszczą DNA mikrobów w ciągu minut/godzin), co wykorzystuje się w szpitalach (klamki, poręcze).",
+        "Jest metalem w 100% poddającym się recyklingowi bez utraty jakości. Szacuje się, że 80% miedzi kiedykolwiek wydobytej jest nadal w użyciu."
+      ]
+    },
+    {
+      "symbol": "Zn",
+      "name": "CYNK",
+      "atomicNumber": 30,
+      "miningReason": "Cynk wydobywa się z rud cynku metodą wydobycia odkrywkowego i podziemnego ze złóż siarczków cynku, w których głównym minerałem jest sfalerit (ZnS) zawierający 50-65% cynku – ruda jest kruszona, mielona i poddawana flotacji, gdzie cynk jest oddzielany razem z innymi siarczkami do uzyskania koncentratu zawierającego 45-55% cynku oraz domieszki srebra i kadmu. Wzbogacony koncentrat cynku jest prażony w temperaturze 700-1000°C w piecu fluidalnym w celu konwersji siarczku cynku do tlenku cynku (ZnO), a następnie ZnO jest rozpuszczany w kwasie siarkowym w procesie hydrometalurgicznym, cynk jest wydzielany elektrolitycznie z roztworów siarczanu cynku na katodzie miedzianej, uzyskując czysty cynk o czystości 99,99%.",
+      "facts": [
+        "Cynk jest czwartym co do wykorzystania metalem na świecie (po żelazie, aluminium i miedzi) – jego światowe wydobycie wynosi ponad 12 milionów ton rocznie, głównie ze złóż w Australii, Peru, Chinach i USA, a głównym zastosowaniem cynku jest galwanizacja (cynkowanie) stali do ochrony przed korozją.",
+        "Cynk jest niezbędnym mikroelementem dla zdrowia człowieka – uczestniczy w syntezie białek, funkcjonowaniu systemu immunologicznego, gojeniu ran i tworzeniu DNA, a jego niedobór powoduje zaburzenia wzrostu, wypadanie włosów, zaburzenia węchu i osłabienie systemu immunologicznego.",
+        "Cynk ma właściwości antybakteryjne i antywirusowe – jony cynku (Zn²⁺) mogą hamować replikację wirusów poprzez zakłócanie ich enzymów, dlatego suplementacja cynku jest czasem rekomendowana w celu wsparcia odporności.",
+        "Historia wydobycia cynku sięga X wieku naszej ery w Indiach, gdzie z rud galmanu (kalaminu – węglanów cynku) produkowało się mosiądz (stop cynku i miedzi) poprzez redukcję węglem w temperaturze 1000-1100°C, metoda pozostała tajemnicą aż do XVIII wieku.",
+        "Cynk jest jednym z najczęściej poddawanych recyklingowi metali – zaledwie 30-50% cynku trafia do odpadów ostatecznie, ponieważ większość cynku jest odzyskiwana z demontażu zużytych pojazdów i elektroniki, co redukuje potrzebę wydobycia nowego cynku i zmniejsza presję na zasoby naturalne."
+      ]
+    },
+    {
+      "symbol": "Ga",
+      "name": "GAL",
+      "atomicNumber": 31,
+      "miningReason": "Gal pozyskuje się prawie wyłącznie jako produkt uboczny przy produkcji aluminium (z boksytów) i cynku. Gromadzi się on w ługach po procesie Bayera, skąd jest odzyskiwany, np. metodą elektrolizy na katodzie rtęciowej, a następnie oczyszczany.",
+      "facts": [
+        "Ma niezwykle niską temperaturę topnienia (29,76°C) – trzymany w dłoni kawałek galu zamienia się w ciecz (podobnie jak czekolada).",
+        "Jest kluczowym składnikiem arsenku galu (GaAs) i azotku galu (GaN), używanych w produkcji szybkich układów scalonych, diod LED (niebieskich i laserowych) oraz w technologii 5G.",
+        "Gal ma jeden z najszerszych zakresów występowania w stanie ciekłym spośród metali (wrze dopiero w 2400°C), co czyni go użytecznym w termometrach wysokotemperaturowych.",
+        "W przeciwieństwie do rtęci, jest nietoksyczny i ma niską prężność par, dlatego stosuje się go (w stopie z indem i cyną – Galinstan) w bezpiecznych termometrach lekarskich.",
+        "Jego istnienie (jako \"eko-glinu\") przewidział Dymitr Mendelejew jeszcze przed odkryciem, precyzyjnie opisując jego właściwości."
+      ]
+    },
+    {
+      "symbol": "Ge",
+      "name": "GERMAN",
+      "atomicNumber": 32,
+      "miningReason": "German jest wydobywany jako produkt uboczny ze spalania węgla w elektrowniach, gdzie kumuluje się w popiele węglowym. Proces ekstrakcji wymaga przemywania popiołu roztworami chemicznymi i izolacji germanu poprzez ługowanie kwasowe i ekstrakcję rozpuszczalnikową.",
+      "facts": [
+        "German stanowi zaledwie kilka ppm (części na milion) w węglu, ale jego całkowita produkcja z tego źródła jest znacząca ze względu na gigantyczną skalę spalania węgla.",
+        "Polska posiada technologię odzysku germanu z węgla i rud, co daje jej potencjał bycia znaczącym producentem tego rzadkiego pierwiastka.",
+        "German ma wyższą ruchliwość elektronów niż krzem, co pozwala na budowę szybszych układów, choć jest mniej odporny na wysokie temperatury.",
+        "Wydobycie germanu z popiołu węglowego jest procesem ekonomicznym dzięki wielkości produkcji węgla na całym świecie.",
+        "German znajduje zastosowanie w technologii wojskowej, fotowoltaice (specjalistyczne panele słoneczne), włóknach optycznych i detektorach promieniowania."
+      ]
+    },
+    {
+      "symbol": "As",
+      "name": "ARSEN",
+      "atomicNumber": 33,
+      "miningReason": "Arsen wydobywa się z rud cynku i ołowiu metodą flotacji, gdzie arsen występuje w minerałach takich jak arsenopiryt (FeAsS) – podczas prażenia rud w temperaturze 600-800°C arsen paruje w postaci tlenku arsenu (As2O3) i jest zbierany z gazów odlotowych poprzez system oczyszczania (mokre skrubery). Zebrana para arsenu jest przetwarzana, a następnie redukowana do arsenu metalicznego poprzez redukcję chemiczną przy użyciu węgla, czysty arsen jest rafinowany poprzez sublimację w próżni do czystości 99,9999%.",
+      "facts": [
+        "Arsen jest pierwiastkiem wysoce trującym dla ludzi i zwierząt – jego związki (tlenki, siarczki, chlorki) powodują ostre zatrucia charakteryzujące się nudnościami, wymiotami, krwawą biegunką i wstrząsem, a długotrwała ekspozycja powoduje nowotwory skóry, płuc i wątroby (klasyfikowany jako rakotwórczy klasy I).",
+        "Arsen naturalnie występuje w wielu rudach metali nieżelaznych – głównym źródłem arsenu jest wydobycie z rud cynku, ołowiu, miedzi i molibdenu, gdzie jego zawartość wynosi 0,1-2%, co stanowi znaczne wyzwanie dla kontroli emisji i oczyszczania gazów w procesach hutniczych.",
+        "Arsen ma właściwości półmetaliczne – może występować zarówno w odmianie metalicznej (szarej), jak i niemetalicznej (żółtej), a jego struktury krystaliczne zmieniają się w zależności od temperatury i ciśnienia, co czyni go interesującym przedmiotem badań inżynierii materiałowej.",
+        "Historia wykorzystania arsenu sięga starożytności – arszenik (trójtlenek arsenu As2O3) był znany jako „królewska trutka\" i był powszechnie stosowany do trucia monarchów i wrogów politycznych przez wieki, co czyni go jedną z najsławniejszych trucizn w historii.",
+        "Arsen może migrować przez łańcuch pokarmowy, szczególnie w glebach bogatych w minerały arsenowe – rośliny absorbują jony arsenu z gleby, a zwierzęta i ludzie konsumujący takie rośliny akumulują arsen w swoich tkankach, co powoduje, że zawartość arsenu w produktach spożywczych może znacznie przekraczać bezpieczne poziomy w regionach górniczych i lądowych o naturalnie wysokiej zawartości arsenu."
+      ]
+    },
+    {
+      "symbol": "Se",
+      "name": "SELEN",
+      "atomicNumber": 34,
+      "miningReason": "Selen pozyskuje się ze szlamów anodowych przy produkcji miedzi (podobnie jak tellur). Szlamy są prażone z sodą lub kwasem siarkowym, a powstały tlenek selenu jest rozpuszczany i redukowany (np. dwutlenkiem siarki) do czystego selenu.",
+      "facts": [
+        "Selen wykazuje efekt fotowoltaiczny i fotoprzewodnictwo (przewodzi prąd lepiej, gdy jest oświetlony). Właściwość tę wykorzystano w pierwszych fotokomórkach i światłomierzach.",
+        "Jest kluczowym składnikiem bębnów w starszych typach kserokopiarek i drukarek laserowych (technologia kserograficzna).",
+        "Chociaż w dużych dawkach jest toksyczny, w śladowych ilościach jest niezbędnym mikroelementem (wchodzi w skład enzymów chroniących komórki przed wolnymi rodnikami).",
+        "Orzechy brazylijskie są najbogatszym naturalnym źródłem selenu w diecie (jeden orzech może pokryć dzienne zapotrzebowanie).",
+        "Szampony przeciwłupieżowe często zawierają siarczek selenu jako substancję czynną zwalczającą grzyby."
+      ]
+    },
+    {
+      "symbol": "Br",
+      "name": "BROM",
+      "atomicNumber": 35,
+      "miningReason": "Brom pozyskuje się z bogatych w bromki solanek (np. z Morza Martwego) poprzez utlenianie jonów bromkowych chlorem. Uwolniony brom jest wydmuchiwany z roztworu powietrzem lub parą wodną, a następnie skraplany i oczyszczany.",
+      "facts": [
+        "Jest jedynym niemetalem, który w temperaturze pokojowej jest cieczą. Ma postać ciężkiej, czerwonobrunatnej cieczy o gryzącym zapachu (nazwa od gr. \"bromos\" - smród).",
+        "Związki bromu były dawniej powszechnie stosowane jako środki uspokajające (sole bromu) w medycynie.",
+        "Bromowane opóźniacze palenia (BFR) są dodawane do tworzyw sztucznych, elektroniki i tkanin, aby zapobiegać ich zapłonowi (choć ich użycie jest ograniczane ze względów ekologicznych).",
+        "Bromek srebra jest substancją światłoczułą, która przez ponad sto lat była podstawą tradycyjnej fotografii na kliszach.",
+        "Występuje w wodzie morskiej w ilości ok. 65 ppm, ale w wodach Morza Martwego jego stężenie jest wielokrotnie wyższe, co ułatwia wydobycie."
+      ]
+    },
+    {
+      "symbol": "Kr",
+      "name": "KRYPTON",
+      "atomicNumber": 36,
+      "miningReason": "Krypton wydobywa się z powietrza metodą frakcyjnej destylacji ciekłego powietrza jako produkt uboczny produkcji tlenu i azotu. Oddziela się go na etapie separacji frakcji cięższych od tlenu, często łącznie z ksenonem, a następnie rozdziela od niego w osobnym procesie.",
+      "facts": [
+        "Krypton stanowi około 0,0001% powietrza atmosferycznego (1 ppm) i jest ok. 10 razy częstszy niż ksenon.",
+        "Ma temperaturę wrzenia -153,2°C, plasując się między argonem a ksenonem.",
+        "Wykorzystywany jest w żarówkach o wysokiej wydajności oraz lampach wyładowczych, np. w oświetleniu lotniskowym (lampy podejściowe).",
+        "W latach 1960-1983 definicja metra oparta była na długości fali promieniowania emitowanego przez izotop kryptonu-86.",
+        "Dzięki lepszej izolacyjności termicznej niż argon, krypton stosowany jest jako gaz wypełniający w energooszczędnych oknach zespolonych."
+      ]
+    },
+    {
+      "symbol": "Rb",
+      "name": "RUBID",
+      "atomicNumber": 37,
+      "miningReason": "Rubid pozyskuje się głównie jako produkt uboczny przy wydobyciu litu (z minerału lepidolitu) i cezu. Czysty metal otrzymuje się zazwyczaj poprzez redukcję chlorku rubidu wapniem w próżni.",
+      "facts": [
+        "Nazwa pochodzi od łacińskiego słowa \"rubidus\" (ciemnoczerwony), od charakterystycznych czerwonych linii w jego widmie emisyjnym.",
+        "Rubidowe zegary atomowe są tańszą i bardziej kompaktową alternatywą dla zegarów cezowych, powszechnie stosowaną w telekomunikacji i satelitach GPS.",
+        "Jest metalem o bardzo niskiej temperaturze topnienia (39,3°C), który gwałtownie (często wybuchowo) reaguje z wodą.",
+        "Izotop Rubid-87 ma bardzo długi czas połowicznego rozpadu (49 mld lat) i jest wykorzystywany w geochronologii do datowania najstarszych skał ziemskich.",
+        "Występuje w skorupie ziemskiej częściej niż miedź czy ołów, ale jest bardzo rozproszony i nie tworzy własnych, bogatych złóż, co utrudnia wydobycie."
+      ]
+    },
+    {
+      "symbol": "Sr",
+      "name": "STRONC",
+      "atomicNumber": 38,
+      "miningReason": "Stronc pozyskuje się z minerałów: celestynu (siarczan) i stroncjanitu (węglan). Najczęstszą metodą otrzymywania metalu jest redukcja tlenku strontu glinem (aluminium) w próżni. Możliwa jest również elektroliza stopionego chlorku strontu zmieszanego z chlorkiem potasu.",
+      "facts": [
+        "Nazwa pierwiastka pochodzi od szkockiej wioski Strontian, gdzie w kopalniach ołowiu po raz pierwszy znaleziono minerały strontu.",
+        "Sole strontu barwią płomień na intensywny, karmazynowy kolor, co czyni je kluczowym składnikiem czerwonych fajerwerków i flar.",
+        "Izotop Stronc-90 jest niebezpiecznym produktem rozszczepienia jądrowego. Z racji chemicznego podobieństwa do wapnia, organizm może wbudowywać go w kości, co grozi nowotworami.",
+        "Stabilny stronc jest wykorzystywany do produkcji magnesów ferrytowych (ferryty strontowe), powszechnie używanych w głośnikach i silnikach elektrycznych.",
+        "Dokładne zegary optyczne oparte na atomach strontu są kandydatami do nowej, jeszcze precyzyjniejszej definicji sekundy."
+      ]
+    },
+    {
+      "symbol": "Y",
+      "name": "ITR",
+      "atomicNumber": 39,
+      "miningReason": "Itr, mimo że jest metalem przejściowym (leży nad lantanem), ze względu na podobieństwo chemiczne jest zawsze klasyfikowany i wydobywany razem z lantanowcami ciężkimi (HREE). Głównym źródłem itru są gliny jonowe (Chiny) oraz minerały ksenotym i monacyt. Ze względu na dużą zawartość w rudach (często stanowi większość frakcji REE), itr jest stosunkowo tani jak na \"ziemię rzadką\". Separacja odbywa się metodą ekstrakcji rozpuszczalnikowej. Czysty metal uzyskuje się przez redukcję fluorku itru (YF3) wapniem.",
+      "facts": [
+        "Itr ma kluczowe znaczenie dla technologii LED i laserów. Granat itrowo-glinowy (YAG) jest najważniejszym kryształem laserowym (np. lasery Nd:YAG). Z kolei YAG domieszkowany cerem jest żółtym luminoforem w białych diodach LED (zamienia niebieskie światło diody na białe).",
+        "Nadprzewodnictwo wysokotemperaturowe – tlenek itrowo-barowo-miedziowy (YBCO) był pierwszym materiałem, który wykazał nadprzewodnictwo powyżej temperatury wrzenia ciekłego azotu (-196°C). To odkrycie (Nagroda Nobla 1987) zrewolucjonizowało fizykę ciała stałego.",
+        "Izotop itr-90 jest stosowany w medycynie nuklearnej do terapii radioizotopowej (np. radioembolizacja raka wątroby). Emituje on czyste promieniowanie beta, które niszczy guza od środka, oszczędzając zdrowe tkanki.",
+        "Itr został odkryty w 1794 roku przez Johana Gadolina w minerale z kamieniołomu w Ytterby (Szwecja). Ytterby to \"mekka chemików\" – od nazwy tej małej wioski pochodzą nazwy aż czterech pierwiastków: itru (Y), terbu (Tb), erbu (Er) i iterbu (Yb).",
+        "Itr jest metalem, który po dodaniu do stopów magnezu lub aluminium znacznie zwiększa ich wytrzymałość i odporność na pełzanie w wysokich temperaturach. Stopy te są używane w silnikach lotniczych i skrzyniach biegów."
+      ]
+    },
+    {
+      "symbol": "Nb",
+      "name": "NIOB",
+      "atomicNumber": 41,
+      "miningReason": "Niob wydobywa się głównie z minerału pirochloru (NaCaNb2O6F) oraz kolumbitu (często towarzyszącego tantalitowi w koltanie). Ruda jest kruszona, mielona i wzbogacana metodą flotacji. Następnie koncentrat jest poddawany ługowaniu w kwasach lub procesom aluminotermicznym w celu uzyskania stopu żelazoniobu (FeNb), który jest główną formą handlową (ok. 90% produkcji). Aby uzyskać czysty metaliczny niob, koncentrat rozpuszcza się w kwasie fluorowodorowym, oddziela od tantalu (ekstrakcja ciecz-ciecz), a następnie wytrąca tlenek niobu (Nb2O5). Tlenek ten jest redukowany aluminotermicznie do metalu, który następnie jest oczyszczany w piecach wiązką elektronową (EBM) w wysokiej próżni.",
+      "facts": [
+        "Niob ma kluczowe znaczenie dla produkcji stali o wysokiej wytrzymałości (HSLA) – dodatek zaledwie kilkuset gramów niobu na tonę stali drastycznie zwiększa jej wytrzymałość mechaniczną. Taka stal jest używana w rurociągach, karoseriach samochodowych i konstrukcjach mostów.",
+        "Niob jest podstawowym materiałem w technologii nadprzewodnictwa – stopy niobu z tytanem (NbTi) i cyną (Nb3Sn) są używane do produkcji magnesów nadprzewodzących w skanerach rezonansu magnetycznego (MRI) oraz w Wielkim Zderzaczu Hadronów (LHC) w CERN.",
+        "Niob jest wykorzystywany w jubilerstwie i numizmatyce – metal ten można anodować na szeroką gamę żywych, opalizujących kolorów (od niebieskiego po złoty i fioletowy) bez użycia barwników, jedynie poprzez zmianę grubości warstwy tlenkowej. Jest też hipoalergiczny.",
+        "Pierwiastek ten przez długi czas mylono z tantalem. Odkrył go Charles Hatchett w 1801 roku i nazwał \"kolumbem\" (od minerału przywiezionego z Ameryki). Dopiero w 1950 roku IUPAC oficjalnie zatwierdziło nazwę \"niob\" (od Niobe, mitycznej córki Tantala), choć w USA metalurdzy wciąż często używają nazwy \"columbium\".",
+        "Brazylia jest absolutnym monopolistą na rynku niobu – odpowiada za ponad 90% światowego wydobycia tego metalu (głównie kopalnia w Araxá), co czyni go surowcem o wysokim ryzyku geopolitycznym dla łańcuchów dostaw."
+      ]
+    },
+    {
+      "symbol": "Mo",
+      "name": "MOLIBDEN",
+      "atomicNumber": 42,
+      "miningReason": "Molibden pozyskuje się głównie z rudy molibdenitu (MoS2), często przy wydobyciu miedzi. Rudę praży się do tlenku (MoO3), który następnie redukuje się wodorem do czystego proszku metalicznego.",
+      "facts": [
+        "Ma jedną z najwyższych temperatur topnienia (2623°C), dlatego stosuje się go w elementach pieców wysokotemperaturowych, dyszach rakiet i osłonach termicznych.",
+        "Jest cennym dodatkiem do stali (\"witaminą dla stali\") – nawet niewielka ilość molibdenu znacznie zwiększa jej twardość, wytrzymałość i odporność na korozję.",
+        "Dwusiarczek molibdenu (MoS2) jest doskonałym smarem stałym, zachowującym właściwości w ekstremalnych temperaturach i pod ogromnym ciśnieniem (gdzie zwykłe oleje zawodzą).",
+        "Podczas II wojny światowej niemiecki czołg \"Tygrys\" czy działo \"Gruba Berta\" zawdzięczały swoją wytrzymałość właśnie stali molibdenowej.",
+        "Jest niezbędny dla roślin (wchodzi w skład enzymu wiążącego azot z powietrza) i zwierząt."
+      ]
+    },
+    {
+      "symbol": "Tc",
+      "name": "TECHNET",
+      "atomicNumber": 43,
+      "miningReason": "Technet-99m (izotop medyczny) nie jest produkowany bezpośrednio w reaktorze. W reaktorach jądrowych naświetla się uran, aby uzyskać molibden-99. Ten jest transportowany do szpitali w specjalnych \"generatorach technetowych\", gdzie rozpada się do technetu-99m, który jest na bieżąco wypłukiwany (eluowany) roztworem soli fizjologicznej. Długożyciowy technet-99 jest również składnikiem odpadów promieniotwórczych, z których może być odzyskiwany chemicznie (ekstrakcja TBP).",
+      "facts": [
+        "Technet-99m jest \"koniem roboczym\" medycyny nuklearnej – wykonuje się nim ponad 80% wszystkich badań diagnostycznych (scyntygrafia) na świecie (ok. 30-40 mln rocznie). Jego czas połowicznego rozpadu (6 godzin) jest idealny: wystarczający do badania, ale krótki, by nie napromieniować pacjenta.",
+        "Był pierwszym pierwiastkiem wytworzonym sztucznie przez człowieka (w 1937 roku, perrier i Segrè), stąd nazwa (z greckiego \"technetos\" – sztuczny).",
+        "Choć na Ziemi występuje tylko śladowo (z rozszczepienia uranu), w kosmosie odkryto \"gwiazdy technetowe\" (gwiazdy typu S), których widmo zawiera linie technetu. Był to koronny dowód na to, że pierwiastki powstają we wnętrzach gwiazd (nukleosynteza).",
+        "Technet-99 (okres półtrwania 211 000 lat) jest problematycznym odpadem jądrowym ze względu na dużą mobilność w środowisku wodnym (jako jon nadtechnecjanowy TcO4⁻).",
+        "Świat jest uzależniony od zaledwie kilku starych reaktorów badawczych produkujących molibden-99, co co kilka lat prowadzi do globalnych kryzysów i braku technetu w szpitalach."
+      ]
+    },
+    {
+      "symbol": "Ru",
+      "name": "RUTEN",
+      "atomicNumber": 44,
+      "miningReason": "Ruten jest metalem z grupy platynowców (PGM), wydobywanym jako produkt uboczny przy rafinacji niklu, miedzi i platyny. Występuje w rudach siarczkowych. Podczas procesu rafinacji anodowej niklu i miedzi, platynowce gromadzą się w szlamie anodowym. Szlam ten jest traktowany wodą królewską. Ruten (podobnie jak osm) nie rozpuszcza się w pełni i pozostaje w osadzie. Aby go wydzielić, stapia się go z nadtlenkiem sodu, a następnie destyluje jako lotny czterotlenek rutenu (RuO4) przy użyciu chloru. RuO4 jest następnie absorbowany w kwasie solnym i redukowany do czystego metalu (proszku) za pomocą wodoru.",
+      "facts": [
+        "Ruten jest jednym z najrzadszych pierwiastków w skorupie ziemskiej (ok. 100 części na bilion). Jego światowa produkcja wynosi zaledwie około 20-30 ton rocznie.",
+        "Ruten znacznie zwiększa twardość platyny i palladu – dodatek zaledwie 5-10% rutenu do platyny tworzy stop jubilerski o dużej odporności na ścieranie, używany do produkcji luksusowej biżuterii i styków elektrycznych.",
+        "Katalizatory rutenowe mają kluczowe znaczenie w syntezie chemicznej – np. w reakcji metatezy olefin (za którą przyznano Nagrodę Nobla w 2005 roku), co pozwala na tworzenie zaawansowanych leków i polimerów.",
+        "Odkrycie rutenu przypisuje się Karlowi Ernstowi Clausowi (1844), który jako jedyny zdołał wyizolować czysty metal z pozostałości platynowych i potwierdzić, że jest to nowy pierwiastek. Nazwał go na cześć Rusi (łac. *Ruthenia*), ponieważ pracował na Uniwersytecie w Kazaniu (Rosja).",
+        "Ruten może tworzyć związki na 8. stopniu utlenienia (RuO4), co jest rzadkością (podobnie jak osm i ksenon). Czterotlenek rutenu jest jednak silnie toksyczny i wybuchowy w kontakcie z materią organiczną, co czyni pracę z nim niebezpieczną."
+      ]
+    },
+    {
+      "symbol": "Rh",
+      "name": "ROD",
+      "atomicNumber": 45,
+      "miningReason": "Rod jest jednym z najdroższych metali szlachetnych, wydobywanym jako produkt uboczny rafinacji niklu, miedzi i platyny. Występuje w rudach PGM (Platinum Group Metals) w bardzo małych stężeniach. Proces otrzymywania rodu jest skomplikowany, ponieważ towarzyszy on innym platynowcom. Po rozpuszczeniu koncentratu w wodzie królewskiej i oddzieleniu platyny oraz palladu, rod pozostaje w roztworze. Jest on następnie selektywnie wytrącany (np. jako kompleks nitrowy), oczyszczany i redukowany wodorem do postaci szarego proszku (gąbki rodowej).",
+      "facts": [
+        "Rod jest obecnie najdroższym metalem na świecie (poza pierwiastkami promieniotwórczymi), wielokrotnie droższym od złota. Jego cena ulega gwałtownym wahaniom (nawet do 20-30 tys. USD za uncję), co wynika z rzadkości występowania i ogromnego popytu w przemyśle motoryzacyjnym.",
+        "Ponad 80% światowej produkcji rodu trafia do katalizatorów samochodowych. Rod jest niezastąpiony w redukcji tlenków azotu (NOx) do azotu i tlenu. Żaden inny metal nie jest tak efektywny w tym procesie, co czyni go kluczowym dla spełniania norm emisji spalin (Euro 6/7).",
+        "\"Rodowanie\" biżuterii – rod jest metalem o niezwykłym blasku i wysokiej twardości. Jubilerzy pokrywają cienką warstwą rodu wyroby z białego złota i srebra, aby nadać im śnieżnobiały połysk i zabezpieczyć przed ciemnieniem (srebro) oraz zarysowaniami.",
+        "Odkryty w 1803 roku przez Williama Hyde'a Wollastona (krótko po odkryciu palladu). Wollaston rozpuścił surową platynę w wodzie królewskiej i zauważył, że po usunięciu platyny i palladu pozostał różowy roztwór. Nazwa pochodzi od greckiego *rhodon* (róża), nawiązując do barwy soli rodu.",
+        "Rod jest metalem szlachetnym całkowicie odpornym na utlenianie w powietrzu, nawet po podgrzaniu (dopiero w bardzo wysokich temperaturach tworzy tlenek, który rozkłada się przy dalszym ogrzewaniu). Dzięki temu lustra i reflektory pokryte rodem zachowują swoje właściwości optyczne przez lata, nie matowiejąc."
+      ]
+    },
+    {
+      "symbol": "Pd",
+      "name": "PALLAD",
+      "atomicNumber": 46,
+      "miningReason": "Pallad jest metalem szlachetnym wydobywanym głównie ze złóż niklowo-miedziowych (Norilsk, Rosja) oraz platynowych (RPA). Występuje w nich jako produkt uboczny w postaci siarczków i stopów. Proces rafinacji jest podobny do innych platynowców. Koncentrat rozpuszcza się w wodzie królewskiej. Pallad (wraz z platyną i złotem) przechodzi do roztworu. Następnie jest oddzielany od platyny poprzez ekstrakcję lub strącanie solą amonową (powstaje pomarańczowy osad Pd(NH3)2Cl2). Czysty metal w formie gąbki uzyskuje się przez prażenie osadu i redukcję.",
+      "facts": [
+        "Pallad posiada niezwykłą właściwość absorpcji wodoru – w temperaturze pokojowej potrafi wchłonąć gazowy wodór w ilości do 900 razy większej niż jego własna objętość (niczym gąbka wodę). Wykorzystuje się to do magazynowania wodoru oraz w procesach jego oczyszczania.",
+        "Jest kluczowym składnikiem katalizatorów samochodowych (obok platyny i rodu). Odpowiada głównie za utlenianie węglowodorów i tlenku węgla. Ze względu na rosnące ceny palladu (który okresowo był droższy od złota), producenci aut szukają sposobów na zmniejszenie jego zużycia.",
+        "Pallad jest popularnym metalem jubilerskim (\"białe złoto\"). Często stanowi składnik stopowy białego złota (odbarwia żółte złoto) lub występuje samodzielnie (próba 950 lub 500). Jest lżejszy od platyny, nie ciemnieje jak srebro i jest hipoalergiczny.",
+        "Odkryty w 1803 roku przez W.H. Wollastona. Wollaston nazwał go na cześć planetoidy Pallas, odkrytej zaledwie rok wcześniej. Aby udowodnić swoje odkrycie i zarobić, anonimowo wystawił próbkę metalu w sklepie w Londynie, co wywołało sensację w świecie naukowym.",
+        "Nagroda Nobla z chemii w 2010 roku (Heck, Negishi, Suzuki) dotyczyła reakcji sprzęgania katalizowanych palladem. Reakcje te są fundamentalne dla współczesnej syntezy leków, elektroniki organicznej (OLED) i zaawansowanych materiałów. Bez palladu nowoczesna chemia organiczna wyglądałaby zupełnie inaczej."
+      ]
+    },
+    {
+      "symbol": "Ag",
+      "name": "SREBRO",
+      "atomicNumber": 47,
+      "miningReason": "Srebro uzyskuje się głównie jako produkt uboczny przy rafinacji miedzi, ołowiu i cynku. Podczas elektrorafinacji miedzi srebro gromadzi się w szlamie anodowym, z którego jest odzyskiwane chemicznie i oczyszczane elektrolitycznie (do czystości 99,99%).",
+      "facts": [
+        "Ma najwyższą przewodność elektryczną i cieplną ze wszystkich metali, dlatego (mimo ceny) jest niezastąpione w precyzyjnej elektronice i stykach wysokiej jakości.",
+        "Srebro ma silne właściwości bakteriobójcze i grzybobójcze (nanocząstki srebra), co wykorzystuje się w medycynie (opatrunki), filtrach wody, a nawet odzieży sportowej.",
+        "KGHM Polska Miedź jest jednym z największych na świecie producentów srebra metalicznego (często zajmując 1. lub 2. miejsce w rankingach \"World Silver Survey\").",
+        "Przez wieki było podstawą systemów walutowych; angielski funt szterling był pierwotnie wart tyle, co funt (masa) srebra próby sterling.",
+        "Związki srebra (jodek srebra) są używane do \"zasiewania chmur\" w celu wywoływania deszczu lub zapobiegania gradobiciu."
+      ]
+    },
+    {
+      "symbol": "Cd",
+      "name": "KADM",
+      "atomicNumber": 48,
+      "miningReason": "Kadm wydobywa się z rud cynku w procesie flotacji, gdzie kadm występuje z siarczkami cynku i innych metali – podczas wytapiania rudy cynku w piecu redukcyjnym przy temperaturze 1200°C kadm paruje ze względu na jego niski punkt wrzenia (765°C) i jest zbierany z dymu w postaci tlenku kadmu (CdO) poprzez elektrostatyczne filtry i system płuczek. Zebrana para kadmu jest kondensowana i rozpuszczana w roztworze kwasu siarkowego, a następnie kadm jest wydzielany elektrolitycznie na katodzie miedzianej w roztworze siarczanu kadmu, uzyskując czysty kadm metaliczny, który jest rafinowany przez destylację w próżni do czystości 99,95%.",
+      "facts": [
+        "Kadm jest pierwiastkiem wysoce trującym dla ludzi i ekosystemów – jego związki (chlorki, siarczki, szczawiany) powodują nieodwracalne uszkodzenia nerek, kości (osteoporoza \"itai-itai\"), wątroby i płuc nawet w bardzo niskich stężeniach, co powoduje, że kadm jest klasyfikowany jako rakotwórczy grupy 1.",
+        "Kadm naturalnie pozyskiwany jest przy operacjach górniczych cynku – głównym źródłem kadmu jest wydobycie z rud cynku, gdzie jego zawartość wynosi 0,3-1,4%, co stanowi znaczny problem dla zdrowia pracowników kopalni i populacji otaczającej tereny górnicze bez odpowiedniej kontroli emisji.",
+        "Kadm ma niski punkt topnienia (320°C) i punkt wrzenia (765°C) – ta właściwość czyni go materiałem do produkcji specjalnych wyrobów metalurgicznych i półprzewodników o niskich temperaturach topnienia, takie jak stopy miedzi-kadm do łożysk pojazdów.",
+        "Kadm był wcześniej głównym materiałem do produkcji baterii alkalicznych (baterii Ni-Cd), które były popularne ze względu na wysoką pojemność energetyczną, jednak ze względu na toksyczność kadmu i bardziej efektywne alternatywy (litowo-jonowe), produkcja baterii nikiel-kadm została prawie całkowicie zastąpiona w krajach Unii Europejskiej.",
+        "Kadm może migrować przez łańcuch pokarmowy – rośliny absorbują jony kadmu (Cd²⁺) z gleby, a zwierzęta pasące się na takich roślinach akumulują kadm w swoich tkankach, co powoduje, że zawartość kadmu w produktach spożywczych (ryby, chleb, mleko) może znacznie przekraczać bezpieczne poziomy w regionach górniczych."
+      ]
+    },
+    {
+      "symbol": "In",
+      "name": "IND",
+      "atomicNumber": 49,
+      "miningReason": "Ind wydobywa się z rud cynku w procesie flotacji, gdzie ind występuje z siarczkami cynku (sfalerit ZnS) – podczas prażenia rud cynku ind paruje w postaci jego tlenków (In2O3) i jest zbierany z dymu gazowego poprzez system czyszczenia (filtry rękawowe i mokre skrubery), gdzie jest rozpuszczany w roztworach alkalicznych. Rozpuszczony ind w postaci indanów (InO2⁻) jest rafinowany poprzez ługowanie selektywne i strącanie, a następnie jest redukowany do indu metalicznego poprzez elektrolizę w roztworze chlorkowym na katodzie miedzianej, uzyskując czysty ind o czystości 99,9999% (sześć dziewiątek czystości).",
+      "facts": [
+        "Ind jest pierwiastkiem niezwykle rzadkim i cenionym – jego zawartość w skorupie ziemskiej wynosi zaledwie 0,1 części na miliard, a głównym źródłem indu jest wydobycie z rud cynku i ołowiu, gdzie wynosi zaledwie 0,1-1 ppm, co czyni go jednym z najtrudniejszych do wydobycia pierwiastków.",
+        "Ind ma jeden z najniższych punktów topnienia spośród metali (ok. 157°C) – ta właściwość czyni go cennym materiałem do produkcji specjalnych wyrobów metalurgicznych, takich jak stopy indowe do termometrów o niskich temperaturach topnienia bez toksyczności rtęci.",
+        "Ind jest kluczowym materiałem dla branży półprzewodników – tlenek indu i cyny (ITO – Indium Tin Oxide) jest uniwersalnym materiałem do produkcji przezroczystych elektrod w ekranach dotykowych (smartfonów, tabletów), panelach solarnych i wyświetlaczach LED, gdzie może przewodzić prąd bez zmian przejrzystości.",
+        "Historia odkrycia indu sięga 1863 roku, gdy Ferdinand Reich i Theodor Richter odkryli ind spektroskopowo w rudzie cynku – nazwa \"indium\" pochodzi od jasnoniebieskiej linii w spektrze emisyjnym elementu, która przypominała im indygo (farbę indygo).",
+        "Ind jest stosunkowo nieszkodliwy dla zdrowia człowieka w normalnych warunkach – jego rozpuszczalność w wodzie i kwasach jest niska, więc nie wykazuje toksyczności jak kadm lub tal, jednak długotrwała ekspozycja pracowników w zakładach przetwórczych wymaga monitorowania ze względu na potencjalne nieznane skutki zdrowotne."
+      ]
+    },
+    {
+      "symbol": "Sn",
+      "name": "CYNA",
+      "atomicNumber": 50,
+      "miningReason": "Cyna wydobywana jest głównie z kasyterytu (tlenku cyny SnO2). Ruda wydobywana jest metodami odkrywkowymi lub dragowania (w złożach aluwialnych). Urobek poddaje się grawitacyjnemu wzbogacaniu (płukanie), ponieważ kasyteryt jest znacznie cięższy od piasku i skał płonnych. Koncentrat cyny jest mieszany z węglem (koksem) i wapieniem, a następnie redukowany w piecach hutniczych w temperaturze ok. 1200°C. Powstała surowa cyna jest rafinowana ogniowo (likwacja) lub elektrolitycznie w celu usunięcia zanieczyszczeń (żelaza, miedzi, arsenu), osiągając czystość handlową 99,85% lub wyższą (\"Four Nines\" - 99,99%).",
+      "facts": [
+        "Cyna jest znana ludzkości od tysiącleci – to ona dała nazwę \"Epoce Brązu\". Dodatek cyny do miedzi tworzy brąz, który jest twardszy i łatwiejszy w odlewaniu niż czysta miedź. To odkrycie zrewolucjonizowało wytwarzanie narzędzi i broni ok. 3000 lat p.n.e.",
+        "\"Zaraza cynowa\" (trąd cynowy) – w niskich temperaturach (poniżej 13,2°C) błyszcząca, metaliczna odmiana cyny (beta) samorzutnie przemienia się w szary, kruchy proszek (odmiana alfa). Ponoć zjawisko to przyczyniło się do klęski armii Napoleona w Rosji, gdy cynowe guziki przy mundurach żołnierzy rozsypały się na mrozie.",
+        "Cyna jest kluczowa dla elektroniki – jest głównym składnikiem stopów lutowniczych (lutów) używanych do łączenia elementów elektronicznych na płytkach drukowanych. Od czasu wprowadzenia dyrektywy RoHS, stosuje się głównie stopy bezołowiowe (prawie czysta cyna z domieszkami srebra i miedzi).",
+        "Puszki \"cynowe\" są w rzeczywistości stalowe – cyna służy jedynie jako cienka warstwa ochronna zapobiegająca korozji stali i reakcji żywności z metalem. Mimo to nazwa \"puszka\" w wielu językach (np. tin can) wciąż nawiązuje do cyny.",
+        "Szkło float – większość współczesnych szyb okiennych produkuje się metodą Pilkingtona, wylewając płynne szkło na taflę roztopionej cyny. Idealnie płaska powierzchnia ciekłej cyny sprawia, że szkło zastyga, będąc idealnie gładkim i równym bez konieczności szlifowania."
+      ]
+    },
+    {
+      "symbol": "Sb",
+      "name": "ANTYMON",
+      "atomicNumber": 51,
+      "miningReason": "Antymon pozyskuje się z rud siarczkowych (głównie stibnit, Sb2S3). Uboższe rudy są prażone do tlenków, a bogatsze wytapiane bezpośrednio. Metaliczny antymon otrzymuje się przez redukcję tlenku węglem lub redukcję siarczku żelazem w wysokiej temperaturze.",
+      "facts": [
+        "Jest półmetalem, który po zakrzepnięciu zwiększa swoją objętość (podobnie jak woda i bizmut). Ta cecha pozwala na odlewanie precyzyjnych czcionek drukarskich (stop ołowiu, cyny i antymonu).",
+        "Głównym zastosowaniem (ok. 60%) jest produkcja trójtlenku antymonu, używanego jako uniepalniacz (opóźniacz palenia) w tworzywach sztucznych, tekstyliach i elektronice.",
+        "Dodatek antymonu do ołowiu (ołów twardy) utwardza go, co wykorzystuje się w produkcji akumulatorów samochodowych i amunicji.",
+        "Starożytni Egipcjanie używali siarczku antymonu (stibnit) jako czarnego kosmetyku do oczu (kohl).",
+        "W średniowieczu \"pigułki wieczne\" z metalicznego antymonu były używane jako wielorazowy środek przeczyszczający – po wydaleniu były myte i przekazywane kolejnym pokoleniom."
+      ]
+    },
+    {
+      "symbol": "Te",
+      "name": "TELLUR",
+      "atomicNumber": 52,
+      "miningReason": "Tellur pozyskuje się głównie ze szlamów anodowych powstających przy elektrolitycznej rafinacji miedzi. Szlamy stapia się z sodą, ługuje wodą, a następnie wydziela tellur metaliczny (np. przez elektrolizę roztworu tellurynu sodu).",
+      "facts": [
+        "Jest rzadkim półmetalem, który w skorupie ziemskiej występuje rzadziej niż złoto czy platyna.",
+        "Tellurek kadmu (CdTe) jest jednym z najważniejszych materiałów w produkcji cienkowarstwowych ogniw fotowoltaicznych.",
+        "Dodatek telluru do stali i miedzi znacznie ułatwia ich obróbkę mechaniczną (skrawalność).",
+        "Związki telluru są toksyczne, a nawet śladowy kontakt z nimi powoduje, że oddech i pot człowieka zyskują intensywny, czosnkowy zapach (\"tellurowy oddech\"), który może utrzymywać się tygodniami.",
+        "Nazwa pochodzi od łacińskiego słowa \"tellus\" (Ziemia), w przeciwieństwie do selenu (\"selene\" - Księżyc), z którym często współwystępuje."
+      ]
+    },
+    {
+      "symbol": "I",
+      "name": "JOD",
+      "atomicNumber": 53,
+      "miningReason": "Jod pozyskuje się głównie z solanek towarzyszących złożom ropy naftowej i gazu (np. w Japonii) oraz z rud saletry chilijskiej. Jony jodkowe są utleniane (np. chlorem) do wolnego jodu, który następnie jest wydmuchiwany powietrzem i rafinowany przez sublimację.",
+      "facts": [
+        "Jod w temperaturze pokojowej jest ciałem stałym o szaro-czarnym, metalicznym połysku, który łatwo sublimuje, tworząc charakterystyczne, fioletowe opary o gryzącym zapachu.",
+        "Jest niezbędnym mikroelementem dla człowieka – wchodzi w skład hormonów tarczycy (tyroksyny i trójjodotyroniny), regulujących metabolizm.",
+        "Niedobór jodu prowadzi do powstawania wola tarczycy i zaburzeń rozwoju; problem ten rozwiązano w wielu krajach poprzez obowiązkowe jodowanie soli kuchennej.",
+        "Jodyna (alkoholowy roztwór jodu) jest jednym z najstarszych i najskuteczniejszych środków dezynfekujących rany.",
+        "Izotop Jod-131 gromadzi się w tarczycy, co stwarza zagrożenie przy skażeniach promieniotwórczych (stąd podawanie płynu Lugola), ale jest też wykorzystywane w terapii nowotworów tarczycy."
+      ]
+    },
+    {
+      "symbol": "Xe",
+      "name": "KSENON",
+      "atomicNumber": 54,
+      "miningReason": "Ksenon jest wydobywany razem z argonem i kryptonem podczas frakcyjnej destylacji ciekłego powietrza. Jako gaz cięższy od argonu, ksenon jest oddzielany w końcowych etapach procesu destylacji poprzez adsorpcję i dalszą rektyfikację.",
+      "facts": [
+        "Ksenon jest jednym z najrzadszych gazów szlachetnych, stanowiącym zaledwie 0,0000087% powietrza atmosferycznego (ok. 1 cząsteczka na 11 milionów).",
+        "Jest gazem szlachetnym o bardzo dużej gęstości (ok. 4,5 razy cięższy od powietrza).",
+        "Ksenon znajduje zastosowanie w lampach łukowych dużej mocy (używanych np. w projektorach kinowych IMAX), które emitują światło o widmie zbliżonym do słonecznego.",
+        "Wykorzystywany jest w silnikach jonowych do napędu sond kosmicznych i satelitów, zapewniając wysoki impuls właściwy.",
+        "Lampy ksenonowe w reflektorach samochodowych (tzw. ksenony) zapewniają doskonałą widoczność w nocy dzięki jasnej, biało-niebieskiej barwie światła."
+      ]
+    },
+    {
+      "symbol": "Cs",
+      "name": "CEZ",
+      "atomicNumber": 55,
+      "miningReason": "Cez wydobywa się głównie z minerału pollucytu, który poddaje się trawieniu kwasem (solnym lub siarkowym) w celu przeprowadzenia cezu do roztworu. Czysty metal otrzymuje się najczęściej poprzez redukcję dichromianu cezu lub chlorku cezu wapniem lub magnezem w próżni.",
+      "facts": [
+        "Cez jest najbardziej reaktywnym metalem (pomijając nietrwały frans); w kontakcie z wodą reaguje wybuchowo, nawet w temperaturze -116°C.",
+        "Ma bardzo niską temperaturę topnienia (28,5°C), co sprawia, że w ciepły dzień (lub trzymany w ampułce w dłoni) staje się ciekły.",
+        "Cez-133 jest podstawą definicji sekundy w układzie SI – zegary atomowe oparte na cezie są wzorcem czasu dla świata (w tym systemów GPS).",
+        "Izotop promieniotwórczy Cez-137 jest groźnym składnikiem opadu promieniotwórczego, ale znajduje też zastosowanie w radioterapii i przemyśle (np. defektoskopia).",
+        "Jest metalem alkalicznym o najmniejszej energii jonizacji, co czyni go użytecznym w fotopowielaczach i ogniwach fotoelektrycznych."
+      ]
+    },
+    {
+      "symbol": "Ba",
+      "name": "BAR",
+      "atomicNumber": 56,
+      "miningReason": "Bar pozyskuje się głównie z minerału barytu (siarczan baru), który redukuje się węglem do siarczku, a następnie przetwarza na inne związki. Czysty metaliczny bar otrzymuje się poprzez redukcję tlenku baru glinem (aluminium) w próżni w temperaturze ok. 1100°C.",
+      "facts": [
+        "Nazwa pochodzi od greckiego słowa \"barys\" oznaczającego \"ciężki\", co nawiązuje do dużej gęstości jego głównego minerału (barytu).",
+        "Siarczan baru (tzw. \"kontrast\") jest nierozpuszczalny i nietoksyczny, dlatego pacjenci piją jego zawiesinę przed prześwietleniem rentgenowskim żołądka.",
+        "Sole baru barwią płomień na intensywny, zielony kolor, dlatego są podstawowym składnikiem zielonych ogni sztucznych i flar sygnalizacyjnych.",
+        "Historycznie tlenek baru był używany w katodach lamp elektronowych do zwiększenia emisji elektronów.",
+        "Wiercenia naftowe zużywają ogromne ilości barytu jako składnika \"płuczki wiertniczej\", która obciąża otwór i zapobiega wybuchom (blowout)."
+      ]
+    },
+    {
+      "symbol": "La",
+      "name": "LANTAN",
+      "atomicNumber": 57,
+      "miningReason": "Lantan wydobywa się z bastnäsytu zawierającego rozproszone lantany (2-3% La2O3), metodą wydobycia odkrywkowego ze złóż pegmatytowych zawierających minerały ziem rzadkich, gdzie ruda zawierająca lantan jest kruszona, mielona i poddawana flotacji, a następnie separacji magnetycznej w celu wzbogacenia zawartości lantanu i oddzielenia minerałów towarzyszących. Wzbogacony koncentrat ziem rzadkich zawierający lantan (2-4% La2O3) jest rozpuszczany w roztworze kwasu siarkowego w temperaturze 90-100°C w celu uzyskania roztworu siarczanów ziem rzadkich, a następnie lantan jest wydzielany poprzez ekstrakcję rozpuszczalnikową przy użyciu organicznych rozpuszczalników (trioktylofosfiną), gdzie jest selektywnie rozdzielany od ceru (poprzedniego w sekwencji), a następnie redukowany do lantanu metalicznego poprzez redukcję fluorku lantanu magnezem w temperaturze 1000-1150°C w próżni, uzyskując czysty lantan o czystości 99,5-99,9%.",
+      "facts": [
+        "Lantan jest pierwszym pierwiastkiem ziem rzadkich w sekwencji lantanowców (liczba atomowa 57) – jego nazwa pochodzi od greckiego słowa \"lanthano\", oznaczającego \"ukrywać się\", ponieważ przez długo uważano, że cer jest czystym pierwiastkiem aż do odkrycia, że zawiera lantan jako zanieczyszczenie.",
+        "Lantan ma zastosowanie w produkcji soczewek optycznych – szkła zawierające lantan mają wysoki współczynnik załamania światła (n > 1,8), co pozwala na produkcję bardzo kompaktowych soczewek o dużej zdolności ogniskującej, stosowanych w aparatach fotograficznych, kamerach i systemach optycznych.",
+        "Lantan jest materiałem do produkcji baterii – stop lantanu z niklem jest kluczowym składnikiem anod w akumulatorach niklowo-wodorkowych (NiMH), powszechnie stosowanych w pojazdach hybrydowych.",
+        "Historia odkrycia lantanu sięga 1838 roku, gdy Carl Gustaf Mosander wyizolował lantan spektroskopowo z ceru – nazwa \"lantan\" pochodzi rzeczywiście od greckiego słowa \"lanthano\", ponieważ pierwotnie nie rozpoznano go jako oddzielny pierwiastek i był uważany za zanieczyszczenie ceru.",
+        "Lantan jest materiałem o niskiej toksyczności – jego rozpuszczalność w wodzie jest niska, jednak przy długotrwałej ekspozycji sole lantanu mogą wpływać na procesy biologiczne, dlatego wymagana jest ostrożność."
+      ]
+    },
+    {
+      "symbol": "Ce",
+      "name": "CER",
+      "atomicNumber": 58,
+      "miningReason": "Cer wydobywa się z bastnäsytu i monacytu zawierających rozproszony cer (4-5% CeO2), metodą wydobycia odkrywkowego ze złóż pegmatytowych i placerowych zawierających minerały ziem rzadkich, gdzie ruda zawierająca cer jest kruszona, mielona i poddawana flotacji, a następnie separacji magnetycznej w celu wzbogacenia zawartości ceru i oddzielenia minerałów towarzyszących. Wzbogacony koncentrat ziem rzadkich zawierający cer (4-8% CeO2) jest rozpuszczany w roztworze kwasu siarkowego w temperaturze 90-100°C w celu uzyskania roztworu siarczanów ziem rzadkich, a następnie cer jest wydzielany poprzez ługowanie alkaliczne (tym razem w odróżnieniu od innych lantanowców cer nie rozpuszcza się w alkaliach) co pozwala na separację ceru jako nierozpuszczalnego osadu, który następnie jest rozpuszczany w kwasie i redukowany do ceru metalicznego poprzez redukcję fluorku ceru magnezem w temperaturze 1000-1150°C w próżni, uzyskując czysty cer o czystości 99,5-99,9%.",
+      "facts": [
+        "Cer jest najbardziej rozpowszechnionym metalem ziem rzadkich – jego zawartość w skorupie ziemskiej wynosi 66 ppm, co czyni go bardziej rozpowszechnionym niż miedź, a głównym zastosowaniem ceru jest produkcja katalitycznych przekształcaczy w samochodach (40% zużycia ceru).",
+        "Cer ma zastosowanie w katalitycznych przekształcaczach samochodowych – tlenek ceru (CeO2) jest powszechnie stosowany do zmniejszania stężenia toksycznych gazów spalinowych (NOx, HC, CO), gdzie katalitycznie konwertuje je w bezpieczne produkty (N2, H2O, CO2) przy temperaturze 400-700°C.",
+        "Cer jest materiałem do produkcji szlifów optycznych – tlenki ceru są powszechnie stosowane do polerowania szkła i szafirów w produkcji soczewek optycznych, przyrządów pomiarowych i ekranów smartfonów, gdzie osiąga precyzję na poziomie nanometrów.",
+        "Historia odkrycia ceru sięga 1803 roku, gdy niezależnie Wilhelm Hisinger i Martin Heinrich Klaproth wyizolowali cer spektroskopowo w minerale cerite – nazwa \"cer\" pochodzi od planetoidy Ceres odkrytej zaledwie dwa lata wcześniej (1801), będąc hołdem dla nowego odkrycia astronomicznego.",
+        "Cer jest materiałem o niskiej toksyczności – jego rozpuszczalność w wodzie jest niska, dlatego w postaci metalicznej lub tlenkowej jest stosunkowo bezpieczny, jednak przy pracy z pyłami należy zachować ostrożność."
+      ]
+    },
+    {
+      "symbol": "Pr",
+      "name": "PRAZEODYM",
+      "atomicNumber": 59,
+      "miningReason": "Prazeodym jest lantanowcem lekkim, występującym powszechnie w minerałach takich jak monacyt i bastnazyt (często stanowi około 5% zawartości REE). Jest wydobywany i przetwarzany razem z neodymem, cerem i lantanem. Oddzielenie prazeodymu od neodymu (sąsiedniego pierwiastka o bardzo zbliżonych właściwościach) jest trudne i tradycyjnie odbywało się metodą krystalizacji frakcyjnej. Obecnie stosuje się ekstrakcję rozpuszczalnikową. Czysty metal uzyskuje się przez elektrolizę stopionych soli (chlorków) lub redukcję wapniem. Często produkuje się go w formie stopu z neodymem, zwanego *dydymem*.",
+      "facts": [
+        "\"Didym\" – przez wiele lat uważano, że istnieje pierwiastek o nazwie didym. Dopiero w 1885 roku Carl Auer von Welsbach odkrył, że didym to w rzeczywistości mieszanina dwóch pierwiastków: neodymu (\"nowego bliźniaka\") i prazeodymu (\"zielonego bliźniaka\").",
+        "Nazwa pochodzi od greckich słów *prasios* (zielony) i *didymos* (bliźniak). Sole prazeodymu mają charakterystyczną, jasnozieloną barwę (podobnie jak np. szczypiorek).",
+        "Prazeodym jest składnikiem szkieł ochronnych dla spawaczy i dmuchaczy szkła (szkło dydymowe). Bardzo silnie pochłania żółte światło sodowe, które jest emitowane podczas spawania i pracy z palnikiem, chroniąc oczy i poprawiając widoczność.",
+        "Jest kluczowym składnikiem stopów magnezowych o wysokiej wytrzymałości, używanych w częściach silników lotniczych (np. w myśliwcach F-16).",
+        "Podobnie jak neodym, prazeodym jest wykorzystywany do produkcji silnych magnesów trwałych. Często zastępuje część neodymu w magnesach NdFeB, ponieważ jest tańszy, a w pewnych proporcjach poprawia odporność magnesu na korozję."
+      ]
+    },
+    {
+      "symbol": "Nd",
+      "name": "NEODYM",
+      "atomicNumber": 60,
+      "miningReason": "Neodym jest jednym z najpospolitszych pierwiastków ziem rzadkich (występuje częściej niż ołów czy miedź, ale w dużym rozproszeniu). Główne minerały to monacyt i bastnazyt. Oddzielenie neodymu od sąsiednich pierwiastków (lantanu, ceru, prazeodymu) jest trudne i kosztowne. Stosuje się ekstrakcję rozpuszczalnikową. Czysty metal otrzymuje się przez elektrolizę stopionych halogenków (chlorku neodymu) lub redukcję wapniem. Metal szybko utlenia się na powietrzu, pokrywając się różowo-fioletowym nalotem tlenków.",
+      "facts": [
+        "Magnesy neodymowe (Nd2Fe14B) to najsilniejsze znane magnesy trwałe. Są w stanie utrzymać ciężar 1000-krotnie większy od własnego. Są kluczowe dla miniaturyzacji elektroniki (dyski twarde, słuchawki, głośniki w telefonach) oraz dla zielonej energii (turbiny wiatrowe, silniki aut elektrycznych).",
+        "Neodym jest używany do barwienia szkła. Szkło neodymowe ma niezwykłą, fioletowo-różową barwę, która zmienia się w zależności od rodzaju oświetlenia (zjawisko dichroizmu). Jest używane w luksusowej zastawie stołowej i sztuce szklarskiej.",
+        "Lasery neodymowe (Nd:YAG) są jednymi z najpopularniejszych laserów na świecie. Używa się ich do cięcia metalu, grawerowania, usuwania tatuaży, korekcji wzroku oraz w dalmierzach wojskowych (do oznaczania celów).",
+        "Odkryty w 1885 roku przez Carla Auera von Welsbacha, który rozdzielił \"didym\" (uważany wcześniej za pierwiastek) na dwie substancje: neodym (\"nowy bliźniak\") i prazeodym.",
+        "\"Neodymowe magnesy zabawki\" – małe kulki magnetyczne z neodymu są popularną zabawką logiczną, ale są niezwykle niebezpieczne po połknięciu (szczególnie przez dzieci), ponieważ mogą przyciągać się przez ściany jelit, powodując ich perforację. Wiele krajów wprowadziło restrykcje w ich sprzedaży."
+      ]
+    },
+    {
+      "symbol": "Pm",
+      "name": "PROMET",
+      "atomicNumber": 61,
+      "miningReason": "Promet jest pierwiastkiem, który nie występuje w skorupie ziemskiej w ilościach wydobywczych (szacuje się, że w całej skorupie jest go mniej niż 1 kg). Nie tworzy minerałów. Cały dostępny promet jest pochodzenia sztucznego. Otrzymuje się go jako produkt uboczny rozszczepienia uranu w reaktorach jądrowych. Z 1 tony zużytego paliwa jądrowego można odzyskać ok. 500 gramów prometu (głównie izotop ¹⁴⁷Pm). Separacja odbywa się metodami wymiany jonowej. Czysty metal uzyskuje się przez redukcję fluorku PmF3 litem.",
+      "facts": [
+        "Promet jest jedynym lantanowcem (i jednym z dwóch pierwiastków lżejszych od bizmutu, obok technetu), który nie posiada żadnego trwałego izotopu. Wszystkie jego izotopy są promieniotwórcze.",
+        "\"Baterie jądrowe\" – izotop promet-147 jest źródłem promieniowania beta o małej energii. Jest wykorzystywany w bateriach atomowych (betawoltaicznych), które mogą działać nieprzerwanie przez kilka lat. Stosuje się je w rozrusznikach serca, zegarkach i pojazdach kosmicznych.",
+        "Farba świecąca w ciemności – promet był (i czasem nadal jest) dodawany do luminoforów (zamiast radu), aby zmusić je do świecenia bez dostępu światła. Używano go do malowania wskazówek zegarków i celowników broni, choć obecnie zastępuje się go bezpieczniejszym trytem.",
+        "Jego istnienie przewidział Bohuslav Brauner w 1902 roku, ale ostatecznie udowodnili je dopiero w 1945 roku Jacob A. Marinsky, Lawrence E. Glendenin i Charles D. Coryell, badając produkty rozszczepienia uranu w reaktorze w Oak Ridge (USA).",
+        "Nazwa pochodzi od Prometeusza – tytana z mitologii greckiej, który ukradł bogom ogień i dał go ludziom. Symbolizuje to \"wykradzenie\" nowego pierwiastka z \"ognia\" reaktora jądrowego oraz trudności związane z jego okiełznaniem."
+      ]
+    },
+    {
+      "symbol": "Sm",
+      "name": "SAMAR",
+      "atomicNumber": 62,
+      "miningReason": "Samar jest średnio ciężkim lantanowcem, wydobywanym głównie z bastnazytu i monacytu. W tych minerałach występuje w stężeniach rzędu kilku procent. W procesie separacji pierwiastków ziem rzadkich samar jest oddzielany od neodymu i gadolinu metodą ekstrakcji rozpuszczalnikowej. Czysty metaliczny samar otrzymuje się przez redukcję tlenku samaru (Sm2O3) metalicznym lantanem lub mieszaniną metali *mischmetal*. Ze względu na wysoką prężność par, samar można oddestylować z mieszaniny reakcyjnej.",
+      "facts": [
+        "Magnesy samarowo-kobaltowe (SmCo5 i Sm2Co17) były pierwszymi silnymi magnesami ziem rzadkich, opracowanymi w latach 70. Choć są słabsze od neodymowych, mają nad nimi jedną ogromną przewagę: są odporne na wysokie temperatury (do 300°C) i korozję. Dlatego używa się ich w silnikach lotniczych i wojskowych.",
+        "Izotop samar-153 jest stosowany w medycynie paliatywnej (lek Quadramet) do łagodzenia silnego bólu kostnego u pacjentów z przerzutami nowotworowymi do kości. Emituje promieniowanie beta, które niszczy komórki nowotworowe w ognisku bólu.",
+        "Samar odegrał ważną rolę w datowaniu wieku skał księżycowych i meteorytów (metoda samarowo-neodymowa). Dzięki niej wiemy, jak formowała się skorupa ziemska i inne ciała Układu Słonecznego.",
+        "Jest pierwszym pierwiastkiem chemicznym nazwanym na cześć człowieka. Został odkryty w minerale samarskicie, który z kolei został nazwany na cześć rosyjskiego inżyniera górnictwa, pułkownika Wasilija Samarskiego-Bychowca, który udostępnił próbki minerałów do badań.",
+        "Związki samaru są używane jako katalizatory w reakcjach organicznych (np. jodek samaru(II) - odczynnik Kagana) oraz w produkcji szkła absorbującego podczerwień. Szkło z dodatkiem samaru stosuje się też do tłumienia hałasu w laserach."
+      ]
+    },
+    {
+      "symbol": "Eu",
+      "name": "EUROP",
+      "atomicNumber": 63,
+      "miningReason": "Europ wydobywa się z monacytu i bastnäsytu zawierających rozproszone europowce (0,05-0,2% Eu2O3), metodą wydobycie odkrywkowe ze złóż pegmatytowych i placerowych zawierających minerały ziem rzadkich, gdzie ruda jest kruszena, mielona i poddawana flotacji, a następnie separacji magnetycznej w celu wzbogacenia zawartości europu i oddzielenia minerałów towarzyszących. Wzbogacony koncentrat ziem rzadkich zawierający europ (0,1-0,5% Eu2O3) jest rozpuszczany w roztworze kwasu siarkowego w temperaturze 90-100°C w celu uzyskania roztworu siarczanów ziem rzadkich, a następnie europ jest wydzielany poprzez ekstrakcję rozpuszczalnikową przy użyciu organicznych rozpuszczalników, gdzie jest selektywnie rozdzielany od innych lantanowców, a następnie redukowany do europumu metalicznego poprzez redukcję fluorku europamu magnesem w temperaturze 1200-1350°C w próżni, uzyskując czysty europ o czystości 99,5-99,9%.",
+      "facts": [
+        "Europ jest pierwiastkiem lantanowca o unikalne dwuwartościowe właściwości – może istnieć zarówno w stanie trójwartościowym (Eu³⁺) jak i dwuwartościowym (Eu²⁺), co czyni go cennym materiałem do produkcji luminoforów fluorescentnych, gdzie różne stany utlenienia generują różne kolory światła.",
+        "Europ jest głównym materiałem do produkcji czerwonych pikseli w telewizorach – luminofory zawierające europ trzyjądrowy (Eu³⁺) emitują światło czerwone pod wpływem promieniowania ultrafioletowego, które jest wykorzystywane w ekranach LCD, CRT telewizorów i monitorów komputerowych do uzyskania jasnych, nasyconych kolorów czerwonych.",
+        "Europ ma zastosowanie w banknotach i biletach identyfikacyjnych – niewielkie ilości europowych luminoforów są drukowane na banknotach i dowodach osobistych jako niewidoczne dla oka znaki zabezpieczające, które stają się widoczne pod promieniowaniem ultrafioletowym i są trudne do podrabiania.",
+        "Historia odkrycia europamu sięga 1896 roku, gdy Eugene-Anatole Demarçay wyizolował europ spektroskopowo z gadolinitu jako \"europium\" – nazwa pochodzi od Europy, kontynentu, gdzie jednak żaden z pierwszych odkrywców nie pochodzi, co jest interesującą anomalią w nomenclaturze pierwszych elementów.",
+        "Europ ma potencjalne zastosowanie w medycynie nuklearnej – izotop ¹⁵²Eu (które jest radioaktywne) wykazuje obiecujące właściwości dla diagnostyki medycznej, jednak ze względu na krótki okres półtrwania i niewielkie zasoby naturalne, nie jest powszechnie stosowany w klinice."
+      ]
+    },
+    {
+      "symbol": "Gd",
+      "name": "GADOLIN",
+      "atomicNumber": 64,
+      "miningReason": "Gadolin jest lantanowcem występującym w minerałach takich jak monacyt i bastnazyt (w mniejszych ilościach niż lantan czy cer, ale większych niż lantanowce ciężkie). Otrzymuje się go w procesie separacji REE metodą ekstrakcji ciecz-ciecz. Czysty metal produkuje się poprzez redukcję bezwodnego fluorku gadolinu (GdF3) metalicznym wapniem. Gadolin jest metalem srebrzystobiałym, kowalnym i ciągliwym.",
+      "facts": [
+        "Gadolin posiada unikalne właściwości magnetyczne. Jest ferromagnetykiem w niskich temperaturach, a jego punkt Curie (temperatura przejścia w stan paramagnetyczny) wynosi około 20°C (temperatura pokojowa). Oznacza to, że w zimny dzień kawałek gadolinu przyciągnie magnes, a w gorący – już nie (lub znacznie słabiej).",
+        "Dzięki silnemu efektowi magnetokalorycznemu (zmiana temperatury materiału pod wpływem pola magnetycznego), gadolin i jego stopy są obiecującymi materiałami do budowy ekologicznych lodówek magnetycznych, które nie potrzebują freonów ani sprężarek.",
+        "Kontrast w rezonansie magnetycznym (MRI) – jony gadolinu (Gd³⁺) mają aż 7 niesparowanych elektronów, co czyni je niezwykle silnymi paramagnetykami. Kompleksy gadolinu (środki kontrastowe) skracają czas relaksacji protonów w wodzie tkankowej, dzięki czemu obraz badanych narządów staje się jaśniejszy i wyraźniejszy.",
+        "\"Trucizna neutronowa\" – gadolin ma najwyższy przekrój czynny na wychwyt neutronów termicznych ze wszystkich naturalnych pierwiastków stabilnych (szczególnie izotop Gd-157). Dlatego jest stosowany w reaktorach jądrowych jako składnik prętów bezpieczeństwa do natychmiastowego wyłączania reaktora (SCRAM).",
+        "Został nazwany na cześć fińskiego chemika i geologa Johana Gadolina, który jako pierwszy (w 1794 r.) wyizolował tlenek itru z minerału z Ytterby, kładąc podwaliny pod chemię ziem rzadkich. Minerał ten nazwano później gadolinitem."
+      ]
+    },
+    {
+      "symbol": "Tb",
+      "name": "TERB",
+      "atomicNumber": 65,
+      "miningReason": "Terb jest jednym z najrzadszych lantanowców ciężkich (HREE). Występuje w śladowych ilościach w minerałach takich jak monacyt, ksenotym i bastnazyt, a także w glinach jonowych (Chiny). Podobnie jak inne lantanowce, terb jest trudny do wyizolowania. Wymaga wielostopniowej ekstrakcji rozpuszczalnikowej. Metaliczny terb otrzymuje się przez redukcję bezwodnego fluorku terbu (TbF3) metalicznym wapniem.",
+      "facts": [
+        "Terb jest kluczowym składnikiem \"zielonego luminoforu\" w ekranach i oświetleniu. Związki terbu emitują jasne, zielone światło pod wpływem promieniowania elektronowego lub UV. To właśnie terb odpowiada za zielony subpiksel w ekranach smartfonów, telewizorów oraz w świetlówkach trójpasmowych.",
+        "\"Terfenol-D\" – stop terbu, żelaza i dysprozu (Tb0.3Dy0.7Fe1.9) wykazuje gigantyczną magnetostrykcję. Oznacza to, że pod wpływem pola magnetycznego zmienia on swój kształt (rozszerza się lub kurczy) bardziej niż jakikolwiek inny znany stop. Właściwość ta jest wykorzystywana w sonarach morskich (\"Sound Navigation And Ranging\") oraz w głośnikach SoundBug, które zamieniają dowolną płaską powierzchnię (np. szybę) w głośnik.",
+        "Terb jest używany w ogniwach paliwowych ze stałym tlenkiem (SOFC) jako stabilizator struktury krystalicznej tlenku cyrkonu w wysokich temperaturach.",
+        "Nazwa pochodzi od wioski Ytterby w Szwecji (podobnie jak itru, erbu i iterbu). Został odkryty w 1843 roku przez Carla Gustafa Mosandera, który wykazał, że tlenek itru nie jest czystą substancją, ale zawiera zanieczyszczenia innymi tlenkami.",
+        "Terb, podobnie jak dysproz, jest dodawany do magnesów neodymowych (NdFeB) pracujących w wysokich temperaturach (np. w silnikach aut elektrycznych), aby zwiększyć ich koercję (odporność na rozmagnesowanie)."
+      ]
+    },
+    {
+      "symbol": "Dy",
+      "name": "DYSPROZ",
+      "atomicNumber": 66,
+      "miningReason": "Dysproz jest jednym z bardziej pożądanych pierwiastków ziem rzadkich. Występuje w minerałach takich jak monacyt, bastnazyt i ksenotym, a także w glinach adsorpcyjnych jonowych (głównie w południowych Chinach). Separacja dysprozu od innych lantanowców jest trudna i wymaga zaawansowanej ekstrakcji rozpuszczalnikowej. Czysty metal otrzymuje się poprzez redukcję fluorku dysprozu (DyF3) wapniem metalicznym w tyglach tantalowych.",
+      "facts": [
+        "Dysproz jest \"witaminą\" dla magnesów neodymowych. Dodatek dysprozu do stopu Nd-Fe-B znacznie zwiększa jego koercję, czyli odporność na rozmagnesowanie w wysokich temperaturach. Dzięki temu magnesy te mogą pracować w silnikach samochodów elektrycznych i turbinach wiatrowych bez utraty mocy.",
+        "Wraz z terbem i żelazem tworzy stop Terfenol-D, materiał o gigantycznej magnetostrykcji, używany w precyzyjnych siłownikach, sonarach i systemach wtrysku paliwa.",
+        "Jodek dysprozu jest używany w lampach metalohalogenkowych (HMI) do generowania intensywnego białego światła o wysokiej temperaturze barwowej, używanego na planach filmowych.",
+        "Dysproz ma jeden z najwyższych przekrojów czynnych na wychwyt neutronów termicznych. Dlatego jego tlenek (zmieszany z tlenkiem europu i niklem) jest stosowany w prętach kontrolnych reaktorów jądrowych, służących do wygaszania reakcji łańcuchowej.",
+        "Nazwa pochodzi od greckiego słowa *dysprositos*, co oznacza \"trudny do zdobycia\". Odkrywca, Paul-Émile Lecoq de Boisbaudran (1886), musiał przeprowadzić ponad 30 trudnych krystalizacji frakcyjnych, aby wyizolować ten pierwiastek z tlenku holmu. To dobrze oddaje naturę pracy z ziemiami rzadkimi."
+      ]
+    },
+    {
+      "symbol": "Ho",
+      "name": "HOLM",
+      "atomicNumber": 67,
+      "miningReason": "Holm jest metalem ziem rzadkich, wydobywanym głównie z monacytu (zawiera ok. 0,05% holmu) oraz glin jonowych w Chinach. W procesie separacji lantanowców holm jest oddzielany od dysprozu i erbu metodami ekstrakcji rozpuszczalnikowej. Czysty metal uzyskuje się przez redukcję bezwodnego chlorku lub fluorku holmu metalicznym wapniem.",
+      "facts": [
+        "Holm posiada najwyższy moment magnetyczny ze wszystkich naturalnie występujących pierwiastków (10,6 µB). Dzięki temu jest używany do wytwarzania najsilniejszych pól magnetycznych w nabiegunnikach magnesów (koncentratorach strumienia) w aparatach MRI i spektrometrach.",
+        "Lasery holmowe (Ho:YAG) emitują światło o długości fali 2,1 mikrometra. Jest ono bezpieczne dla oczu i dobrze absorbowane przez wodę w tkankach. Dlatego lasery te są standardem w urologii do rozbijania kamieni nerkowych (litotrypsja laserowa) i leczenia prostaty.",
+        "Tlenek holmu ma niezwykłą właściwość gwałtownej zmiany barwy w zależności od oświetlenia. W świetle dziennym jest bladożółty, a w świetle sztucznym (świetlówki) staje się jaskrawopomarańczowy.",
+        "Roztwory tlenku holmu są używane jako standard kalibracyjny w spektrofotometrach, ponieważ posiadają ostre i wyraźne piki absorpcji w zakresie UV-VIS.",
+        "Nazwa pierwiastka pochodzi od łacińskiej nazwy Sztokholmu (*Holmia*), rodzinnego miasta Pera Teodora Cleve'a, który odkrył go w 1878 roku. Cleve w tym samym roku odkrył również tul."
+      ]
+    },
+    {
+      "symbol": "Er",
+      "name": "ERB",
+      "atomicNumber": 68,
+      "miningReason": "Erb jest lantanowcem ciężkim, wydobywanym głównie z ksenotymu i glinek jonowych. Zawsze występuje w towarzystwie innych lantanowców, co utrudnia jego pozyskanie. Separacja odbywa się metodami ekstrakcji ciecz-ciecz. Czysty metaliczny erb otrzymuje się przez ogrzewanie chlorku lub fluorku erbu z metalicznym wapniem w atmosferze argonu. Metal ma srebrzysty połysk i jest stosunkowo odporny na utlenianie na powietrzu.",
+      "facts": [
+        "Erb jest fundamentem współczesnego internetu. Wzmacniacze optyczne domieszkowane erbem (EDFA) pozwalają na przesyłanie sygnałów w światłowodach na ogromne odległości bez konieczności zamiany sygnału na elektryczny. Erb wzmacnia sygnał o długości fali 1550 nm, która jest standardem w telekomunikacji.",
+        "Tlenek erbu ma piękny, pudrowo-różowy kolor. Jest używany do barwienia szkła (\"szkło erbowe\") i cyrkonii na kolor różowy. Takie szkło jest często używane w tanich okularach przeciwsłonecznych i biżuterii.",
+        "Lasery erbowe (Er:YAG) są powszechnie stosowane w medycynie estetycznej (resurfacing skóry, usuwanie blizn) oraz w stomatologii. Emitują światło o długości fali 2940 nm, które jest idealnie absorbowane przez wodę w tkankach, co pozwala na precyzyjną, \"zimną\" ablację z minimalnym uszkodzeniem termicznym otoczenia.",
+        "Erb został odkryty w 1843 roku przez Carla Gustafa Mosandera w Ytterby. Mosander wyodrębnił z itru trzy frakcje: itrową (bezbarwną), erbową (żółtą) i terbową (różową). Co ciekawe, w późniejszych latach nazwy \"erb\" i \"terb\" zostały przez pomyłkę zamienione miejscami w literaturze naukowej i tak już zostało.",
+        "Erb nie odgrywa żadnej biologicznej roli w organizmie człowieka, ale jego sole mogą stymulować metabolizm. Jest uważany za nisko toksyczny."
+      ]
+    },
+    {
+      "symbol": "Tm",
+      "name": "TUL",
+      "atomicNumber": 69,
+      "miningReason": "Tul jest jednym z najrzadszych lantanowców. Wydobywa się go głównie z minerałów takich jak monacyt, ksenotym i bastnazyt, które występują w piaskach rzecznych lub złożach skał magmowych. W minerałach tych tul stanowi zaledwie ułamek procenta zawartości wszystkich pierwiastków ziem rzadkich (REE). Proces wyodrębniania tulu jest trudny i kosztowny ze względu na podobieństwo chemiczne do innych lantanowców. Stosuje się wieloetapową ekstrakcję ciecz-ciecz oraz chromatografię jonowymienną. Czysty metal otrzymuje się poprzez redukcję tlenku tulu (Tm2O3) metalicznym lantanem lub wapniem w wysokiej temperaturze w atmosferze argonu.",
+      "facts": [
+        "Tul jest tak rzadki i drogi w separacji, że jego zastosowania są bardzo ograniczone. Jest najmniej powszechnym z trwałych lantanowców (nie licząc promieniotwórczego prometu). Cena czystego metalu jest bardzo wysoka.",
+        "Izotop ¹⁷⁰Tm, wytwarzany w reaktorach jądrowych, jest wykorzystywany jako przenośne źródło promieniowania X (rentgenowskiego). Dzięki temu można tworzyć miniaturowe urządzenia do prześwietlania (defektoskopii) małych elementów mechanicznych lub w stomatologii, bez konieczności używania ciężkich lamp rentgenowskich zasilanych prądem.",
+        "Tul jest używany w laserach chirurgicznych i wojskowych (np. lasery holmowo-chromowo-tulowe). Lasery te emitują światło w podczerwieni, które jest silnie absorbowane przez wodę, co pozwala na precyzyjne cięcie tkanek z minimalnym krwawieniem.",
+        "Nazwa pierwiastka pochodzi od Thule – mitycznej wyspy na dalekiej północy (prawdopodobnie Skandynawia lub Islandia), co nawiązuje do szwedzkiego pochodzenia odkrywcy, Pera Teodora Cleve'a (1879).",
+        "Podobnie jak inne lantanowce, tul wykazuje fluorescencję. Związki tulu świecą na niebiesko pod wpływem promieniowania UV, co jest wykorzystywane w zabezpieczeniach banknotów (np. banknoty Euro) przed fałszerstwem."
+      ]
+    },
+    {
+      "symbol": "Yb",
+      "name": "ITERB",
+      "atomicNumber": 70,
+      "miningReason": "Iterb jest lantanowcem, który – podobnie jak europ – wykazuje pewną tendencję do przyjmowania II stopnia utlenienia, co odróżnia go od większości REE. Występuje w monacycie, euksenicie i ksenotymie. W procesie separacji wykorzystuje się jego właściwości redukcyjne lub chromatografię jonowymienną. Czysty metal jest otrzymywany przez redukcję tlenku (Yb2O3) lantanem, a następnie sublimację iterbu (który jest dość lotny) z mieszaniny reakcyjnej.",
+      "facts": [
+        "Zegar atomowy – najdokładniejsze zegary na świecie (\"zegary optyczne\") wykorzystują atomy iterbu uwięzione w sieci optycznej (utworzonej przez lasery). Taki zegar spóźniłby się o mniej niż sekundę przez cały wiek Wszechświata. Są one kluczem do przyszłej redefinicji sekundy.",
+        "Lasery iterbowe dużej mocy – iterb jest doskonałą domieszką do ośrodków laserowych (np. Yb:YAG, Yb:włókno). Pozwalają one na budowę laserów przemysłowych o ogromnej mocy i sprawności, używanych do cięcia i spawania grubej stali.",
+        "Iterb jest używany do produkcji stali nierdzewnej, gdzie poprawia jej wytrzymałość i uszlachetnia ziarno. Jest też potencjalnym materiałem na ogniwa słoneczne nowej generacji (konwersja podczerwieni na światło widzialne).",
+        "Odkryty w 1878 roku przez Jeana Charlesa Galissarda de Marignaca. Jest czwartym i ostatnim pierwiastkiem nazwanym na cześć Ytterby (obok itru, terbu i erbu).",
+        "Pod ciśnieniem około 16 tysięcy atmosfer iterb zmienia swoje właściwości z przewodnika na półprzewodnik (wzrost oporu elektrycznego). Jest to unikalna cecha wykorzystywana w czujnikach ciśnienia (tensometrach) do pomiaru fal uderzeniowych w wybuchach podziemnych (np. testach nuklearnych)."
+      ]
+    },
+    {
+      "symbol": "Lu",
+      "name": "LUTET",
+      "atomicNumber": 71,
+      "miningReason": "Lutet jest ostatnim pierwiastkiem z szeregu lantanowców i jednym z najrzadszych i najdroższych metali ziem rzadkich. Występuje w śladowych ilościach w minerałach takich jak monacyt (ok. 0,003%) i ksenotym. Ze względu na zjawisko kontrakcji lantanowców, lutet ma najmniejszy promień jonowy spośród nich, co utrudnia jego separację. Wyodrębnia się go z koncentratów REE na samym końcu procesu, metodą wielostopniowej ekstrakcji lub chromatografii jonowymiennej. Czysty metal otrzymuje się przez redukcję fluorku lutetu (LuF3) wapniem.",
+      "facts": [
+        "Lutet jest najtwardszym i najgęstszym (9,84 g/cm³) ze wszystkich lantanowców. W przeciwieństwie do wielu innych metali z tej grupy, jest stosunkowo odporny na korozję w powietrzu.",
+        "Zastosowania lutetu są limitowane przez jego astronomiczną cenę. Jest używany głównie tam, gdzie jest absolutnie niezbędny, np. jako katalizator w krakingu ropy naftowej oraz w scyntylatorach (detektorach promieniowania) w pozytonowej tomografii emisyjnej (PET), gdzie kryształy krzemianu lutetu (LSO) pozwalają na uzyskanie obrazów o wysokiej rozdzielczości.",
+        "Izotop lutet-177 jest wschodzącą gwiazdą medycyny nuklearnej (teranostyki). Emituje zarówno promieniowanie beta (niszczące guza), jak i gamma (pozwalające na obrazowanie). Jest stosowany w celowanej terapii radionuklidowej nowotworów prostaty i guzów neuroendokrynnych.",
+        "Lutet był ostatnim odkrytym naturalnym pierwiastkiem ziem rzadkich. Odkryli go niezależnie w 1907 roku Georges Urbain, Carl Auer von Welsbach i Charles James.",
+        "Nazwa pochodzi od *Lutetia* – łacińskiej nazwy Paryża, rodzinnego miasta Georgesa Urbaina. Welsbach proponował nazwę *cassiopeium* (od gwiazdozbioru Kasjopei), która była używana w krajach niemieckojęzycznych aż do lat 50. XX wieku."
+      ]
+    },
+    {
+      "symbol": "Ta",
+      "name": "TANTAL",
+      "atomicNumber": 73,
+      "miningReason": "Tantal wydobywa się głównie z koltanu (rudy kolumbitu-tantalitu) oraz tantalitów. Ruda jest kruszona, mielona i wzbogacana metodami grawitacyjnymi i magnetycznymi. Następnie koncentrat poddaje się trawieniu mieszaniną kwasu fluorowodorowego (HF) i siarkowego, co pozwala na rozpuszczenie tantalu i niobu. Rozdzielenie tantalu od niobu następuje w procesie ekstrakcji ciecz-ciecz (np. przy użyciu MIBK). Tantal jest wytrącany jako fluorotantalan potasu (K2TaF7), który następnie jest redukowany stopionym sodem w temperaturze ok. 800°C do postaci metalicznego proszku tantalowego. Proszek ten jest spiekany w sztabki w próżni.",
+      "facts": [
+        "Tantal jest metalem rzadkim i strategicznym, często nazywanym \"krwawym minerałem\" (conflict mineral) – znaczna część światowych zasobów znajduje się w Demokratycznej Republice Konga, gdzie kontrola nad kopalniami była powodem konfliktów zbrojnych. Obecnie wymaga się certyfikacji pochodzenia tantalu.",
+        "Tantal jest kluczowy dla elektroniki – kondensatory tantalowe mają najwyższą pojemność na jednostkę objętości wśród wszystkich kondensatorów elektrolitycznych, co czyni je niezbędnymi w miniaturowych urządzeniach jak smartfony, laptopy i implanty medyczne.",
+        "Tantal jest niezwykle biokompatybilny – nie reaguje z płynami ustrojowymi i nie wywołuje reakcji immunologicznej, dlatego stosuje się go do produkcji implantów kostnych, płytek czaszkowych i stentów. Porowaty tantal pozwala na wrastanie tkanki kostnej.",
+        "Tantal jest bardzo odporny na korozję chemiczną – poniżej 150°C jest prawie całkowicie obojętny chemicznie, ustępując jedynie metalom szlachetnym. Dlatego używa się go do budowy aparatury w przemyśle chemicznym (wymienniki ciepła, reaktory) do pracy z agresywnymi kwasami.",
+        "Nazwa pochodzi od mitycznego Tantala – ze względu na \"męki\", jakie chemicy przeżywali próbując rozpuścić jego rudy w kwasach (Tantal w mitologii stał w wodzie, której nie mógł się napić; ruda tantalu \"stoi\" w kwasie i nie \"pije\" go/nie rozpuszcza się łatwo)."
+      ]
+    },
+    {
+      "symbol": "W",
+      "name": "WOLFRAM",
+      "atomicNumber": 74,
+      "miningReason": "Wolfram wydobywa się głównie z minerałów wolframitu ((Fe,Mn)WO4) i scheelitu (CaWO4). Ruda jest kruszona, mielona i wzbogacana grawitacyjnie oraz przez flotację. Koncentrat jest następnie trawiony ługiem sodowym (NaOH) w autoklawach, tworząc rozpuszczalny wolframian sodu. Z roztworu wolframianu sodu, poprzez wymianę jonową i ekstrakcję, otrzymuje się parawolframian amonu (APT), który jest kluczowym produktem pośrednim. APT praży się do tlenku wolframu (WO3), a następnie redukuje wodorem w temperaturze ok. 800-1000°C do czystego proszku metalicznego. Lity metal uzyskuje się przez spiekanie proszku (metalurgia proszków).",
+      "facts": [
+        "Wolfram ma najwyższą temperaturę topnienia ze wszystkich metali (3422°C) i drugą najwyższą ze wszystkich pierwiastków (po węglu). Dlatego jest używany do produkcji żarników w tradycyjnych żarówkach oraz elektrod do spawania metodą TIG.",
+        "Nazwa \"wolfram\" pochodzi z niemieckiego \"Wolf Rahm\" (wilcza śmietana/piana), co odnosiło się do faktu, że rudy wolframu \"pożerały\" cynę podczas wytapiania (zmniejszały uzysk cyny), jak wilk owcę. Symbol W pochodzi od tej nazwy. W języku angielskim nazywany jest \"Tungsten\" (szwedzkie \"ciężki kamień\").",
+        "Węglik wolframu (WC) jest prawie tak twardy jak diament. Jest głównym składnikiem tzw. \"widi\" (od niem. *wie Diamant*), używanej do produkcji wierteł, narzędzi skrawających i końcówek długopisów.",
+        "Podczas II wojny światowej wolfram był surowcem o krytycznym znaczeniu strategicznym. Portugalia, będąc neutralna, czerpała ogromne zyski sprzedając wolframit obu stronom konfliktu (alianci i państwa Osi), ponieważ był niezbędny do produkcji pocisków przeciwpancernych.",
+        "Wolfram jest stosowany jako bezpieczniejszy zamiennik ołowiu (jest nietoksyczny) i uranu (nieradioaktywny) w zastosowaniach balistycznych oraz jako osłona przed promieniowaniem jonizującym. Jego gęstość jest niemal identyczna jak gęstość złota, co bywa wykorzystywane do fałszowania sztabek złota."
+      ]
+    },
+    {
+      "symbol": "Ti",
+      "name": "TYTAN",
+      "atomicNumber": 22,
+      "miningReason": "Tytan wydobywa się głównie z minerałów: ilmenitu (FeTiO3) i rutylu (TiO2), które występują w piaskach mineralnych. Proces Krolla jest główną metodą otrzymywania metalicznego tytanu. Polega on na chlorowaniu rudy do czterochlorku tytanu (TiCl4), a następnie redukcji magnezem w atmosferze argonu. Powstaje tzw. \"gąbka tytanowa\", która jest następnie przetapiana.",
+      "facts": [
+        "Tytan ma najwyższy stosunek wytrzymałości do masy ze wszystkich metali konstrukcyjnych. Jest tak mocny jak stal, ale o 45% lżejszy.",
+        "Jest niezwykle odporny na korozję, nawet w wodzie morskiej i chlorze, dzięki trwałej warstwie tlenków. Dlatego stosuje się go w instalacjach odsalania wody i okrętach podwodnych.",
+        "Dwutlenek tytanu (TiO2) jest najbielszym znanym pigmentem (\"biel tytanowa\"), używanym w farbach, papierze, tworzywach sztucznych, a nawet w paście do zębów i lukrze do pączków.",
+        "Tytan jest całkowicie biokompatybilny – kość może wrastać w jego porowatą strukturę (osseointegracja), co czyni go idealnym materiałem na implanty dentystyczne i endoprotezy stawów.",
+        "ZSRR przez lata potajemnie skupował tytan z rynków zachodnich (przez podstawione firmy), aby zbudować flotę super-szybkich okrętów podwodnych klasy Alfa, których kadłuby były wykonane ze stopu tytanu."
+      ]
+    },
+    {
+      "symbol": "Zr",
+      "name": "CYRKON",
+      "atomicNumber": 40,
+      "miningReason": "Cyrkon pozyskuje się z piasków mineralnych zawierających cyrkon (krzemian cyrkonu, ZrSiO4) oraz baddeleyit (ZrO2). Głównym wyzwaniem w produkcji metalicznego cyrkonu jest oddzielenie go od hafnu, który zawsze mu towarzyszy i ma niemal identyczne właściwości chemiczne (są to \"bliźniaki chemiczne\"). Czysty cyrkon (bez hafnu) jest niezbędny w energetyce jądrowej i otrzymuje się go również w procesie Krolla.",
+      "facts": [
+        "Ponad 90% produkowanego metalicznego cyrkonu zużywa energetyka jądrowa. Cyrkon (oczyszczony z hafnu) jest idealnym materiałem na koszulki paliwowe w reaktorach, ponieważ jest bardzo wytrzymały, odporny na korozję i prawie w ogóle nie pochłania neutronów.",
+        "Cyrkonia (tlenek cyrkonu, ZrO2) w formie sześciennej jest popularnym syntetycznym kamieniem jubilerskim, doskonale imitującym diament (choć jest od niego cięższa i mniej twarda).",
+        "Minerał cyrkon (ZrSiO4) jest niezwykle trwały i odporny na erozję. Najstarsze znane minerały na Ziemi to kryształy cyrkonu z Australii, datowane na 4,4 miliarda lat, które są \"kapsułami czasu\" z początków naszej planety.",
+        "Cyrkon jest wysoce odporny na korozję w wielu agresywnych środowiskach chemicznych, dlatego stosuje się go w armaturze chemicznej (wymienniki ciepła, zawory).",
+        "Pył cyrkonowy jest silnie łatwopalny (pirofor), co wykorzystywano dawniej w lampach błyskowych, a obecnie w specjalnych efektach pirotechnicznych i amunicji smugowej."
+      ]
+    },
+    {
+      "symbol": "Hf",
+      "name": "HAFN",
+      "atomicNumber": 72,
+      "miningReason": "Hafn nie tworzy własnych złóż – jest zawsze wydobywany jako \"zanieczyszczenie\" rud cyrkonu (stanowi w nich zazwyczaj 1-4%). Ponieważ hafn silnie pochłania neutrony (w przeciwieństwie do cyrkonu), musi zostać usunięty przy produkcji cyrkonu \"jądrowego\". Ten produkt uboczny jest jedynym źródłem hafnu na świecie. Separacja hafnu od cyrkonu jest jednym z najtrudniejszych procesów w chemii przemysłowej, wymagającym wielostopniowej ekstrakcji.",
+      "facts": [
+        "Hafn jest \"anty-cyrkonem\" w świecie jądrowym. Podczas gdy cyrkon przepuszcza neutrony, hafn chłonie je jak gąbka. Dlatego z hafnu buduje się pręty sterujące w reaktorach jądrowych (np. w okrętach podwodnych), które służą do hamowania reakcji.",
+        "Węglik hafnu (HfC) ma najwyższą temperaturę topnienia ze wszystkich znanych materiałów dwuskładnikowych (prawie 4000°C).",
+        "Tlenek hafnu jest kluczowym dielektrykiem w nowoczesnych procesorach (technologia high-k), co pozwoliło na dalszą miniaturyzację tranzystorów poniżej 45 nm, gdy tradycyjny tlenek krzemu przestał wystarczać.",
+        "Izomer jądrowy hafn-178m2 jest badany jako potencjalne źródło energii (bateria jądrowa) lub broni (bomba izomerowa), ponieważ może uwalniać ogromną energię promieniowania gamma na żądanie (choć to wciąż sfera teorii i kontrowersji).",
+        "Nazwa pochodzi od łacińskiej nazwy Kopenhagi (*Hafnia*), gdzie został odkryty w 1923 roku przez Dirka Costera i George'a de Hevesy'ego. Był jednym z ostatnich odkrytych pierwiastków trwałych."
+      ]
+    },
+    {
+      "symbol": "Re",
+      "name": "REN",
+      "atomicNumber": 75,
+      "miningReason": "Ren jest pozyskiwany głównie jako produkt uboczny przy prażeniu koncentratów molibdenu (z rud miedzi). Tlenek renu, który ulatnia się podczas prażenia, jest wychwytywany z gazów, a następnie redukowany wodorem w wysokiej temperaturze do czystego metalu (proszku).",
+      "facts": [
+        "Jest jednym z najrzadszych metali w skorupie ziemskiej i został odkryty jako ostatni z trwałych pierwiastków występujących naturalnie (w 1925 roku).",
+        "Ma drugą (po wolframie) najwyższą temperaturę topnienia wśród metali (3186°C).",
+        "Jest kluczowym składnikiem nadstopów niklowych używanych w silnikach odrzutowych (np. w myśliwcach F-16 czy F-35), gdzie musi wytrzymać ekstremalne temperatury.",
+        "Katalizatory platynowo-renowe są niezbędne w procesie reformingu benzyn, pozwalając na uzyskanie paliwa o wysokiej liczbie oktanowej.",
+        "Polska jest jednym z czołowych producentów renu na świecie (KGHM), odzyskując go z rud miedzi."
+      ]
+    },
+    {
+      "symbol": "Os",
+      "name": "OSM",
+      "atomicNumber": 76,
+      "miningReason": "Osm, podobnie jak ruten, jest metalem szlachetnym z grupy platynowców, pozyskiwanym głównie jako produkt uboczny przy wydobyciu i rafinacji niklu oraz platyny. Występuje naturalnie w stopie z irydem (osmiryd). Podczas elektrorafinacji miedzi i niklu osm gromadzi się w szlamie anodowym. Szlam ten stapia się z nadtlenkiem sodu, a następnie poddaje działaniu chloru gazowego, co powoduje powstanie lotnego czterotlenku osmu (OsO4). Tlenek ten jest wychwytywany w roztworze wodorotlenku sodu, a następnie strącany jako sól i redukowany wodorem do czystego metalu (proszku).",
+      "facts": [
+        "Osm jest najgęstszym naturalnym pierwiastkiem we Wszechświecie – jego gęstość wynosi 22,59 g/cm³, co oznacza, że jest nieznacznie gęstszy od irydu. Kostka osmu o boku 10 cm ważyłaby ponad 22 kg.",
+        "Osm jest najtwardszym metalem z grupy platynowców i niezwykle trudno go obrabiać. Z tego powodu rzadko stosuje się go w czystej postaci – zazwyczaj występuje w stopach o wysokiej odporności na ścieranie (np. końcówki drogich piór wiecznych, igły gramofonowe, osie przyrządów precyzyjnych).",
+        "Czterotlenek osmu (OsO4) jest lotny, silnie toksyczny i ma bardzo nieprzyjemny, ostry zapach (stąd nazwa pierwiastka: gr. *osme* – zapach). Związek ten jest jednak niezwykle ważny w kryminalistyce (do wykrywania odcisków palców) oraz w mikroskopii elektronowej (do barwienia tkanek).",
+        "Odkrycie osmu (1803) przez Smithsona Tennanta miało miejsce w tym samym czasie co irydu. Tennant badał czarny osad, który pozostawał po rozpuszczeniu platyny w wodzie królewskiej – osad ten, wcześniej ignorowany przez chemików jako \"zanieczyszczenie grafitem\", okazał się zawierać dwa nowe metale.",
+        "\"Efekt niebieskiego złota\" – krystaliczny osm ma wyjątkowy, niebiesko-srebrny połysk, odróżniający go od innych szarych metali platynowych. Ze względu na ten wygląd i rzadkość, krystaliczny osm zyskuje na popularności jako ekskluzywny (i bardzo drogi) materiał inwestycyjny i jubilerski."
+      ]
+    },
+    {
+      "symbol": "Ir",
+      "name": "IRYD",
+      "atomicNumber": 77,
+      "miningReason": "Iryd jest jednym z najrzadszych metali w skorupie ziemskiej, wydobywanym jako produkt uboczny przy produkcji niklu i miedzi. Podobnie jak osm, występuje w naturalnych stopach (osmiryd) i nie rozpuszcza się w kwasach, przez co gromadzi się w osadach anodowych. Aby wydzielić iryd, koncentrat platynowców stapia się z nadtlenkiem sodu, co pozwala na przeprowadzenie go w formę rozpuszczalną. Następnie stosuje się skomplikowaną kaskadę procesów chemicznych (m.in. strącanie chlorkiem amonu) w celu oddzielenia go od innych metali szlachetnych. Końcowym etapem jest redukcja wodorowa soli (NH4)2IrCl6 do metalicznego proszku irydowego (gąbki).",
+      "facts": [
+        "Iryd jest metalem o najwyższej odporności na korozję spośród wszystkich znanych pierwiastków. Nie roztwarza go nawet wrząca woda królewska. Jedynym sposobem na jego \"ugryzienie\" jest stopienie z agresywnymi solami (np. NaCl i Cl2 w wysokiej temperaturze).",
+        "Iryd odegrał kluczową rolę w rozwiązaniu zagadki wyginięcia dinozaurów. W warstwach geologicznych z granicy K-Pg (kreda-paleogen) na całym świecie odkryto nienaturalnie wysokie stężenie irydu (tzw. anomalia irydowa). Ponieważ iryd jest rzadki na Ziemi, ale częsty w asteroidach, stało się to głównym dowodem na uderzenie wielkiej planetoidy 66 mln lat temu.",
+        "Wzorzec metra z 1889 roku był wykonany ze stopu platyny z 10% dodatkiem irydu. Dodatek ten zapewniał materiałowi wyjątkową twardość i stabilność, zapobiegając odkształceniom i zarysowaniom wzorca przez dziesięciolecia.",
+        "Iryd ma bardzo wysoką temperaturę topnienia (2446°C) i jest używany w ekstremalnych warunkach, np. do produkcji tygli do hodowli monokryształów (metoda Czochralskiego) oraz w świecach zapłonowych silników wyczynowych i lotniczych, gdzie zapewnia niezawodność iskry.",
+        "Nazwa \"iryd\" pochodzi od Iris – greckiej bogini tęczy. Smithson Tennant nadał mu tę nazwę w 1803 roku, ponieważ sole irydu przybierają wiele różnych, żywych barw (od ciemnoczerwonej, przez zieloną, aż po niebieską) w zależności od stopnia utlenienia i ligandów."
+      ]
+    },
+    {
+      "symbol": "Pt",
+      "name": "PLATYNA",
+      "atomicNumber": 78,
+      "miningReason": "Platyna wydobywana jest ze złóż pierwotnych (RPA, Rosja) oraz wtórnych (aluwialnych). Rudy są kruszone, mielone i wzbogacane metodą flotacji. Koncentrat hutniczy poddaje się wytapianiu w piecach elektrycznych, uzyskując \"matę niklowo-miedziową\" bogatą w metale szlachetne. Rafinacja platyny jest procesem wieloetapowym i czasochłonnym (trwa nawet kilka miesięcy). Koncentrat rozpuszcza się w wodzie królewskiej. Platyna jest wytrącana z roztworu chlorkiem amonu jako żółty osad heksachloroplatynianu amonu ((NH4)2PtCl6). Osad ten jest prażony w temperaturze ok. 800°C, co prowadzi do uzyskania \"gąbki platynowej\" (szarego proszku metalicznego), którą następnie przetapia się w sztabki.",
+      "facts": [
+        "Nazwa pochodzi od hiszpańskiego *platina*, co oznacza \"małe srebro\" (zdrobnienie od *plata*). Hiszpańscy konkwistadorzy w Kolumbii uważali ją za bezwartościowe zanieczyszczenie złota, a nawet fałszerstwo, więc wyrzucali ją do rzek. Dziś jest jednym z najcenniejszych metali.",
+        "Platyna jest standardem w onkologii – cisplatyna (związek platyny) jest jednym z najskuteczniejszych leków w chemioterapii, stosowanym w leczeniu wielu nowotworów (m.in. jąder, jajników). Mechanizm działania polega na wiązaniu się platyny z DNA komórek nowotworowych i blokowaniu ich podziału.",
+        "Platyna w katalizatorach – podobnie jak pallad i rod, jest kluczowa dla motoryzacji (szczególnie w silnikach Diesla). Platyna jest też najlepszym znanym katalizatorem w ogniwach paliwowych (wodorowych), co czyni ją strategicznym surowcem dla przyszłości \"zielonej energii\".",
+        "Platyna jest niezwykle ciągliwa – z jednego grama platyny można wyciągnąć drut o długości ponad 2 kilometrów. Jest też metalem o bardzo wysokiej gęstości (21,45 g/cm³).",
+        "Międzynarodowy Wzorzec Kilograma (\"Le Grand K\") – przechowywany w Sèvres pod Paryżem walec, który przez ponad 130 lat (do 2019 roku) definiował masę kilograma, był wykonany ze stopu platyny (90%) i irydu (10%). Wybrano platynę ze względu na jej chemiczną obojętność i stabilność w czasie."
+      ]
+    },
+    {
+      "symbol": "Au",
+      "name": "ZŁOTO",
+      "atomicNumber": 79,
+      "miningReason": "Złoto pozyskuje się ze złóż pierwotnych lub wtórnych (piaski złotonośne), a także jako produkt uboczny przy rafinacji miedzi (ze szlamu anodowego). Odzyskane złoto jest rafinowane chemicznie (np. metodą Millera z chlorem) lub elektrolitycznie (metoda Wohlwilla) do uzyskania próby 99,99%.",
+      "facts": [
+        "Złoto jest niezwykle kowalne – z jednego grama złota można wyciągnąć drut o długości ponad 2 kilometrów lub rozklepać go na arkusz o powierzchni 1 metra kwadratowego.",
+        "Jest chemicznie bierne i nie utlenia się (nie rdzewieje), dzięki czemu zachowuje blask przez tysiąclecia. Rozpuszcza się jedynie w \"wodzie królewskiej\" (mieszaninie kwasu solnego i azotowego).",
+        "Większość złota wydobytego w całej historii ludzkości (ok. 200 tys. ton) wciąż jest w obiegu. Złoto w twojej obrączce mogło być kiedyś częścią rzymskiej monety.",
+        "W elektronice używa się złota do pokrywania styków, ponieważ (w przeciwieństwie do srebra czy miedzi) nie śniedzieje, zapewniając niezawodne połączenie przez lata.",
+        "Koloidalne złoto ma zastosowanie w medycynie, m.in. w testach diagnostycznych (np. testy ciążowe, testy na COVID-19 często wykorzystują nanocząstki złota jako wskaźnik)."
+      ]
+    },
+    {
+      "symbol": "Hg",
+      "name": "RTĘĆ",
+      "atomicNumber": 80,
+      "miningReason": "Rtęć wydobywana jest głównie z cynobru (siarczku rtęci HgS). Ruda jest kruszona i wzbogacana przez flotację. Rtęć jest jednym z niewielu metali, które można uzyskać przez proste prażenie rudy siarczkowej w strumieniu powietrza. Koncentrat cynobru ogrzewa się w piecach w temperaturze ok. 600-700°C. Siarczek rtęci reaguje z tlenem, tworząc dwutlenek siarki i pary wolnej rtęci. Pary te są przeprowadzane przez system chłodnic (kondensatorów), gdzie skraplają się do postaci ciekłej metalicznej rtęci. Produkt jest oczyszczany przez filtrację i destylację próżniową, osiągając czystość 99,9% lub wyższą.",
+      "facts": [
+        "Rtęć jest jedynym metalem, który w warunkach normalnych jest cieczą (topnieje w -38,8°C). Jest to relatywistyczny efekt kwantowy. Ze względu na wysokie napięcie powierzchniowe tworzy charakterystyczne, toczące się krople.",
+        "Rtęć i jej związki (szczególnie metylortęć) są silnie toksyczne – uszkadzają ośrodkowy układ nerwowy, nerki i wątrobę. Zatrucie rtęcią było przyczyną katastrofy ekologicznej w Zatoce Minamata (Japonia).",
+        "Popyt na rtęć spada – ze względu na toksyczność (Konwencja z Minamaty), wycofuje się ją z termometrów, ciśnieniomierzy i baterii. Nadal jednak używa się jej w procesie elektrolizy membranowej (w starszych instalacjach) oraz w świetlówkach (w parach rtęci wzbudzanych elektrycznie).",
+        "Kopalnia w Almadén (Hiszpania) była największym źródłem rtęci w historii – eksploatowano ją przez ponad 2000 lat, od czasów rzymskich aż do początku XXI wieku. Obecnie jest obiektem dziedzictwa UNESCO.",
+        "Amalgamaty – rtęć ma zdolność rozpuszczania wielu metali (jak złoto, srebro, cyna), tworząc stopy zwane amalgamatami. Amalgamat srebra był przez dziesięciolecia standardowym materiałem do wypełnień stomatologicznych (plomb), a amalgamat sodu jest używany w syntezie organicznej."
+      ]
+    },
+    {
+      "symbol": "Tl",
+      "name": "TAL",
+      "atomicNumber": 81,
+      "miningReason": "Tal pozyskuje się z pyłów powstających przy prażeniu rud siarczkowych miedzi, ołowiu i cynku (tal jest lotny i gromadzi się w filtrach kominowych). Z pyłów odzyskuje się go poprzez ługowanie kwasem i wytrącanie (np. na cynku) lub elektrolizę.",
+      "facts": [
+        "Jest silnie toksycznym metalem ciężkim. Zyskał przydomek \"trucizny trucicieli\" (lub \"pudru spadkowego\"), ponieważ jest bezwonny, bezsmakowy i łatwo rozpuszczalny, co historycznie wykorzystywano w celach przestępczych.",
+        "Zatrucie talem powoduje charakterystyczne wypadanie włosów (łysienie) i uszkodzenie nerwów.",
+        "Dawniej (do lat 70.) siarczan talu był powszechnie stosowany jako trutka na szczury i mrówki.",
+        "Stop talu z rtęcią (amalgamat) pozostaje ciekły nawet w temperaturze -60°C, dlatego stosuje się go w termometrach do niskich temperatur (gdzie zwykła rtęć by zamarzła).",
+        "Nazwa pochodzi od greckiego \"thallos\" (zielona gałązka), od jasnozielonej linii widmowej, dzięki której został odkryty."
+      ]
+    },
+    {
+      "symbol": "Pb",
+      "name": "OŁÓW",
+      "atomicNumber": 82,
+      "miningReason": "Ołów wydobywa się z rud ołowiu i cynku metodą wydobycia odkrywkowego ze złóż siarczków ołowiu, w których głównym minerałem jest galena (PbS) zawierająca 86% ołowiu – ruda jest kruszona, mielona i poddawana flotacji, gdzie ołów jest oddzielany razem z innymi siarczkami do uzyskania koncentratu zawierającego 50-70% ołowiu. Wzbogacony koncentrat ołowiu jest wytapiany w piecu szybowym w temperaturze 1200°C, gdzie siarczki ołowiu są utleniane do stanu metalicznego, a następnie ołów jest rafinowany poprzez elektrolizę w roztworze fluorokrzemianu ołowiu, uzyskując czysty ołów o czystości 99,94%.",
+      "facts": [
+        "Ołów jest pierwiastkiem niezwykle trującym dla ludzi, szczególnie dla dzieci – jony ołowiu (Pb²⁺) bezpośrednio uszkadzają mózg i układ nerwowy, powodując trwałe obniżenie IQ, zaburzenia behawioralne i neurologiczne, dlatego Światowa Organizacja Zdrowia ustanowiła nowe limity ekspozycji ołowiu znacznie poniżej poprzednio pozwalanych poziomów.",
+        "Ołów naturalnie występuje w wielu minerałach siarczkowych i galenie – głównym źródłem ołowiu jest wydobycie z rud ołowiu i cynku, gdzie jego zawartość wynosi 3-10%, jednak ołów pozostaje również jako zanieczyszczenie w wielu innych rudach metali nieżelaznych (miedzi, cynku, molibdenu).",
+        "Ołów ma niski punkt topnienia (327°C) – ta właściwość, połączona z jego wysoką gęstością i odpornością na korozję, czyni go idealnym materiałem do produkcji akumulatorów kwasowo-ołowiowych, które stanowią 80% światowego zużycia ołowiu.",
+        "Historia wydobycia ołowiu sięga starożytności – Rzymianie masowo wydobywali ołów i powszechnie go stosowali w rurach wodociągów (akweduktach), co było jednym z czynników przyczyniających się do upadku Cesarstwa Rzymskiego ze względu na trwałą ekspozycję populacji na ołów powodującą zaburzenia kognitywne.",
+        "Ołów można prawie całkowicie odzyskać z akumulatorów poprzez recykling – zaledwie 1-2% światowego ołowiu trafia do środowiska ze względu na duże znaczenie ekonomiczne recyklingu ołowiu, co czyni go jednym z najczęściej poddawanych recyklingowi metali (>95% recyklingu) wśród wszystkich materiałów."
+      ]
+    },
+    {
+      "symbol": "Bi",
+      "name": "BIZMUT",
+      "atomicNumber": 83,
+      "miningReason": "Bizmut wydobywa się z rud cynku i ołowiu metodą flotacji, gdzie bizmut występuje jako bizmutynit (Bi2S3) – podczas wytapiania rud ołowiu w wielkim piecu bizmut rozpuszcza się w stopionej miedzi i ołowiu ze względu na ich mieszalność metaliczną, a następnie jest oddzielany poprzez selektywne prażenie. Bizmut jest rafinowany poprzez rozpuszczenie jego mieszaniny z ołowiem w azotanie (tworząc azotanowy roztwór bizmutowy), a następnie jest wydzielany poprzez strącanie za pomocą wodoru lub elektrolizę w roztworze chlorkowym na katodzie platynowej, uzyskując czysty bizmut metaliczny o czystości 99,99%.",
+      "facts": [
+        "Bizmut jest pierwszym pierwiastkiem, dla którego zaobserwowano radioaktywność – przez długo uważano, że bizmut jest trwały, jednak w 2003 roku odkryto, że jego jedyny stabilny izotop (²⁰⁹Bi) wykazuje rozpad alfa z okresem półtrwania dłuższym niż wiek Wszechświata (1,9 × 10¹⁹ lat).",
+        "Bizmut ma unikalne właściwości krystaliczne – jego struktura krystaliczna tworzy piękne romboedryczne formy krystaliczne (typu hopper), które naturalny bizmut wydobywany z rud posiada. Są one zbierane przez kolekcjonerów minerałów ze względu na ich geometryczną regularność i błyszczący połysk.",
+        "Bizmut jest głównym materiałem do produkcji materiałów zmiennofazowych – jego topienie i zestalanie się obejmuje znaczną zmianę objętości, dlatego bizmut jest stosowany w wyrobach metalicznych wymagających precyzyjnego zamykania szczelin (bezpieczniki topikowe).",
+        "Historia wydobycia bizmutu sięga XVI wieku – była to jedna z ostatnich grup metali metalicznych odkrytych przez człowieka, począwszy od średniowiecznych alchemików uważających go za „martwy metal\", który nie topnieje prawidłowo.",
+        "Bizmut jest całkowicie nieszkodliwy dla zdrowia człowieka – był głównym składnikiem starych leków żołądkowych (subsalicylanu bizmutu) stosowanych do leczenia zapalenia żołądka i biegunki, co czyni go jednym z najbezpieczniejszych metali dla stosowań medycznych, obecnie wciąż używany w gastroenterologii."
+      ]
+    },
+    {
+      "symbol": "Po",
+      "name": "POLON",
+      "atomicNumber": 84,
+      "miningReason": "Polon-210 (najważniejszy przemysłowo) otrzymuje się w reaktorach jądrowych poprzez bombardowanie bizmutu-209 neutronami. Powstały bizmut-210 rozpada się beta do polonu-210. Polon wydziela się z napromieniowanego bizmutu metodami destylacji próżniowej (wykorzystując lotność polonu) lub elektrochemicznie.",
+      "facts": [
+        "Polon-210 jest ekstremalnie toksyczny radiologicznie – dawka śmiertelna to zaledwie kilka mikrogramów (w przypadku wchłonięcia). Był użyty do otrucia Aleksandra Litwinienki w 2006 roku.",
+        "Z powodu ogromnej emisji energii (140 W/g), próbka polonu samoistnie rozgrzewa się do wysokich temperatur (ponad 500°C w próżni) i świeci niebieskawą poświatą wzbudzonego powietrza.",
+        "Odkryty w 1898 roku przez Marię Skłodowską-Curie i Piotra Curie. Nazwę nadano na cześć Polski, która była wtedy pod zaborami, aby nagłośnić sprawę niepodległości.",
+        "Polon-209 ma najdłuższy czas półtrwania (ok. 125 lat), ale jest trudniejszy do wyprodukowania niż krótkożyciowy Po-210 (138 dni).",
+        "Jest jedynym metalem, który tworzy proste struktury sześcienne w sieci krystalicznej (struktura regularna prosta) w temperaturze pokojowej."
+      ]
+    },
+    {
+      "symbol": "At",
+      "name": "ASTAT",
+      "atomicNumber": 85,
+      "miningReason": "Astat jest jednym z najrzadszych pierwiastków na Ziemi. Powstaje naturalnie w szeregach promieniotwórczych uranu i toru, ale natychmiast ulega rozpadowi. W celach medycznych (Astat-211) produkuje się go w cyklotronach, bombardując tarczę bizmutową cząstkami alfa, a następnie izoluje metodą \"suchej destylacji\".",
+      "facts": [
+        "Całkowita ilość astatu w skorupie ziemskiej szacowana jest na **mniej niż 30 gramów** w danym momencie. Wcześniejszy opis mówił o nanogramach, co jest błędem – nanogramy to ilości laboratoryjne, w skali globu są to gramy.",
+        "Astat jest szóstym z kolei halogenem (grupa 17), ale wykazuje cechy metaliczne (jest półmetalem). Tworzy kationy (At+) łatwiej niż aniony (At-), co odróżnia go od jodu.",
+        "Astat-211 (czas połowicznego rozpadu 7,2 h) jest obiecującym izotopem w terapii antynowotworowej, ponieważ emituje cząstki alfa o krótkim zasięgu, niszcząc komórki rakowe bez uszkadzania otoczenia.",
+        "Nazwa pochodzi od greckiego \"astatos\", co oznacza \"niestabilny\".",
+        "Nigdy nie uzyskano próbki czystego astatu widocznej gołym okiem, ponieważ ciepło rozpadu natychmiast odparowałoby próbkę (szacowana temperatura wrzenia jest niska)."
+      ]
+    },
+    {
+      "symbol": "Rn",
+      "name": "RADON",
+      "atomicNumber": 86,
+      "miningReason": "Radon jest gazem szlachetnym powstającym naturalnie w wyniku rozpadu radu (który pochodzi z uranu) w skałach i glebie. Jako gaz łatwo migruje na powierzchnię i gromadzi się w piwnicach domów. W laboratoriach radon pozyskuje się poprzez przepompowywanie gazu znad roztworów soli radu.",
+      "facts": [
+        "Radon jest drugą (po paleniu tytoniu) najczęstszą przyczyną raka płuc na świecie. Odpowiada za około 3-14% wszystkich przypadków, co jest znacznie wyższą liczbą niż wcześniej sądzono (wcześniej podawano ok. 2%).",
+        "Jest najcięższym znanym gazem w warunkach normalnych (gęstość ok. 9,7 g/l, czyli 8 razy cięższy od powietrza).",
+        "Mimo że jest gazem szlachetnym (biernym chemicznie), radon reaguje z fluorem, tworząc stały fluorek radonu (RnF2), co dowodzi, że \"szlachetność\" maleje wraz ze wzrostem masy atomowej.",
+        "Wody radonowe (zawierające rozpuszczony radon) są stosowane w balneologii (kąpiele lecznicze) w uzdrowiskach, choć ich skuteczność i bezpieczeństwo budzą kontrowersje w środowisku medycznym.",
+        "Radon-222 żyje niecałe 4 dni, ale jego produkty rozpadu (polon, ołów, bizmut) są ciałami stałymi (\"pyłem promieniotwórczym\"), które osiadają w płucach, co stanowi główne zagrożenie."
+      ]
+    },
+    {
+      "symbol": "Fr",
+      "name": "FRANS",
+      "atomicNumber": 87,
+      "miningReason": "Frans powstaje naturalnie w śladowych ilościach w rudach uranu jako produkt rozpadu aktynu-227. Ze względu na krótki czas życia, nie tworzy złóż. Można go wytwarzać sztucznie w akceleratorach (reakcja protonów z torem), ale udało się zebrać zaledwie grupy rzędu kilku milionów atomów (nie ważące nawet nanograma).",
+      "facts": [
+        "Frans-223 jest najstabilniejszym izotopem, ale żyje tylko 22 minuty. To sprawia, że badanie jego właściwości makroskopowych (jak temperatura topnienia) jest niemożliwe.",
+        "Chociaż z trendu w grupie wynika, że powinien być najbardziej aktywnym metalem, efekty relatywistyczne powodują, że elektron walencyjny fransu jest silniej przyciągany przez jądro. Dlatego to **cez**, a nie frans, jest prawdopodobnie najbardziej elektrododatnim pierwiastkiem.",
+        "Całkowita ilość fransu w skorupie ziemskiej w dowolnym momencie szacowana jest na zaledwie 20-30 gramów.",
+        "Frans został odkryty w 1939 roku przez Marguerite Perey w Instytucie Curie w Paryżu. Był ostatnim pierwiastkiem odkrytym w naturze, a nie zsyntezowanym.",
+        "Nazwa pochodzi od Francji. Perey początkowo chciała nazwać go \"catium\" (od kationu), ale nazwa nie przyjęła się, gdyż kojarzyła się z \"cat\" (kot) w angielskim."
+      ]
+    },
+    {
+      "symbol": "Ra",
+      "name": "RAD",
+      "atomicNumber": 88,
+      "miningReason": "Rad występuje naturalnie w rudach uranu (np. blenda smolista), gdzie powstaje z rozpadu uranu-238. Historycznie był mozolnie wyodrębniany chemicznie metodą krystalizacji frakcyjnej chlorków i bromków. Obecnie rad nie jest wydobywany na dużą skalę, a jego zastosowania przemysłowe zostały wyparte przez bezpieczniejsze izotopy (np. kobalt-60, cez-137). Pozyskuje się go głównie z odpadów promieniotwórczych w celach medycznych (produkcja aktynu-225).",
+      "facts": [
+        "Rad-226 (okres półtrwania 1600 lat) był historycznym standardem aktywności promieniotwórczej (1 Curie = aktywność 1 grama radu-226).",
+        "Odkrycie radu przez małżonków Curie w 1898 roku zapoczątkowało erę radiochemii. Maria Curie wydzieliła czysty metaliczny rad dopiero w 1910 roku.",
+        "Słynne \"świecenie radu\" w zegarkach to efekt radioluminescencji – promieniowanie radu pobudzało do świecenia dodany do farby siarczek cynku. Sam czysty rad świeci słabo na niebiesko (jonizacja powietrza).",
+        "Rad odkłada się w kościach (podobnie jak wapń), co prowadziło do tragicznych chorób u \"radium girls\" – pracownic malujących tarcze zegarków w latach 20. XX wieku.",
+        "Obecnie rad-223 (jako chlorek radu) jest stosowany w medycynie nuklearnej (lek Xofigo) do leczenia przerzutów nowotworowych do kości, wykorzystując jego podobieństwo do wapnia."
+      ]
+    },
+    {
+      "symbol": "Ac",
+      "name": "AKTYN",
+      "atomicNumber": 89,
+      "miningReason": "Aktyn występuje naturalnie w rudach uranu (jako produkt rozpadu U-235), ale w celach przemysłowych/medycznych jest częściej produkowany poprzez napromieniowanie radu-226 neutronami w reaktorach. Chemicznie aktyn jest prototypem grupy aktynowców, wykazując silne podobieństwo do lantanu (zawsze stopień utlenienia +3), co utrudnia ich separację.",
+      "facts": [
+        "Aktyn-227 (główny izotop) jest mylący – w 99% ulega rozpadowi beta, emitując elektrony, a tylko w 1% rozpada się przez alfa. Jednak jego produkty rozpadu (np. tor-227, rad-223) są bardzo silnymi emiterami alfa.",
+        "Nazwa pochodzi od greckiego \"aktis\" (promień), ponieważ pierwiastek ten silnie świeci w ciemności niebieskim światłem (silna radioluminescencja wywołana wysoką aktywnością właściwą).",
+        "Aktyn jest około 150 razy bardziej aktywny niż rad, co czyni go niezwykle groźnym źródłem promieniowania i ciepła.",
+        "Aktyn-225 (krótkożyciowy, 10 dni) jest obecnie \"świętym graalem\" onkologii – stosuje się go w celowanej terapii alfa (TAT) do niszczenia komórek rakowych z niezwykłą precyzją, oszczędzając zdrowe tkanki.",
+        "Odkryty w 1899 roku przez André-Louisa Debierne'a, przyjaciela i współpracownika Marii Curie."
+      ]
+    },
+    {
+      "symbol": "Th",
+      "name": "TOR",
+      "atomicNumber": 90,
+      "miningReason": "Tor jest metalem promieniotwórczym, wydobywanym głównie z monacytu (fosforanu metali ziem rzadkich i toru). Monacyt jest produktem ubocznym wydobycia tytanu i cyrkonu z piasków mineralnych. Koncentrat monacytowy trawi się w gorącym stężonym kwasie siarkowym lub ługu sodowym. Tor jest oddzielany od lantanowców poprzez selektywne strącanie (np. jako szczawian lub wodorotlenek) oraz ekstrakcję rozpuszczalnikową. Czysty metal otrzymuje się przez redukcję tlenku lub fluorku toru wapniem (kalciotermia).",
+      "facts": [
+        "Tor jest potencjalnym paliwem jądrowym przyszłości. W cyklu torowym izotop ²³²Th pochłania neutron i przekształca się w rozszczepialny uran-233. Reaktory torowe (np. na ciekłych solach - MSR) mogą być bezpieczniejsze, produkować mniej odpadów radioaktywnych i być trudniejsze do wykorzystania w celach militarnych niż tradycyjne reaktory uranowe. Indie, posiadające duże złoża toru, intensywnie rozwijają tę technologię.",
+        "\"Koszulki Auera\" – tlenek toru (z dodatkiem 1% ceru) ma niezwykłą zdolność do emisji jasnego białego światła po podgrzaniu (inkandescencja). Był masowo stosowany w siatkach żarowych (koszulkach) do lamp gazowych i naftowych, oświetlających ulice miast w XIX i XX wieku.",
+        "Elektrody torowane – dodatek tlenku toru do elektrod wolframowych (używanych w spawaniu TIG) ułatwia zajarzenie łuku elektrycznego i zwiększa jego stabilność. Ze względu na słabą radioaktywność, obecnie zastępuje się je elektrodami lantanowymi.",
+        "Tor jest bardzo rozpowszechniony – jest go w skorupie ziemskiej około 3-4 razy więcej niż uranu, tyle samo co ołowiu. Zwykła garść ziemi z ogródka może zawierać śladowe ilości toru.",
+        "Nazwa pochodzi od Thora – nordyckiego boga piorunów. Został odkryty w 1828 roku przez szwedzkiego chemika Jönsa Jakoba Berzeliusa w minerale otrzymanym z Norwegii (torycie). Ze względu na bardzo długi czas połowicznego rozpadu (14 miliardów lat), tor jest pierwiastkiem pierwotnym, wciąż obecnym na Ziemi od czasu jej powstania."
+      ]
+    },
+    {
+      "symbol": "Pa",
+      "name": "PROTAKTYN",
+      "atomicNumber": 91,
+      "miningReason": "Protaktyn występuje w rudach uranu w stężeniach rzędu 1 ppm (część na milion). Jest produktem rozpadu uranu-235 (szereg aktynowy), a nie uranu-238 (jak większość produktów). Izolacja protaktynu jest niezwykle trudna ze względu na jego tendencję do hydrolizy i tworzenia koloidów w roztworach, co sprawia, że \"przykleja się\" do aparatury (stąd dawne problemy z jego badaniem).",
+      "facts": [
+        "Protaktyn-231 (okres półtrwania 32 760 lat) jest jedynym izotopem dostępnym w ilościach makroskopowych z naturalnych źródeł.",
+        "Protaktyn-233 (okres półtrwania 27 dni) odgrywa kluczową rolę w cyklu paliwowym torowym. Powstaje z toru-232 i musi rozpaść się do uranu-233, aby paliwo stało się rozszczepialne.",
+        "Nazwa pochodzi od greckiego \"protos\" (pierwszy) i \"actinium\" (aktyn), ponieważ protaktyn rozpada się do aktynu.",
+        "Został przewidziany przez Mendelejewa (jako \"eka-tantal\") i odkryty niezależnie przez dwa zespoły (Hahn/Meitner w Niemczech oraz Soddy/Cranston w Wlk. Brytanii) w 1917/1918 roku.",
+        "Cena protaktynu jest astronomiczna i wynosi tysiące dolarów za gram, głównie ze względu na brak zastosowań komercyjnych i trudność separacji. Jest badany głównie w kontekście energetyki jądrowej opartej na torze."
+      ]
+    },
+    {
+      "symbol": "Np",
+      "name": "NEPTUN",
+      "atomicNumber": 93,
+      "miningReason": "Neptun-237 (najważniejszy izotop) powstaje w reaktorach jądrowych głównie jako produkt uboczny reakcji (n,2n) na uranie-238 (tworząc U-237, który rozpada się do Np-237) lub poprzez wychwyt neutronów przez uran-235 i uran-236. Neptun-237 jest wydzielany z wypalonego paliwa jądrowego w procesie przerobu (np. PUREX), gdzie oddziela się go od uranu i plutonu, zazwyczaj poprzez ekstrakcję rozpuszczalnikową tributylofosforanem.",
+      "facts": [
+        "Neptun-237 ma okres półtrwania wynoszący 2,14 miliona lat. Jest to pierwszy pierwiastek transuranowy, odkryty w 1940 roku przez McMillana i Abelsona.",
+        "Neptun jest kluczowym materiałem wyjściowym (prekursorem) do produkcji plutonu-238 (poprzez napromieniowanie neutronami), który jest niezbędny w generatorach RTG dla misji kosmicznych (np. Voyager, Perseverance).",
+        "W roztworach wodnych neptun wykazuje bogatą chemię, występując na stopniach utlenienia od +3 do +7, przy czym najstabilniejszy jest zazwyczaj +5 (jako jon NpO2+), co wyróżnia go spośród innych aktynowców.",
+        "Neptun-237, mimo że jest odpadem radioaktywnym, ze względu na długi czas życia i mobilność w środowisku, stanowi istotny element analizy bezpieczeństwa składowisk odpadów jądrowych.",
+        "Nazwa pierwiastka pochodzi od planety Neptun, analogicznie jak Uran (od planety Uran) i Pluton (od planety Pluton), zachowując kolejność w Układzie Słonecznym."
+      ]
+    },
+    {
+      "symbol": "Pu",
+      "name": "PLUTON",
+      "atomicNumber": 94,
+      "miningReason": "Pluton-239 wytwarza się w reaktorach jądrowych poprzez bombardowanie neutronami uranu-238. Powstaje uran-239, który szybko rozpada się beta do neptunu-239, a ten z kolei rozpada się do plutonu-239. Cały proces zajmuje kilka dni. Pluton wydziela się z wypalonego paliwa reaktora na skalę przemysłową głównie w procesie PUREX, wykorzystując różnice w stopniach utlenienia plutonu i uranu do ich chemicznej separacji.",
+      "facts": [
+        "Pluton-239 jest kluczowym izotopem rozszczepialnym, używanym zarówno w broni jądrowej, jak i jako paliwo (MOX) w energetyce jądrowej, ze względu na wysoki przekrój czynny na rozszczepienie.",
+        "Pluton jest metalem o bardzo nietypowych właściwościach fizycznych – posiada aż sześć alotropowych odmian w ciele stałym, które różnią się gęstością nawet o 25%, co sprawia, że jego obróbka jest niezwykle trudna.",
+        "Półperiod rozpadu plutonu-239 wynosi 24 110 lat. Jest emiterem cząstek alfa, co czyni go niebezpiecznym głównie w przypadku wchłonięcia do organizmu (toksyczność radiologiczna i chemiczna).",
+        "Pluton-238 (inny izotop) dzięki wysokiej emisji ciepła (ok. 0,56 W/g) podczas rozpadu alfa, jest niezastąpionym paliwem w radioizotopowych generatorach termoelektrycznych (RTG) zasilających sondy kosmiczne dalekiego zasięgu.",
+        "Pluton wykazuje w roztworach wodnych cztery stopnie utlenienia (+3, +4, +5, +6) i może występować na wszystkich czterech jednocześnie w równowadze chemicznej, co jest unikatem w chemii."
+      ]
+    },
+    {
+      "symbol": "Am",
+      "name": "AMERYK",
+      "atomicNumber": 95,
+      "miningReason": "Ameryk wytwarza się w reaktorach jądrowych poprzez sekwencję pochwytu neutronów przez uran-238. Powstający pluton-239 wychwytuje kolejne neutrony, tworząc pluton-241, który ulega rozpadowi beta do ameryku-241. Ameryk rafinuje się z paliwa jądrowego poprzez procesy ekstrakcji rozpuszczalnikowej, gdzie rozdzielany jest od plutonu za pomocą specjalnych żywic jonowymiennych w niskich temperaturach.",
+      "facts": [
+        "Ameryk-241 jest najczęściej produkowanym izotopem ameryku w ilości kilku kilogramów rocznie i stanowi główny element detekcyjny w czujnikach dymu.",
+        "Jeden gram ameryku-241 emituje promieniowanie alfa na poziomie około 3,43 Curie'ego, co czyni go idealnym źródłem dla detektorów dymu o bardzo niskim poborze.",
+        "Cena ameryku-241 wynosi około 1500 USD za gram, a jego produkcja wymaga skomplikowanego procesu separacji chemicznej.",
+        "Ameryk może być również wykorzystywany jako źródło neutronów przy połączeniu z berylem w urządzeniach diagnostycznych i pomiarowych.",
+        "Półperiod rozpadu ameryku-241 wynosi 432,6 lat, co czyni go stosunkowo długowiecznym izotopem na skalę radioaktywności."
+      ]
+    },
+    {
+      "symbol": "Cm",
+      "name": "KIUR",
+      "atomicNumber": 96,
+      "miningReason": "Kiur-244 wytwarza się w reaktorach jądrowych poprzez napromieniowanie mieszaniny izotopów plutonu neutronami, co prowadzi do serii wychwytów neutronów i rozpadów beta, kończących się syntezą kiuru. Kiur wydzielany jest z produktów rozpadu za pośrednictwem ekstrakcji rozpuszczalnikowej i metod jonowymiennych w zakładach przetwarzania paliwa jądrowego.",
+      "facts": [
+        "Kiur-244 ma wysoką gęstość mocy (około 2,8 W/g), co czyni go potencjalnym źródłem energii dla kompaktowych generatorów termoelektrycznych, choć jego silna emisja neutronów utrudnia zastosowanie.",
+        "Okres półtrwania kiuru-244 wynosi 18,1 lat, co jest wystarczające dla misji kosmicznych średniego czasu trwania.",
+        "Kiur emituje znacznie więcej neutronów spontanicznych niż pluton-238, co wymaga znacznie grubszych osłon radiacyjnych, ograniczając jego praktyczne zastosowanie w pobliżu ludzi i delikatnej elektroniki.",
+        "Kiur-242 (inny izotop) jest trudny w produkcji i krótkożyciowy (163 dni), ale ma bardzo wysoką moc cieplną (120 W/g).",
+        "Kiur został odkryty w 1944 roku przez Glenna T. Seaborga i jego zespół, a nazwany został na cześć Marii Skłodowskiej-Curie i Piotra Curie."
+      ]
+    },
+    {
+      "symbol": "Bk",
+      "name": "BERKEL",
+      "atomicNumber": 97,
+      "miningReason": "Berkel-249 otrzymuje się w reaktorach o dużym potoku neutronów poprzez intensywne napromieniowanie kiuru-244. Proces polega na wielokrotnym wychwycie neutronów przez jądra kiuru, aż do powstania izotopów ulegających rozpadowi beta, w wyniku czego powstaje berkel. Berkel izoluje się z produktów rozpadu za pomocą chromatografii jonowymiennej i ekstrakcji rozpuszczalnikowej, a następnie oczyszcza poprzez wieloetapowe procedury separacyjne trwające często wiele tygodni.",
+      "facts": [
+        "Od 1967 roku w Stanach Zjednoczonych wyprodukowano zaledwie nieco ponad 1 gram berkelu w całej historii, co czyni go jednym z najrzadszych pierwiastków wytwarzanych syntetycznie.",
+        "Berkel-249 ma okres półtrwania 330 dni i emituje niskoenergetyczne cząstki beta. Choć samo promieniowanie beta jest łatwe do osłonienia, produkt jego rozpadu (kaliforn-249) jest silnym emiterem alfa, co z czasem zwiększa zagrożenie radiologiczne.",
+        "Berkel jest wykorzystywany głównie jako materiał tarczowy do syntezy jeszcze cięższych pierwiastków, takich jak tennessin, w akceleratorach cząstek.",
+        "Główne światowe źródło berkelu znajduje się w Oak Ridge National Laboratory w Tennessee, gdzie produkcja miligramowych ilości wymaga wielomiesięcznego napromieniowania.",
+        "Berkel wykazuje w roztworach wodnych głównie stopnie utlenienia +3 i +4, co upodabnia go chemicznie do ceru i terbu, umożliwiając separację od innych aktynowców (które często występują tylko na +3)."
+      ]
+    },
+    {
+      "symbol": "Cf",
+      "name": "KALIFORN",
+      "atomicNumber": 98,
+      "miningReason": "Kaliforn-252 wytwarza się w reaktorach o wysokim strumieniu neutronów (np. HFIR w Oak Ridge) poprzez długotrwałe napromieniowanie tarczy z kiuru lub berkelu. Proces wymaga wielokrotnego wychwytu neutronów i rozpadów beta. Kaliforn wydzielany jest z napromieniowanych tarcz w tzw. \"gorących komorach\" (hot cells) ze względu na silną radioaktywność, przy użyciu wysokociśnieniowej chromatografii jonowymiennej.",
+      "facts": [
+        "Kaliforn-252 jest niezwykle cennym izotopem komercyjnym ze względu na zdolność do spontanicznego rozszczepienia. Mikrogramowa ilość tego izotopu emituje miliony neutronów na sekundę, działając jak przenośny reaktor.",
+        "Okres półtrwania kalifornu-252 wynosi 2,645 lat. Jest on kluczowym elementem w analizie aktywacyjnej neutronami (PGNAA), służącej do badania składu węgla, cementu czy rud metali w czasie rzeczywistym.",
+        "Kaliforn jest wykorzystywany w przenośnych wykrywaczach metali i wilgotności, a także do prześwietlania części samolotów w poszukiwaniu mikrouszkodzeń i korozji.",
+        "W medycynie kaliforn-252 był badany jako źródło neutronów do terapii nowotworów (terapia neutronowa), szczególnie w leczeniu glejaków i raka szyjki macicy, choć metoda ta jest rzadka.",
+        "Światowa produkcja kalifornu-252 wynosi zaledwie kilkaset miligramów rocznie, a jego cena jest astronomiczna, sięgająca dziesiątek milionów dolarów za gram (sprzedawany jest w mikrogramach)."
+      ]
+    },
+    {
+      "symbol": "Es",
+      "name": "EINSTEIN",
+      "atomicNumber": 99,
+      "miningReason": "Einstein jest najcięższym pierwiastkiem, który można wyprodukować w ważalnych (makroskopowych) ilościach, choć wymaga to lat intensywnego napromieniowania neutronami w reaktorach badawczych. Einstein wydzielany jest z produktów reakcji poprzez skomplikowane procesy ekstrakcji i chromatografii elucyjnej, gdzie oddziela się go od lżejszych aktynowców, często wykorzystując różnice w kinetyce tworzenia kompleksów.",
+      "facts": [
+        "Einstein został odkryty w 1952 roku w opadzie promieniotwórczym po wybuchu pierwszej bomby wodorowej \"Ivy Mike\" na Pacyfiku. Powstał w ułamku sekundy w wyniku błyskawicznego wychwytu wielu neutronów przez uran, a nie metodą \"atom po atomie\".",
+        "Einstein-253 (okres półtrwania 20,5 dnia) jest najczęściej badanym izotopem. Einstein wykazuje w roztworach głównie stopień utlenienia +3, ale w stanie stałym obserwowano również +2 (stabilizacja powłoki f).",
+        "Einstein jest wykorzystywany niemal wyłącznie jako materiał tarczowy (cel) do produkcji najcięższych pierwiastków (jak mendelew, nobel, lorens) w akceleratorach cząstek.",
+        "Ze względu na krótki czas życia i wysoką radioaktywność, krystaliczna sieć metalicznego einsteinu ulega szybkiemu zniszczeniu przez własne promieniowanie, co utrudnia badania jego struktury (twardości, gęstości).",
+        "Nazwa pierwiastka jest hołdem dla Alberta Einsteina, choć on sam nie miał związku z jego odkryciem. Jest to ostatni pierwiastek wytwarzany przez sekwencyjny wychwyt neutronów."
+      ]
+    },
+    {
+      "symbol": "Fm",
+      "name": "FERM",
+      "atomicNumber": 100,
+      "miningReason": "Ferm-257 jest najcięższym izotopem, który może być wytwarzany poprzez bombardowanie neutronami lżejszych aktynowców w reaktorach o dużym strumieniu neutronów. Proces ten wymaga wielokrotnego wychwytu neutronów i rozpadów beta. Ferm wytwarzany jest w reaktorach takich jak High Flux Isotope Reactor (HFIR) w Oak Ridge i wydzielany w ilościach rzędu nanogramów lub pikogramów poprzez skomplikowane procedury separacji chemicznej na kationitach.",
+      "facts": [
+        "Ferm jest ostatnim pierwiastkiem, który może być otrzymywany metodą wychwytu neutronów, jednak w przeciwieństwie do Einsteina, nie udaje się go uzyskać w ilościach makroskopowych (ważalnych), co ogranicza badania do metod śladowych.",
+        "Ferm-257 ma okres półtrwania wynoszący 100,5 dni, co pozwala na prowadzenie badań chemicznych, w przeciwieństwie do wielu cięższych pierwiastków.",
+        "Metaliczny ferm nigdy nie został uzyskany w czystej formie stałej; wszystkie badania jego właściwości opierają się na śladowych ilościach w roztworach lub fazie gazowej.",
+        "Ferm-258 ulega natychmiastowemu spontanicznemu rozszczepieniu (okres półtrwania 370 mikrosekund). Zjawisko to, znane jako \"ściana fermu\", uniemożliwia produkcję cięższych pierwiastków w reaktorach jądrowych.",
+        "Roczna światowa produkcja fermu-257 wynosi zaledwie kilka nanogramów, a materiał ten jest bezcenny dla nauki jako cel do produkcji nobla i lorensu."
+      ]
+    },
+    {
+      "symbol": "Md",
+      "name": "MENDELEW",
+      "atomicNumber": 101,
+      "miningReason": "Mendelew otrzymuje się w akceleratorach cząstek poprzez bombardowanie tarczy z einsteinu-253 cząstkami alfa (jądrami helu). Jest to pierwszy pierwiastek, którego synteza wymagała techniki \"pojedynczych atomów\". Mendelew izoluje się z produktów reakcji metodami chromatograficznymi, wykorzystując fakt, że mendelew (w przeciwieństwie do wcześniejszych aktynowców) bardzo chętnie redukuje się do stopnia utlenienia +2.",
+      "facts": [
+        "Mendelew był pierwszym pierwiastkiem odkrytym metodą \"atom-at-a-time\" (atom po atomie) w 1955 roku. Odkrywcy (zespół Ghiorso) identyfikowali pierwiastek na podstawie chemicznego zachowania zaledwie 17 atomów.",
+        "Mendelew-256 ma okres półtrwania 77 minut, ale najstabilniejszy izotop, mendelew-258, żyje około 51 dni, co teoretycznie pozwalałoby na szersze badania, gdyby można go było wyprodukować w większej ilości.",
+        "Mendelew wykazuje w roztworach wodnych stabilny stopień utlenienia +2, co było zaskoczeniem dla chemików. Właściwość ta wynika z dążenia do uzyskania stabilnej konfiguracji połówkowej 5f14 (dla jonu Md2+ jest to 5f13, ale efekt stabilizujący jest silny).",
+        "Nie udało się nigdy uzyskać metalicznego mendelewu w ilości pozwalającej na zbadanie go \"gołym okiem\" – jest to pierwiastek czysto badawczy.",
+        "Nazwa upamiętnia Dmitrija Mendelejewa, twórcę Układu Okresowego, który przewidział istnienie nieodkrytych pierwiastków, choć nie przewidział aktynowców w obecnej formie."
+      ]
+    },
+    {
+      "symbol": "No",
+      "name": "NOBEL",
+      "atomicNumber": 102,
+      "miningReason": "Nobel otrzymuje się wyłącznie w akceleratorach cząstek, najczęściej poprzez bombardowanie izotopów kiuru jonami węgla-12. W wyniku fuzji powstają niestabilne jądra nobla i neutrony. Nobel wydzielany jest z produktów reakcji metodami szybkiej chemii \"atom-at-a-time\" (pojedynczych atomów), często z wykorzystaniem jego unikalnej stabilności na +2 stopniu utlenienia, co pozwala na łatwe oddzielenie od innych aktynowców (zazwyczaj +3).",
+      "facts": [
+        "Nobel został po raz pierwszy pewnie zidentyfikowany w 1958 roku w Berkeley, choć wcześniej roszczenia zgłaszał instytut w Sztokholmie (stąd nazwa, która ostatecznie została zaakceptowana przez IUPAC, mimo że odkrycie przypisano Amerykanom).",
+        "Najstabilniejszy izotop, nobel-259, ma okres półtrwania około 58 minut, jednak w badaniach chemicznych częściej wykorzystuje się nobel-255 (okres półtrwania 3 minuty) ze względu na łatwiejszą syntezę.",
+        "W przeciwieństwie do innych aktynowców, nobel w roztworach wodnych jest najbardziej stabilny na stopniu utlenienia +2 (a nie +3). Wynika to z bardzo stabilnej, całkowicie wypełnionej podpowłoki 5f14.",
+        "Nobel jest wykorzystywany wyłącznie w badaniach podstawowych nad właściwościami jąder atomowych i relatywistycznymi efektami w chemii.",
+        "Jest to 102. pierwiastek, nazwany na cześć Alfreda Nobla, fundatora nagrody Nobla i wynalazcy dynamitu."
+      ]
+    },
+    {
+      "symbol": "Lr",
+      "name": "LAWRENC",
+      "atomicNumber": 103,
+      "miningReason": "Lawrenc wytwarza się wyłącznie w akceleratorach jonów ciężkich, zazwyczaj poprzez bombardowanie tarczy z kalifornu izotopami boru (np. ¹¹B lub ¹⁰B). Jest to proces fuzji jądrowej, w którym powstają krótkożyciowe izotopy lawrencu i neutrony. Lawrenc izoluje się metodami szybkiej chemii gazowej lub cieczowej (chromatografia), wykorzystując jego właściwości typowe dla trójwartościowych aktynowców, co pozwala oddzielić go od lżejszych pierwiastków.",
+      "facts": [
+        "Lawrenc jest ostatnim pierwiastkiem z serii aktynowców (zamyka blok f). Jego konfiguracja elektronowa i właściwości chemiczne są przedmiotem debat, czy powinien być umieszczany w bloku d (pod lutetem), czy f.",
+        "Lawrenc-266 jest jednym z najstabilniejszych izotopów z okresem półtrwania około 11 godzin, co jest ewenementem wśród tak ciężkich jąder i pozwala na bardziej zaawansowane badania chemiczne niż w przypadku wielu sąsiadów.",
+        "W roztworach wodnych lawrenc występuje wyłącznie na stopniu utlenienia +3. Próby redukcji do +2 lub utlenienia do +4 nie powiodły się, co potwierdza \"aktynowcowy\" charakter tego pierwiastka.",
+        "Eksperymenty potwierdziły, że prawo lorenca zachowuje się jak cięższy homolog lutetu, co ma kluczowe znaczenie dla układu okresowego.",
+        "Został odkryty w 1961 roku w Lawrence Berkeley National Laboratory (LBNL) przez zespół Alberta Ghiorso i nazwany na cześć Ernesta Lawrence'a, wynalazcy cyklotronu."
+      ]
+    },
+    {
+      "symbol": "Rf",
+      "name": "RUTHERFORD",
+      "atomicNumber": 104,
+      "miningReason": "Rutherford syntetyzowany jest w akceleratorach cząstek, np. poprzez bombardowanie tarczy z kalifornu-249 jonami węgla-12 (tworząc Rf-257) lub plutonu-242 jonami neonu-22. Rutherford jest pierwszym pierwiastkiem \"transaktynowcowym\" (grupa 4, pod hafnem). Jego izolacja i identyfikacja opierają się na szybkiej chemii gazowej (tworzenie lotnych chlorków RfCl4) i detekcji produktów rozpadu.",
+      "facts": [
+        "Rutherford-267 jest jednym z najstabilniejszych znanych izotopów tego pierwiastka, z okresem półtrwania wynoszącym około 1,3 godziny.",
+        "Chemicznie rutherford zachowuje się jak typowy przedstawiciel 4. grupy (tytanowce), wykazując podobieństwo do hafnu i cyrkonu, np. tworząc stabilne kompleksy chlorkowe, co potwierdza budowę układu okresowego.",
+        "Odkrycie rutherfordu było przedmiotem sporu \"Zimnej Wojny\" między laboratoriami w Dubnej (ZSRR) a Berkeley (USA). Ostatecznie nazwę nadano na cześć Ernesta Rutherforda w 1997 roku.",
+        "Synteza rutherfordu jest trudna ze względu na konkurencję między fuzją a rozszczepieniem jądra (fission), co sprawia, że wydajność reakcji jest bardzo niska.",
+        "Jest to pierwszy pierwiastek, w którym efekty relatywistyczne zaczynają mieć mierzalny, choć subtelny wpływ na właściwości chemiczne (tzw. kontrakcja orbitali s i p)."
+      ]
+    },
+    {
+      "symbol": "Db",
+      "name": "DUBN",
+      "atomicNumber": 105,
+      "miningReason": "Dubn syntetyzowany jest w akceleratorach cząstek, np. w reakcji \"gorącej fuzji\" ameryku-243 z jonami neonu-22 lub w reakcji berkelu-249 z jonami tlenu-18. Dubn jest badany chemicznie metodami chromatografii gazowej (jako lotne chlorki lub bromki) oraz ekstrakcji cieczowej, co pozwala potwierdzić jego przynależność do grupy 5 (wanadowce).",
+      "facts": [
+        "Dubn-268 jest wyjątkowym izotopem – powstaje jako produkt rozpadu moskowu (element 115) i wykazuje okres półtrwania rzędu kilkunastu do kilkudziesięciu godzin (ok. 16-30 h), co jest rekordem w tej strefie tablicy Mendelejewa.",
+        "Dubn należy do grupy 5 (wanad, niob, tantal) i wykazuje właściwości zbliżone do tantalu, choć efekty relatywistyczne sprawiają, że jego kompleksy zachowują się nieco inaczej niż lżejszych homologów.",
+        "Odkrycie dubnu było przedmiotem długoletniego sporu. W 1968 roku ZSRR ogłosił odkrycie (nazwano go \"nielsbohr\"), a w 1970 roku USA (\"hahnium\"). Dopiero w 1997 roku IUPAC ustalił nazwę \"dubn\".",
+        "Synteza wymaga precyzyjnego doboru energii wiązki jonów (pocisku), aby zmaksymalizować szansę fuzji i zminimalizować ryzyko rozszczepienia powstałego jądra.",
+        "Nazwa pochodzi od rosyjskiego miasta naukowego Dubna (pod Moskwą), siedziby Zjednoczonego Instytutu Badań Jądrowych (JINR), gdzie odkryto wiele superciężkich pierwiastków."
+      ]
+    },
+    {
+      "symbol": "Sg",
+      "name": "SEABORG",
+      "atomicNumber": 106,
+      "miningReason": "Seaborg syntetyzowany jest zazwyczaj w procesie \"zimnej fuzji\", poprzez bombardowanie tarczy z ołowiu-208 jonami chromu-54, lub \"gorącej fuzji\" z użyciem cięższych tarcz aktynowcowych (np. kaliforn + neon). Seaborg jest badany głównie metodami chemii pojedynczych atomów w fazie gazowej (np. tworzenie oksychlorków SgO2Cl2), co pozwala na separację od produktów ubocznych.",
+      "facts": [
+        "Najstabilniejsze izotopy seaborga (np. Sg-269, Sg-271) mają okresy półtrwania rzędu kilku minut, co jest wystarczające do przeprowadzenia prostych eksperymentów chemicznych potwierdzających jego przynależność do grupy 6.",
+        "Seaborg jest chemicznym homologiem wolframu i molibdenu. Eksperymenty potwierdziły, że tworzy lotne związki podobne do wolframu, zachowując się zgodnie z przewidywaniami układu okresowego.",
+        "Odkrycie w 1974 roku było wspólnym sukcesem laboratoriów w Berkeley i Dubnej, choć nazwa wywołała kontrowersje, gdyż Glenn Seaborg żył w momencie jej nadania (co było wówczas bezprecedensowe).",
+        "Synteza seaborga wymaga precyzyjnego doboru energii pocisku (wiązki), aby przezwyciężyć odpychanie kulombowskie, ale nie doprowadzić do natychmiastowego rozpadu wzbudzonego jądra złożonego.",
+        "Jest to pierwszy pierwiastek nazwany na cześć żyjącego naukowca, co zostało oficjalnie zaakceptowane przez IUPAC po burzliwej debacie (tzw. \"wojny transfermowe\")."
+      ]
+    },
+    {
+      "symbol": "Bh",
+      "name": "BOHR",
+      "atomicNumber": 107,
+      "miningReason": "Bohr jest syntetyzowany w akceleratorach ciężkich jonów, klasycznie w reakcji \"zimnej fuzji\" bizmutu-209 z jonami chromu-54, co prowadzi do powstania bohra-262 (lub 261) i emisji neutronu. Chemia bohra jest badana z użyciem szybkich technik termochromatografii gazowej, gdzie tworzy lotne oksychlorki (BhO3Cl), podobnie jak ren.",
+      "facts": [
+        "Bohr-270 (powstający z rozpadu cięższych pierwiastków lub w reakcji Bk+Ne) jest jednym z bardziej stabilnych izotopów, z czasem życia rzędu minuty, co potwierdza teorię o stabilizującym wpływie liczby neutronów N=162.",
+        "Bohr należy do grupy 7 (manganowce) i jest chemicznym homologiem renu. Eksperymenty potwierdziły, że jego lotność i właściwości są zgodne z trendami w grupie.",
+        "Został odkryty w 1981 roku w GSI w Darmstadt (Niemcy) przez zespół Petera Armbrustera i Gottfrieda Münzenberga.",
+        "Nazwa upamiętnia Nielsa Bohra, twórcę modelu budowy atomu. Była to nazwa wcześniej proponowana dla pierwiastka 105 (przez sowietów), ale ostatecznie przypadła pierwiastkowi 107.",
+        "Synteza bohra wymagała niezwykle czułych detektorów, gdyż przekrój czynny (prawdopodobieństwo) reakcji jest bardzo mały, a czas życia produktu krótki."
+      ]
+    },
+    {
+      "symbol": "Hs",
+      "name": "HAS",
+      "atomicNumber": 108,
+      "miningReason": "Has jest syntetyzowany w akceleratorach, np. poprzez bombardowanie ołowiu-208 jonami żelaza-58 (\"zimna fuzja\") lub w reakcjach z magnezem-26 i kiurem-248 (\"gorąca fuzja\"). Has jest badany chemicznie jako niezwykle lotny tetratlenek (HsO4), który osadza się na detektorach w bardzo niskich temperaturach, co pozwala na jego oddzielenie i identyfikację.",
+      "facts": [
+        "Has-270 (posiadający 108 protonów i 162 neutrony) jest izotopem o podwyższonej stabilności (okres półtrwania do 30 s), co potwierdza istnienie tzw. \"zdeformowanej powłoki magicznej\" dla N=162.",
+        "Chemicznie has jest homologiem osmu i rutenu (grupa 8). Jak przewidywano, tworzy lotny tlenek HsO4, podobnie jak osm tworzy OsO4, co było wielkim sukcesem chemii superciężkiej.",
+        "Odkryty w 1984 roku w GSI w Darmstadt. Nazwa pochodzi od łacińskiej nazwy Hesji (Hassia), kraju związkowego w Niemczech, gdzie leży Darmstadt.",
+        "Eksperymenty chemiczne z hasem przeprowadzono przy użyciu zaledwie kilku atomów, które mimo krótkiego życia zdążyły zareagować z tlenem i przemieścić się do detektora.",
+        "Synteza hasu i badanie jego właściwości dostarczyły jednych z najmocniejszych dowodów na to, że układ okresowy zachowuje swoją strukturę (podział na grupy) nawet dla tak ciężkich elementów."
+      ]
+    },
+    {
+      "symbol": "Mt",
+      "name": "MEITNER",
+      "atomicNumber": 109,
+      "miningReason": "Meitner jest syntetyzowany w akceleratorach, np. w reakcji zimnej fuzji bizmutu-209 z jonami żelaza-58. Powstaje meitner-266 (lub inne izotopy) i neutron. Meitner jest pierwszym pierwiastkiem, którego właściwości chemiczne nie zostały jeszcze eksperymentalnie potwierdzone w sposób jednoznaczny, ze względu na krótki czas życia i trudności w znalezieniu lotnych związków.",
+      "facts": [
+        "Najstabilniejszy izotop, meitner-278, ma okres półtrwania rzędu kilku sekund (ok. 4-7 s), co teoretycznie pozwalałoby na szybką chemię, ale do tej pory nie udało się przeprowadzić udanej separacji chemicznej.",
+        "Meitner należy do grupy 9 (kobaltowce) i powinien być homologiem irydu (i rodu). Przewiduje się, że będzie metalem szlachetnym, ale bardzo trudnym do utlenienia.",
+        "Odkryty w 1982 roku w GSI w Darmstadt. Nazwę nadano w 1997 roku na cześć Lise Meitner, współodkrywczyni rozszczepienia jądrowego, która przez lata była pomijana przez Komitet Noblowski.",
+        "Synteza meitneru wymagała użycia bardzo intensywnych wiązek jonów, a wykrycie opierało się na obserwacji pojedynczych zdarzeń (atomów) w ciągu wielu dni eksperymentu.",
+        "Jest to jedyny pierwiastek nazwany wyłącznie na cześć kobiety-naukowca (Curium upamiętnia też Piotra Curie), co stanowi ważny symbol w nauce."
+      ]
+    },
+    {
+      "symbol": "Ds",
+      "name": "DARMSZTADT",
+      "atomicNumber": 110,
+      "miningReason": "Darmsztadt syntetyzowany jest w akceleratorach jonów ciężkich, np. w reakcji ołowiu-208 z jonami niklu-62, co prowadzi do powstania darmsztadtu-269. Ze względu na bardzo krótki czas życia większości izotopów, badania chemiczne darmsztadtu są niezwykle trudne, ale przewiduje się, że jest homologiem platyny.",
+      "facts": [
+        "Darmsztadt-281 (produkt rozpadu kopernika) jest najstabilniejszym znanym izotopem, żyjącym około 10-12 sekund. Izotopy powstające bezpośrednio w syntezie (np. Ds-269) żyją ułamki milisekund.",
+        "Pierwiastek ten należy do grupy 10 (niklowce) i powinien zachowywać się jak szlachetny metal, podobnie do platyny i palladu.",
+        "Odkryty w 1994 roku w GSI w Darmstadt. Nazwa pochodzi bezpośrednio od nazwy miasta, co jest rzadkim przypadkiem (obok Dubnu i Moskowu).",
+        "Synteza darmsztadtu charakteryzuje się niezwykle małym przekrojem czynnym (rzędu pikobarnów), co oznacza, że zderzenia prowadzące do fuzji są ekstremalnie rzadkie.",
+        "Badania nad darmsztadtem pomogły w zrozumieniu granic stabilności jąder atomowych i drogi do tzw. \"Wyspy Stabilności\" (wokół liczby neutronów N=184)."
+      ]
+    },
+    {
+      "symbol": "Rg",
+      "name": "RENTGEN",
+      "atomicNumber": 111,
+      "miningReason": "Rentgen syntetyzowany jest w akceleratorach, np. poprzez bombardowanie tarczy z bizmutu-209 jonami niklu-64. Powstaje rentgen-272 i neutron. Nie przeprowadzono jeszcze rozstrzygających eksperymentów chemicznych z rentgenem, ale teoretycznie jest on homologiem złota.",
+      "facts": [
+        "Rentgen-282 ma okres półtrwania rzędu 2 minut, co czyni go jednym z kandydatów do przyszłych badań chemicznych.",
+        "Należy do grupy 11 (miedziowce) i powinien być metalem szlachetnym. Obliczenia kwantowe sugerują, że w wyniku efektów relatywistycznych może być nawet bardziej szlachetny (mniej reaktywny) od złota i mieć srebrzysty kolor.",
+        "Odkryty w 1994 roku w GSI w Darmstadt. Nazwany na cześć Wilhelma Conrada Röntgena w setną rocznicę odkrycia promieni X.",
+        "Zaledwie garstka atomów rentgenu została kiedykolwiek wytworzona, co sprawia, że nasza wiedza o nim opiera się głównie na modelach teoretycznych i obserwacji rozpadu alfa.",
+        "Rentgen może teoretycznie tworzyć związki na stopniach utlenienia +3 i +5 (obok typowego dla grupy +1), co wynika z relatywistycznej destabilizacji podpowłoki 5d."
+      ]
+    },
+    {
+      "symbol": "Cn",
+      "name": "KOPERNIK",
+      "atomicNumber": 112,
+      "miningReason": "Kopernik jest syntetyzowany w akceleratorach w reakcji \"zimnej fuzji\", bombardując tarczę ołowiu-208 jonami cynku-70. Powstaje kopernik-277 i neutron. Badania chemiczne (termochromatografia) wykazały, że kopernik jest ekstremalnie lotnym metalem, zachowującym się niemal jak gaz szlachetny, co potwierdza silne efekty relatywistyczne.",
+      "facts": [
+        "Kopernik-285 (produkt rozpadu flerowa) jest jednym z najtrwalszych izotopów, z okresem półtrwania około 29 sekund.",
+        "Należy do grupy 12 (cynkowce), będąc homologiem rtęci. Jednak w przeciwieństwie do rtęci, wiązania metaliczne w koperniku są tak słabe, że w temperaturze pokojowej jest on prawdopodobnie gazem lub bardzo lotną cieczą.",
+        "Odkryty w 1996 roku w GSI (Darmstadt) przez zespół Sigurda Hofmanna. Nazwę nadano w 2010 roku na cześć Mikołaja Kopernika, podkreślając zmianę naszego obrazu świata (podobnie jak fizyka jądrowa zmieniła obraz materii).",
+        "Eksperymenty chemiczne wykazały, że atom kopernika słabo oddziałuje nawet ze złotem (na którym inne metale łatwo osiadają), co sugeruje zamkniętą powłokę elektronową 6d¹⁰7s².",
+        "Jest pierwszym pierwiastkiem, dla którego eksperymentalnie potwierdzono tak drastyczne odstępstwa od trendów w grupie wynikające z teorii względności."
+      ]
+    },
+    {
+      "symbol": "Nh",
+      "name": "NIHON",
+      "atomicNumber": 113,
+      "miningReason": "Nihon syntetyzowany jest w akceleratorach poprzez bombardowanie tarczy z bizmutu-209 jonami cynku-70 (\"zimna fuzja\"). Jest to proces niezwykle rzadki, wymagający lat eksperymentów do uzyskania pojedynczych atomów. Nihon jest pierwszym pierwiastkiem z grupy 13 (borowce), dla którego efekty relatywistyczne mogą drastycznie zmienić właściwości, czyniąc go mniej reaktywnym od talu, a może nawet zachowującym się inaczej niż typowe metale.",
+      "facts": [
+        "Nihon-286 (powstający z rozpadu tennessinu) ma czas życia rzędu 10-20 sekund, co jest znaczną wartością w tej strefie. Izotop Nh-278 (bezpośrednia synteza) żyje milisekundy.",
+        "Jest pierwszym pierwiastkiem odkrytym w Azji. Zespół RIKEN (Japonia) pod kierunkiem Kosuke Mority prowadził eksperymenty przez prawie dekadę, uzyskując zaledwie 3 pewne atomy w latach 2004-2012.",
+        "Nazwa \"Nihon\" to jeden z dwóch sposobów powiedzenia \"Japonia\" po japońsku (dosłownie \"Kraj Wschodzącego Słońca\").",
+        "Chemicznie nihon powinien występować na stopniu utlenienia +1 (stabilizacja pary s²) i +3, wykazując pewne podobieństwa do talu, ale prawdopodobnie o większej lotności.",
+        "Odkrycie nihonu wymagało ogromnej determinacji – prawdopodobieństwo zajścia reakcji jest jednym z najmniejszych w historii znanych syntez jądrowych."
+      ]
+    },
+    {
+      "symbol": "Fl",
+      "name": "FLEROW",
+      "atomicNumber": 114,
+      "miningReason": "Flerow syntetyzowany jest w reakcji \"gorącej fuzji\" (przełomowa metoda z Dubnej), polegającej na bombardowaniu tarczy z plutonu-244 wiązką wapnia-48. Powstaje flerow-289 (lub inne izotopy) i kilka neutronów. Badania chemiczne sugerują, że flerow jest najmniej reaktywnym pierwiastkiem w grupie 14, wykazując właściwości bardziej zbliżone do gazów szlachetnych niż do ołowiu.",
+      "facts": [
+        "Flerow-289, z czasem życia rzędu 2-3 sekund, znajduje się na zboczu teoretycznej \"Wyspy Stabilności\". Jego stosunkowo długi czas życia umożliwił pierwsze badania chemiczne pierwiastków superciężkich nowej generacji.",
+        "Należy do grupy 14 (węglowce), ale efekty relatywistyczne (stabilizacja orbitali p1/2) sprawiają, że może być \"gazowym metalem\", słabo wiążącym się z innymi substancjami.",
+        "Odkryty w 1999 roku w Zjednoczonym Instytucie Badań Jądrowych w Dubnej (Rosja). Nazwa upamiętnia Laboratorium Reakcji Jądrowych im. Flerowa (FLNR) i jego założyciela Gieorgija Flerowa.",
+        "Użycie wiązki wapnia-48 (izotop podwójnie magiczny, bogaty w neutrony) było kluczem do sukcesu syntezy flerowa i otwarcia drogi do pierwiastków 114-118.",
+        "Eksperymenty adsorpcji flerowa na złocie dały niejednoznaczne wyniki – pierwiastek ten jest lotny i słabo reaktywny chemicznie."
+      ]
+    },
+    {
+      "symbol": "Mc",
+      "name": "MOSKOW",
+      "atomicNumber": 115,
+      "miningReason": "Moskow jest wytwarzany w reakcji ameryku-243 z jonami wapnia-48. Jest to proces gorącej fuzji, dający izotopy moskowu-287, 288, 289 lub 290. Moskow jest badany głównie metodami fizycznymi (obserwacja łańcuchów rozpadu alfa do nihonu), choć planowane są eksperymenty chemiczne mające potwierdzić jego podobieństwo do bizmutu.",
+      "facts": [
+        "Moskow-290, wytwarzany pośrednio (z rozpadu tennessinu), ma czas życia rzędu 0,6-0,8 sekundy, co daje nadzieję na przyszłe badania chemiczne.",
+        "Należy do grupy 15 (azotowce). Przewiduje się, że będzie zachowywał się jak bizmut, ale z silniejszą tendencją do stopnia utlenienia +1 (zamiast typowego +3 lub +5).",
+        "Odkryty w 2003 roku przez zespół z Dubnej (Rosja) przy współpracy z Amerykanami. Nazwa pochodzi od obwodu moskiewskiego (Moskowia), gdzie leży miasto Dubna.",
+        "Ciekawostką popkulturową jest, że \"pierwiastek 115\" (moskow) był od lat 80. bohaterem teorii spiskowych o UFO (jako rzekome paliwo), zanim został oficjalnie zsyntetyzowany przez naukę. Oczywiście prawdziwy moskow jest zbyt nietrwały, by pełnić taką rolę.",
+        "Synteza moskowu była ważnym krokiem w potwierdzaniu istnienia nowych izotopów nihonu (jako produktu rozpadu)."
+      ]
+    },
+    {
+      "symbol": "Lv",
+      "name": "LIWERMOR",
+      "atomicNumber": 116,
+      "miningReason": "Liwermor powstaje w reakcji gorącej fuzji kiuru-248 z jonami wapnia-48. W wyniku fuzji tworzy się liwermor-293 (lub 292) i neutrony. Ze względu na krótki czas życia (milisekundy), nie przeprowadzono jeszcze udanych eksperymentów chemicznych w fazie gazowej, ale przewiduje się, że jest homologiem polonu.",
+      "facts": [
+        "Liwermor-293 żyje około 50-60 milisekund i rozpada się przez emisję alfa do flerowa-289. Jest to bezpośredni dowód na powiązanie tych dwóch pierwiastków w łańcuchu rozpadu.",
+        "Należy do grupy 16 (tlenowce). Powinien być metalem podobnym do polonu, ale jeszcze bardziej metalicznym.",
+        "Odkryty w 2000 roku we współpracy rosyjsko-amerykańskiej (JINR Dubna i Lawrence Livermore National Laboratory).",
+        "Nazwa pochodzi od miasta Livermore w Kalifornii, siedziby LLNL, które odegrało kluczową rolę w odkrywaniu pierwiastków superciężkich i dostarczaniu rzadkich materiałów tarczowych (jak kiur czy berkel).",
+        "Synteza liwermoru była kolejnym potwierdzeniem skuteczności reakcji z wapniem-48, umacniając pozycję Dubnej jako lidera w tej dziedzinie na początku XXI wieku."
+      ]
+    },
+    {
+      "symbol": "Ts",
+      "name": "TENNESSIN",
+      "atomicNumber": 117,
+      "miningReason": "Tennessin jest syntetyzowany w reakcji gorącej fuzji, poprzez bombardowanie unikalnej tarczy z berkelu-249 wiązką jonów wapnia-48. Berkel do tej reakcji produkowany jest tylko w jednym miejscu na świecie (Oak Ridge). Ze względu na krótki czas życia, nie przeprowadzono badań chemicznych, ale modele teoretyczne wskazują, że tennessin nie zachowuje się jak typowy halogen.",
+      "facts": [
+        "Znane izotopy tennessinu (Ts-293 i Ts-294) żyją ułamki sekund (odpowiednio ok. 20 ms i 50 ms), co jest sprzeczne z dawnymi nadziejami na \"kilkusekundową\" stabilność w tym rejonie, ale wystarcza do detekcji.",
+        "Choć należy do grupy 17 (fluorowce), tennessin prawdopodobnie nie tworzy jonów ujemnych (-1) jak fluor czy chlor. Efekty relatywistyczne sprawiają, że ma charakter metaliczny i preferuje stopnie utlenienia +1 lub +3.",
+        "Nazwa upamiętnia stan Tennessee, gdzie znajdują się kluczowe ośrodki badań jądrowych (Oak Ridge National Laboratory, Vanderbilt University, UT Knoxville), które współpracowały przy odkryciu.",
+        "Synteza tennessinu jest logistycznym koszmarem – tarcza z berkelu-249 ma okres półtrwania tylko 330 dni, co wymusza błyskawiczne przeprowadzenie eksperymentu zaraz po jej wyprodukowaniu.",
+        "Jest drugim (po astatcie) pierwiastkiem grupy 17, który nie ma stabilnych izotopów, ale jego właściwości są znacznie bardziej odległe od \"klasycznych\" halogenów niż astatu."
+      ]
+    },
+    {
+      "symbol": "Og",
+      "name": "OGANESON",
+      "atomicNumber": 118,
+      "miningReason": "Oganeson syntetyzowany jest w reakcji gorącej fuzji, poprzez bombardowanie tarczy z kalifornu-249 jonami wapnia-48. W wyniku zderzenia powstaje oganeson-294 i 3-4 neutrony. Ze względu na ekstremalnie krótki czas życia (poniżej milisekundy), nie przeprowadzono badań chemicznych, ale obliczenia kwantowe przewidują rewolucyjne właściwości fizyczne.",
+      "facts": [
+        "Choć oganeson znajduje się w grupie 18 (gazy szlachetne), obliczenia teoretyczne sugerują, że w warunkach normalnych jest **ciałem stałym** (półprzewodnikiem), a nie gazem.",
+        "Ogromne efekty relatywistyczne powodują, że powłoki elektronowe oganesonu zlewają się w jedną \"rozmytą chmurę\" (tzw. gaz Fermiego), tracąc klasyczną strukturę powłokową znaną z lżejszych pierwiastków.",
+        "Jest najcięższym znanym pierwiastkiem (Z=118), zamykającym 7. okres układu okresowego.",
+        "Nazwa honoruje Jurija Oganessiana, żyjącą legendę fizyki jądrowej z Dubnej, który kierował zespołami odkrywającymi większość superciężkich pierwiastków.",
+        "Oganeson jest ekstremalnie niestabilny (czas półtrwania ok. 0,7 ms), co sprawia, że badania nad nim są na granicy możliwości współczesnej fizyki. Wyprodukowano zaledwie garstkę atomów w historii."
+      ]
+    }
+  ]
+}
