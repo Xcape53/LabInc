@@ -1,80 +1,110 @@
 # LabInc: Chemical Tycoon
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-LabInc to zaawansowana gra symulacyjna typu incremental/idle, w której zarządzasz kopalniami i fabrykami chemicznymi, budując imperium przemysłowe. Rozpocznij od prostej kopalni węgla i rozwijaj się przez 16 progresywnie odblokowywanych fabryk, aż do reaktora jądrowego produkującego pierwiastki syntetyczne!
+Gra symulacyjna typu incremental/idle, w której zarządzasz kopalniami i fabrykami chemicznymi. Rozpocznij od prostej kopalni węgla i rozwijaj się przez 16 fabryk, aż do reaktora jądrowego produkującego pierwiastki syntetyczne.
 
 ---
 
 ## Spis treści
 
-* [O Projekcie](#o-projekcie)
-* [Główne Funkcjonalności](#główne-funkcjonalności)
-* [Zrzuty Ekranu](#zrzuty-ekranu)
+* [O projekcie](#o-projekcie)
+* [Funkcjonalności](#funkcjonalności)
 * [Technologie](#technologie)
+* [Uruchomienie](#uruchomienie)
+* [Credits](#credits)
 * [Kontakt](#kontakt)
 
 ---
 
-## O Projekcie
+## O projekcie
 
-**LabInc: Chemical Tycoon** to gra edukacyjno-strategiczna łącząca mechanikę incremental games z nauką chemii. Zamiast tradycyjnego klikania, gracz zarządza złożonym systemem produkcji 118 pierwiastków chemicznych, od podstawowego węgla po egzotyczny oganeson.
+**LabInc: Chemical Tycoon** to gra edukacyjno-strategiczna łącząca mechanikę incremental games z nauką chemii. Gracz zarządza systemem produkcji 118 pierwiastków chemicznych – od podstawowego węgla po oganeson.
 
-### Główna idea gry:
-
-Rozpoczynając od **Kopalni Węgla**, gracz automatycznie produkuje surowce, które może sprzedawać za pieniądze. Za zgromadzony kapitał kupuje upgrade'y fabryk, zwiększając mnożniki produkcji. Osiągnięcie odpowiedniego tier'u odblokowuje kolejne fabryki - od Szybu Naftowego, przez Kriogeniczną Destylację Powietrza, aż po Reaktor Jądrowy z 35 tier'ami pierwiastków syntetycznych!
+Rozpoczynając od Kopalni Węgla, gracz automatycznie produkuje surowce do sprzedaży. Za zgromadzony kapitał kupuje ulepszenia fabryk, zwiększając mnożniki produkcji. Odpowiedni poziom odblokowuje kolejne fabryki – od Szybu Naftowego, przez Kriogeniczną Destylację Powietrza, aż po Reaktor Jądrowy.
 
 **Kluczowe cechy:**
-- **16 fabryk** z unikalną produkcją
-- **118 pierwiastków** chemicznych
-- **Wykładniczy wzrost** od $0.01 do $10^27
-- **18 osiągnięć** do odblokowania
-- **System save/load** - zapisz postęp w każdej chwili
+- 16 fabryk z unikalną produkcją
+- 118 pierwiastków chemicznych
+- Wykładniczy wzrost od $0.01 do $10^35
+- 18 osiągnięć do odblokowania
+- System zapisu i wczytywania gry
 
 ---
 
-## Główne Funkcjonalności
+## Funkcjonalności
 
-### Wersja Python (Symulacja):
-- **placeholder** - placeholder
+### System produkcji
+- Automatyczne wydobycie surowców z kopalń
+- Przetwarzanie materiałów w fabrykach chemicznych
+- Progresywne odblokowywanie nowych obiektów
 
-### Wersja Java (GUI):
-- **placeholder** - placeholder
+### Interfejs
+- Nowoczesny ciemny motyw GUI
+- Panele: Wydobycie, Fabryki, Rynek, Ulepszenia, Osiągnięcia
+- Animowane efekty i dźwięki
+- Automatyczny i ręczny zapis gry
+
+### Balans gry
+- Starannie wyważone koszty i mnożniki
+- Długoterminowa progresja gracza
 
 ---
 
-## Zrzuty Ekranu
+## Zrzuty ekranu
 
-### Wstępny Projekt Interfejsu Graficznego
+### Interfejs gry
 ![wydobycie_podglad](docs/wydobycie_podglad.png)
-
-### Wykres Symulacji (Python)
-![placeholder](placeholder.png)
-*Wykres pokazujący wzrost pieniędzy, przychodu i upgrade'y wszystkich fabryk*
 
 ---
 
 ## Technologie
 
-### Python Stack:
-- **Python 3.8+** - Język programowania
-- **NumPy** - Obliczenia numeryczne, obsługa dużych liczb (do 10^27)
-- **Matplotlib** - Wizualizacja wykresów symulacji
-- **JSON** - Format konfiguracji gry
+### Java Stack
+- **Java 8+** – język programowania
+- **Swing** – framework GUI
+- **Maven 3.6+** – build system
+- **Java Serialization** – system zapisu (.dat)
 
-### Java Stack:
-- **Java 11+** - Język programowania
-- **Swing** - Framework GUI
-- **Maven 3.6+** - Build system i dependency management
-- **Java Serialization** - System zapisu gry (.dat format)
+### Biblioteki
+- **JNA** – integracja z systemem operacyjnym
+- **Batik** – obsługa plików SVG
+- **MP3SPI/JLayer** – odtwarzanie dźwięków
 
-### Narzędzia deweloperskie:
-- **Git** - Kontrola wersji
-- **IntelliJ IDEA** - IDE dla Java
-- **PyCharm** - IDE dla Python
+---
+
+## Uruchomienie
+
+### Wymagania
+- Java 8 lub nowsza
+- Maven 3.6+
+
+### Kompilacja i uruchomienie
+```bash
+# Kompilacja
+mvn clean package
+
+# Uruchomienie
+java -jar target/labinc-game-1.0.0-jar-with-dependencies.jar
+```
+
+Lub użyj skryptu:
+```bash
+compile-and-run.bat
+```
+
+---
+
+## Credits
+
+### Kod
+- **Piotr Jeleniewicz** – autor projektu
+- Wsparcie AI: **Claude Opus 4.5, Gemini 3 Pro**
+
+### Dźwięk
+- Muzyka: **Suno AI**
+- Efekty dźwiękowe: **Ja**, **Soundly**
 
 ---
 
@@ -86,7 +116,6 @@ Rozpoczynając od **Kopalni Węgla**, gracz automatycznie produkuje surowce, kt�
 - GitHub: [@Xcape53](https://github.com/Xcape53)
 
 **Link do projektu:** [https://github.com/Xcape53/LabInc](https://github.com/Xcape53/LabInc)
-
 
 <div align="center">
 
